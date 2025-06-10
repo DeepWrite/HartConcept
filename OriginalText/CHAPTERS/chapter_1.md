@@ -1,3 +1,11 @@
+---
+title: I. PERSISTENT QUESTIONS
+layout: home
+nav_order: 1
+parent: 강의자료-원문
+permalink: /book-original/chapter_01
+---
+
 # **I PERSISTENT QUESTIONS**
 
 ## **1. PERPLEXITIES OF LEGAL THEORY**
