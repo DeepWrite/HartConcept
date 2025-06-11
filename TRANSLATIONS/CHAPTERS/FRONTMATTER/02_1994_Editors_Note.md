@@ -22,4 +22,5 @@ permalink: /book-translation/chapter_00/1994_Editors_Note
 
 우리는 하트가 더 오랜 시간이 주어졌다면 본문을 더욱 다듬고 개선하였을 것이라는 점에 의심의 여지가 없다고 생각한다. 그러나 이번에 출판된 후기(postscript)는 드워킨의 여러 논변에 대한 하트의 신중한 응답을 담고 있다고 우리는 믿는다.
 
-페넬로페 A. 불로흐 (Penelope A. Bulloch) 조셉 라즈 (Joseph Raz) 1994
+**페넬로페 A. 불로흐 (Penelope A. Bulloch) 조셉 라즈 (Joseph Raz)** 
+1994
