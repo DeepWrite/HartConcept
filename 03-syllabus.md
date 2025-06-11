@@ -59,8 +59,8 @@ H. L. A. Hart의 『법의 개념』은 20세기 법철학의 고전으로, 법�
 | 3 | 법은 명령인가? | 조별 토론 | 법과 명령은 어떻게 구분되는가? Austin 이론의 한계는 무엇인가? | II. Laws, Commands, and Orders |
 | 4 | 다양한 법의 형태들 | 토론 중심 | 모든 법은 동일한 구조를 갖는가? 민법, 형법, 헌법의 차이는? | III. The Variety of Laws |
 | 5 | 주권자와 수범자 | 개념도 제작 | ‘주권’이란 무엇인가? 법은 누구의 명령인가? | IV. Sovereign and Subject |
-| 6 | 1차/2차 규칙 | 도표 제작 | 규칙들의 분류 | V. Law as the Union of Primary and Secondary Rules |
-| 7 | 승인규칙 | 심화 토론 | ‘인식 규칙’은 법체계의 무엇을 보장하는가? | VI. Foundations of a Legal System |
+| 6 | 1차 규칙과 2차 규칙의 결합 | 도표 제작 | 규칙들의 분류 | V. Law as the Union of Primary and Secondary Rules |
+| 7 | 법체계의 기초 - **인식 규칙** | 심화 토론 | ‘인식 규칙’은 법체계의 무엇을 보장하는가? | VI. Foundations of a Legal System |
 | 8 | 형식주의와 규칙회의주의 | 모의 판결 | 법해석의 불확실성과 재량의 문제는? 판사는 법을 만드는가? | VII. Formalism and Rule-Scepticism |
 | 9 | 법과 정의, 도덕 | 비교 분석 | 정의와 법적 절차는 어떻게 관련되는가? 도덕과 법은 같지 않지만 완전히 분리될 수 있는가? | VIII. Justice and Morality |
 | 10 | 법과 도덕의 관계 | 토론 중심 | Hart는 소위 ‘자연법론’에 왜 비판적인가? 법의 권위는 도덕과 어떤 관계인가? | IX. Laws and Morals |
