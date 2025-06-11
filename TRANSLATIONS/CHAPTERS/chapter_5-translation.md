@@ -1,12 +1,12 @@
 ---
-title: V. 법: 1차 규칙과 2차 규칙의 결합으로서의 개념 
+title: V. 1차 규칙과 2차 규칙의 결합으로서의 법 
 layout: home
 nav_order: 5
 parent: 강의자료-번역
 permalink: /book-translation/chapter_05
 ---
 
-# V. 법: 1차 규칙과 2차 규칙의 결합으로서의 개념
+# V. 1차 규칙과 2차 규칙의 결합으로서의 법
 
 ## 1. 새로운 출발
 
