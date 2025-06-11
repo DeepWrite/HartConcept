@@ -6,10 +6,10 @@ nav_order: 1
 permalink: /
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; height: 60vh; text-align: center; font-style: italic; font-size: 1rem; line-height: 1.6; padding: 1rem;">
-  <blockquote> "다른 중요한 책들과 마찬가지로, 
-  하트의 책도 실제로 읽은 것보다는 풍문(rumour)을 통해 알려진 경우가 많다. ... 
-  그들이 들은 바에 따르면, 하트는 다음과 같은 생각을 가진 사람처럼 보인다: 
+<div style="display: flex; justify-content: center; align-items: center; height: 60vh; text-align: center; font-style: font-size: 1rem; line-height: 1.6; padding: 1rem;">
+  <blockquote> "다른 중요한 책들과 마찬가지로, <br> 
+  하트의 책도 실제로 읽은 것보다는 풍문(rumour)을 통해 알려진 경우가 많다. ... <br> 
+  그들이 들은 바에 따르면, 하트는 다음과 같은 생각을 가진 사람처럼 보인다: <br> 
   법은 폐쇄적인 논리 체계인가? 
   법은 다른 사회질서가 가진 결함을 치유하는 하나의 사회적 성취인가? 
   법은 대체로 명확하며, 법원은 도덕적 가치와 무관하게 이를 적용해야 하는가? 
