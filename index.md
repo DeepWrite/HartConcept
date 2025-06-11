@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; height: 80vh; padding: 2rem;">
-  <div style="max-width: 800px; font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif; position: relative; padding-left: 1.5rem; border-left: 4px solid #bbb;">
+  <div style="max-width: 800px; font-family: Georgia, serif; position: relative; padding-left: 1.5rem; border-left: 4px solid #bbb;">
     <div style="font-size: 2.8rem; line-height: 1; color: #aaa; position: absolute; left: -0.7rem; top: -1rem;">❝</div>
     <blockquote style="margin: 0; font-style: normal; font-size: 1.15rem; line-height: 1.8; color: #222;">
       다른 중요한 책들과 마찬가지로,<br>
