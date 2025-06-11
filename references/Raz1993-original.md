@@ -2,7 +2,7 @@
 title: (원문) JOSEPH RAZ, H. L. A. Hart (1907-1992)
 layout: home
 nav_order: 1
-parent: 강의 보조자료
+parent: 주요 참고문헌
 permalink: /references/RAZ
 ---
 

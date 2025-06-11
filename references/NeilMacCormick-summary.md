@@ -2,7 +2,7 @@
 title: (요약) Neil MacCormick, H.L.A. Hart (2nd ed., 2008)
 layout: home
 nav_order: 3
-parent: 강의 보조자료
+parent: 주요 참고문헌
 permalink: /references/MacCormick-summary
 ---
 

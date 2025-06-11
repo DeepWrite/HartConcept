@@ -155,4 +155,4 @@ permalink: /book-translation/chapter_00/2012_INTRODUCTION
 [^51]: For the suggestion that the subject ended up going too far in the direction of applied moral philosophy, see Jeremy Waldron, '*Political* Political Theory: An Oxford Inaugural Lecture', <http://ssrn.com/abstract=2060344>. 
 [^52]: Ronald Dworkin, *Law's Empire* 1. 
 [^53]: Ronald Dworkin, 'Does Law Have a Function? A Comment on the Two-Level Theory of Decision' (1965) 74 *Yale Law Journal* 640. 
-[^54] David Hume, 'My Own Life' in his *Essays*, *Moral, Political and Literary*, E. F. Miller, ed. (Liberty Press, 1987).
+[^54]: David Hume, 'My Own Life' in his *Essays*, *Moral, Political and Literary*, E. F. Miller, ed. (Liberty Press, 1987).
