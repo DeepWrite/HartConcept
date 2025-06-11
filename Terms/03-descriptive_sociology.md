@@ -35,7 +35,7 @@ H. L. A. 하트(H. L. A. Hart)가 『법의 개념(The Concept of Law)』에서 
 | **규칙(rule)**                      | 단순한 반복행위가 아닌, 그에 대한 사회적 승인과 규범적 기대가 있는 행위 패턴                       |
 | **내적 관점(internal point of view)** | 사람들이 규칙을 단순히 '따르는 것'이 아니라, **그 규칙이 따라야 할 것이라고 여기는 태도**             |
 | **공식(official)**                  | 단순히 권위자가 아니라, **규칙을 공적으로 해석하고 적용하는 역할을 맡은 자**                      |
-| **규칙의 이중 구조(two types of rule)**  | 1차 규칙(primary rules: 의무를 부과), 2차 규칙(secondary rules: 규칙을 생성·변경·인정) |
+| **규칙의 이중 구조(two types of rule)**  | 1차 규칙(primary rules: 의무를 부과), 2차 규칙(secondary rules: 규칙을 생성·변경·인식) |
 | **법체계의 구조적 설명**                   | 이러한 요소들의 상호작용을 통해 **법적 질서(legal system)**가 구성된다고 설명            |
 
 ---
