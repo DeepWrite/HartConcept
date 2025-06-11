@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; height: 60vh; text-align: center; font-style: font-size: 1rem; line-height: 1.6; padding: 1rem;">
+<div style="display: flex; justify-content: center; align-items: center; height: 60vh; text-align: center; font-style: italic; font-size: 1rem; line-height: 1.6; padding: 1rem;">
   <blockquote> "다른 중요한 책들과 마찬가지로, <br> 
   하트의 책도 실제로 읽은 것보다는 풍문(rumour)을 통해 알려진 경우가 많다. ... <br> 
   그들이 들은 바에 따르면, 하트는 다음과 같은 생각을 가진 사람처럼 보인다: <br> 
