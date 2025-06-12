@@ -14,7 +14,7 @@ JOSEPH RAZ *Oxford University*
 
 Herbert Lionel Adolphus Hart는 전후에 형성된 옥스퍼드 철학(Oxford Philosophy)이라는 사조의 주요 인물이었으며, 영미권에서 법철학에 대한 관심을 되살리는 데 중심적인 역할을 했다. 그의 이론은 법의 본질과 도덕과의 관계에 대한 자유주의적 표준 견해로 자리 잡았으며, 다른 이론들은 이 견해를 수용하거나 반박하려 노력하였다.
 
-Hart는 옥스퍼드의 뉴 칼리지(New College, Oxford)에서 고전(Classics)을 공부하고 1929년에 졸업한 뒤, 1932년 변호사 자격을 취득하고 채권법(Chancery) 전문 변호사로 8년간 활동하였다. 전쟁 중에는 군 정보부에서 복무하였다. 1945년 그는 철학 강사로 뉴 칼리지 펠로우로 선출되었고, 1952년부터 1968년까지는 옥스퍼드 대학교에서 법철학 교수(Professor of Jurisprudence)로 재직하였다. 이 시기에 그의 가장 중요한 저작들이 출간되었다. 1968년 교수직을 사임한 후, 옥스퍼드 대학교의 유니버시티 칼리지(University College)에서 선임 연구 펠로우(senior research fellow)로 활동하였으며, 1972년부터 은퇴하는 1978년까지는 브레이즈노즈 칼리지(Brasenose College, Oxford)의 학장(Principal)을 지냈다.
+Hart는 옥스퍼드의 뉴 칼리지(New College, Oxford)에서 고전(Classics)을 공부하고 1929년에 졸업한 뒤, 1932년 변호사 자격을 취득하고 형평법원 법정 변호사(Chancery barrister)로 8년간 활동하였다. 전쟁 중에는 군 정보부에서 복무하였다. 1945년 그는 철학 강사로 뉴 칼리지 펠로우로 선출되었고, 1952년부터 1968년까지는 옥스퍼드 대학교에서 법철학 교수(Professor of Jurisprudence)로 재직하였다. 이 시기에 그의 가장 중요한 저작들이 출간되었다. 1968년 교수직을 사임한 후, 옥스퍼드 대학교의 유니버시티 칼리지(University College)에서 선임 연구 펠로우(senior research fellow)로 활동하였으며, 1972년부터 은퇴하는 1978년까지는 브레이즈노즈 칼리지(Brasenose College, Oxford)의 학장(Principal)을 지냈다.
 
 저술과 강의 외에도 Hart는 제러미 벤담(Jeremy Bentham)의 작업에 지속적으로 관심을 가지며, 벤담의 *전집(Collected Works)* 새 판본의 여러 권을 편집하는 작업에 참여하였다. 그는 또한 영국 독점금지위원회(UK Monopolies Commission)의 위원으로 활동하였고, 1960년대 학생 시위 이후 옥스퍼드 대학 내 교수와 학생 간의 관계를 조사하기 위해 구성된 위원회를 주재하였다. Hart는 1962년 영국학술원(British Academy)의 회원으로 선출되었고 수많은 명예 학위를 수여받았다.
 
