@@ -6,7 +6,7 @@ parent: 강의자료-번역
 permalink: /book-translation/chapter_06
 ---
 
-# VI **법체계의 기초(THE FOUNDATIONS OF A LEGAL SYSTEM)**
+# VI. **법체계의 기초(THE FOUNDATIONS OF A LEGAL SYSTEM)**
 
 ## 1. **인식 규칙과 법적 유효성(RULE OF RECOGNITION AND LEGAL VALIDITY)**
 

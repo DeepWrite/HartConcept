@@ -6,7 +6,7 @@ parent: 강의자료-번역
 permalink: /book-translation/chapter_07
 ---
 
-# **VII 형식주의(Formalism)와 규칙 회의주의(Rule-Scepticism)**
+# **VII. 형식주의(Formalism)와 규칙 회의주의(Rule-Scepticism)**
 
 ## **1. 법의 개방적 결합성(The Open Texture of Law)**
 
