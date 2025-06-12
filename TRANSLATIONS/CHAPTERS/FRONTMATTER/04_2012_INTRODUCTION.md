@@ -6,7 +6,7 @@ parent: FRONTMATTER
 permalink: /book-translation/chapter_00/2012_INTRODUCTION
 ---
 
-# 2012년 제3판의 Leslie Green의 서론(INTRODUCTION)
+# (번역중) 2012년 제3판의 Leslie Green의 서론(INTRODUCTION)
 
 ### **1. 하트의 메시지(HART'S MESSAGE)**
 
