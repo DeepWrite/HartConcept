@@ -10,7 +10,7 @@ permalink: /
   <div style="max-width: 800px; font-family: 'KoPub Batang', 'KoPub Batang Medium', 'Nanum Myeongjo', serif; position: relative;">
     <div style="font-size: 2.8rem; line-height: 1; color: #aaa; position: absolute; left: -0.7rem; top: -1rem;">❝</div>
     <div style="margin: 0; font-style: normal; font-size: 1.15rem; line-height: 1.8; color: #222;">
-      다른 중요한 책들과 마찬가지로, 하트의 책도 실제로 읽은 것보다는 풍문을 통해 알려진 경우가 많다. …<br><br>
+      <br>다른 중요한 책들과 마찬가지로, 하트의 책도 실제로 읽은 것보다는 풍문을 통해 알려진 경우가 많다. …<br><br>
       그들이 들은 바에 따르면, 하트는 다음과 같은 생각을 가진 사람처럼 보인다:
       <br><br>
 
