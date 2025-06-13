@@ -8,7 +8,7 @@ permalink: /references/RAZ
 
 # H. L. A. Hart (1907-1992)
 
-(Oxford University Press 1993 *Utilitas* Vol. 5, No. 2 November 1993, 145--156)
+[Oxford University Press 1993 *Utilitas* Vol. 5, No. 2 November 1993, 145--156](https://www-cambridge-org-ssl.libproxy.snu.ac.kr/core/journals/utilitas/article/h-l-a-hart-19071992/0BC82639B42A1B93F68C66FE0B6DF4F5)
 
 JOSEPH RAZ *Oxford University*
 
