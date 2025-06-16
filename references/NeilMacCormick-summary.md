@@ -6,7 +6,7 @@ parent: 주요 참고문헌
 permalink: /references/MacCormick-summary
 ---
 
-## Neil MacCormick의 Hart 이론에 대한 **해석적 재구성과 비판적 평가**(*H.L.A. Hart* (2nd ed., 2008))
+## Neil MacCormick의 Hart 이론에 대한 **해석적 재구성과 비판적 평가**([*H.L.A. Hart* (2nd ed., 2008)](https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1l6eo7m/82SNU_INST21481038040002591))
 
 ### 1. **법이해의 방법론적 기반 – ‘내재적 관점’의 철학**
 

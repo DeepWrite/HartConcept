@@ -1,12 +1,12 @@
 ---
-title: 1961년 제1판의 하트의 서문(PREFACE)
+title: 1961년 제1판의 하트의 머리말(PREFACE)
 layout: home
 nav_order: 1
 parent: FRONTMATTER
 permalink: /book-translation/chapter_00/1961_PREFACE
 ---
 
-# 1961년 제1판의 하트의 서문(PREFACE)
+# 1961년 제1판의 하트의 머리말(PREFACE)
 
 이 책의 목적은 법(law), 강제(coercion), 도덕(morality)을 서로 다른 동시에 관련 있는 사회적 현상으로서 이해하는 데 기여하는 것이다. 이 책은 주로 법철학(jurisprudence)을 공부하는 학생을 위한 것이지만, 법보다는 도덕철학(moral philosophy)이나 정치철학(political philosophy), 또는 사회학(sociology)에 주된 관심을 둔 이들에게도 유익하기를 바란다. 법률가들은 이 책을 분석법학(analytical jurisprudence)에 대한 하나의 에세이로 여길 것이다. 왜냐하면 이 책은 법에 대한 비판이나 법정책(legal policy)에 대한 비판보다는, 법적 사고의 일반적 틀을 명확히 하는 데 관심을 두고 있기 때문이다. 더구나 나는 여러 지점에서 단어의 의미에 관한 질문을 제기해 왔다. 예를 들어 ‘~할 수밖에 없는 상태(being obliged)’와 ‘의무(obligation)를 지닌 상태’는 어떻게 다른가, 어떤 규칙이 유효한 법규칙(valid rule of law)이라는 진술은 공직자의 행동을 예측하는 진술과 어떻게 다른가, 한 사회집단이 규칙을 준수한다는 주장에서는 무엇이 의미되는가, 그리고 그 주장은 구성원들이 습관적으로 어떤 행위를 한다는 주장과 어떻게 유사하며 또 어떻게 다른가 등을 고찰하였다. 사실 이 책의 중심 주제 가운데 하나는, 법뿐 아니라 모든 형태의 사회구조도 ‘내적 진술(internal statement)’과 ‘외적 진술(external statement)’이라는 두 가지 서로 다른 종류의 진술 사이의 중요한 구별을 이해하지 않고는 올바로 이해될 수 없다는 것이다. 이 두 가지 진술은 사회적 규칙이 준수될 때 언제나 모두 가능하다.
 
