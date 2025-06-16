@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # **III THE VARIETY OF LAWS**
 
 If we compare the varieties of different kinds of law to be found in a modern system such as English Law with the simple model of coercive orders constructed in the last chapter, a crowd of objections leap to mind. Surely not all laws order people to do or not to do things. Is it not misleading so to classify laws which confer powers on private individuals to make wills, contracts, or marriages, and laws which give powers to officials, e.g. to a judge to try cases, to a minister to make rules, or a county council to make by-laws? Surely not all laws are enacted nor are they all the expression of someone's desire like the general orders of our model. This seems untrue of custom which has a genuine though modest place in most legal systems. Surely laws, even when they are statutes deliberately made, need not be orders given only to *others.* Do not statutes often bind the legislators themselves? Finally, must enacted laws to be laws really express any legislator's actual desires, intentions, or wishes? Would an enactment duly passed not be law if (as must be the case with many a section of an English Finance Act) those who voted for it did not know what it meant?
