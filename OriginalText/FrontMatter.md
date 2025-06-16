@@ -300,30 +300,3 @@ Ronald Dworkin writes that jurisprudence matters because 'It matters how judges 
 [^54] David Hume, 'My Own Life' in his *Essays*, *Moral, Political and Literary*, E. F. Miller, ed. (Liberty Press, 1987).
 
 <!-- SPLIT HERE -->
-
-
-다음은 요청하신 영어 각주들의 한국어 번역입니다. 학술적 엄밀성과 용어의 일관성을 유지하고, 마크다운 문법을 보존하였습니다.
-
----
-
-#### NOTES
-
-[^17]: 이는 구체적으로 어떤 공직자(official)가 중요한지, 그리고 ‘공직자’의 역할이 어떻게 규정되어야 하는지를 정확히 다루지 않는다. 일반적으로 말해, 하트(Hart)는 적어도 판사(judges)와 입법자(legislators)를 포함할 의도를 지니며, 이때 ‘공직자’는 법적 정의가 아니라 사회정치적(socio-political) 정의를 따른다.
-
-[^23]: 강제(coercion)를 허용한다는 것은, ‘현재 진행 중인 강제 행위에 대해 정당화(justification)를 제공한다’는 의미인가? 아니면 ‘정당화될 수 없는 강제가 발생하지 않도록 보장한다’는 의미인가? 혹은 ‘정당화될 경우에만 사람들에게 강제를 가한다’는 의미인가?
-
-[^31]: 여기서 하트는 ‘도덕적 또는 관습적(moral or conventional)’이라는 표현으로, 오스틴(Austin)이 법적 권한에 대한 ‘실정적 도덕(positive morality)’의 비법적(non-legal) 제약이라 부른 것과, 다이시(Dicey)가 말한 헌법적 ‘관례(conventions)’를 모두 포괄하고자 한다.
-
-[^32]: 언제나 그렇듯, ‘통제됨(controlled)’이란 ‘완전히 통제됨’을 의미하지는 않는다.
-
-[^36]: 이는 단지 그들이 *이기적(selfish)* 이익에 부합하는 행동이거나, 자신이 *이유(reason)* 있다고 *생각(think)* 하는 행동이 아니라, 그들이 ‘객관적으로(objective)’ 이유가 있는 행위를 의미한다.
-
-[^37]: 게다가 이후의 한 논문에서 하트 자신도 이 입장의 몇 가지 핵심 개념을 수용한다. 참고: H. L. A. Hart, 「Commands and Authoritative Legal Reasons」, *Essays on Bentham* (Oxford University Press, 1982).
-
-[^38]: 토니 오노레(Tony Honoré)는 법이 제기하는 도덕적 주장(moral claims)을 통해 그러한 요청(invitation)이 이루어진다고 본다. 참고: 「The Necessary Connection between Law and Morality」, (2002) *Oxford Journal of Legal Studies* 22:489.
-
-[^45]: 그리고 후기 비트겐슈타인(later Wittgenstein), 특히 그의 제자 프리드리히 바이스만(Friedrich Waismann)을 통해 수용된 견해도 참고할 수 있다. 하트와 그 당시 옥스퍼드 철학자들과의 개인적·지적 관계에 대한 통찰력 있는 논의는 니콜라 레이시(Nicola Lacey), *A Life of H. L. A. Hart: The Nightmare and the Noble Dream* (Oxford University Press, 2004)을 참조하라.
-
-[^50]: 이 입장에 대한 가장 지속적인 옹호는 로널드 드워킨(Ronald Dworkin), *Justice for Hedgehogs* (Harvard University Press, 2011)을 보라.
-
-[^51]: 이 주제가 응용 도덕철학(applied moral philosophy)의 방향으로 지나치게 나아갔다는 제안은 제레미 월드론(Jeremy Waldron), 「*Political* Political Theory: An Oxford Inaugural Lecture」, [http://ssrn.com/abstract=2060344](http://ssrn.com/abstract=2060344)에서 제시된다.
