@@ -1,12 +1,12 @@
 ---
-title: 2012년 제3판의 Green의 서문(Preface to the Third Edition)
+title: 2012년 제3판의 Green의 머리말(Preface to the Third Edition)
 layout: home
 nav_order: 3
 parent: FRONTMATTER
 permalink: /book-translation/chapter_00/2012_Third_Preface
 ---
 
-# 2012년 제3판의 Leslie Green의 서문(Preface to the Third Edition)
+# 2012년 제3판의 Leslie Green의 머리말(Preface to the Third Edition)
 
 *The Concept of Law*는 허버트 하트(Herbert Hart)가 옥스퍼드 대학교(University of Oxford)에서 법학도들을 대상으로 진행한 법철학(jurisprudence) 입문 강의에 기반을 두고 있다. 이 책은 1961년 초판이 출간되자마자 영어로 저술된 법철학 분야에서 가장 영향력 있는 저작으로 자리매김하였다. 법학, 철학, 정치이론 분야의 학자들은 오늘날까지도 이 책의 논증을 발전시키고, 토대를 넓히며, 비판하고 있다. 동시에 이 책은 여전히 법철학 입문서로 널리 활용되고 있으며, 원어로든 다양한 번역본으로든 세계 곳곳의 학생들이 읽고 있다.
 

@@ -12,10 +12,10 @@ H. L. A. 하트(H. L. A. Hart)가 『법의 개념(The Concept of Law)』에서 
 
 ## 1. 하트가 말하는 "descriptive sociology"의 의미
 
-하트의 대표적 정의는 『법의 개념』 서문에서 다음과 같이 요약됩니다:
+하트의 대표적 정의는 『법의 개념』 머리말에서 다음과 같이 요약됩니다:
 
 > 이 책은 분석에 주된 관심을 두고 있음에도 동시에 *기술적 사회학(descriptive sociology)*에 대한 하나의 에세이로 간주될 수도 있다. 왜냐하면 단어의 의미에 대한 탐구는 단어에 대해서만 조명을 비춘다는 생각은 거짓이기 때문이다.
-> “Notwithstanding its concern with analysis the book may also be regarded as an essay in *descriptive sociology*; for the suggestion that inquiries into the meanings of words merely throw light on words is false.”> (『법의 개념』 서문)
+> “Notwithstanding its concern with analysis the book may also be regarded as an essay in *descriptive sociology*; for the suggestion that inquiries into the meanings of words merely throw light on words is false.”> (『법의 개념』 머리말)
 
 ### 핵심 특징:
 
