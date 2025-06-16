@@ -74,6 +74,21 @@ permalink: /book-translation/chapter_01
 
 이 책의 여러 부분에서는 '법' 또는 '법체계'라는 표현의 적용 가능성에 대해 법이론가들이 의문을 품어온 경계 사례들에 대한 논의가 등장할 것이다. 하지만 이러한 의문들에 대한 해답은 이 책의 부차적 관심일 뿐이다. 이 책의 목적은 '법'이라는 단어의 적절한 사용 여부를 판단하기 위한 규칙을 제시하는 정의를 제공하는 데 있는 것이 아니다. 그것은 오히려 지방법체계(municipal legal system)의 고유한 구조에 대한 분석을 개선하고, 법, 강제(coercion), 도덕이라는 사회 현상의 유형들 사이의 유사성과 차이를 더 잘 이해하도록 함으로써 법이론을 진전시키는 데 있다. 이 책의 다음 세 장에서의 비판적 논의 과정에서 확인되고, 제5장과 제6장에서 자세히 설명될 일련의 요소들은 바로 이러한 목적을 위해 기능하며, 책의 나머지 부분에서 그 역할이 입증된다. 이러한 이유로, 이 요소들은 법 개념의 핵심 요소들이자, 법 개념의 명료화를 위한 가장 중요한 요소들로 간주된다.
 
+# 주석(Notes)
+
+이 책의 본문은 자족적인(self-contained) 구조를 가지고 있으므로, 독자는 각 장을 처음부터 끝까지 읽은 뒤에 이 주석 부분을 참고하는 것이 가장 좋을 수 있다. 본문의 각주는 인용문의 출처, 그리고 인용된 판례(case)나 법령(statute)에 대한 간단한 정보만을 제공한다. 이에 반해, 다음의 주석들은 다음과 같은 세 가지 유형의 내용을 독자의 주의에 환기시키기 위해 마련되었다: (i) 본문에 제시된 일반적 진술에 대한 추가적인 예시나 사례; (ii) 본문에서 채택하거나 언급한 견해를 더 확장하거나 비판한 문헌; (iii) 본문에서 제기된 물음들에 대한 추가적인 탐구를 위한 제안. 이 책 자체에 대한 모든 인용은 장 번호와 절 번호만으로 간단히 표기한다 (예: 제1장 제1절). 다음은 본문에 사용된 주요 약어(abbreviation)들이다:
+
+| 약어 | 출전 또는 설명 |
+|------|----------------|
+| **Austin, The Province** | *오스틴, 『법철학의 관할 범위(The Province of Jurisprudence Determined)』* (하트 편, 런던, 1954) |
+| **Austin, The Lectures** | *오스틴, 『실정법 철학 강의(Lectures on the Philosophy of Positive Law)』* |
+| **Kelsen, General Theory** | *켈젠, 『법과 국가의 일반이론(General Theory of Law and State)』* |
+| **BYBIL** | *영국 국제법 연보(British Year Book of International Law)* |
+| **HLR** | *하버드 로 리뷰(Harvard Law Review)* |
+| **LQR** | *법 분기별 리뷰(Law Quarterly Review)* |
+| **MLR** | *현대 법 리뷰(Modern Law Review)* |
+| **PAS** | *아리스토텔레스 학회 발표집(Proceedings of the Aristotelian Society)* |
+
 ## **CHAPTER I 주석**
 
 **1–2쪽.** Llewellyn, Holmes, Gray, Austin, Kelsen의 인용문들은 모두, 저자의 견해에 따르면, 일반적인 법률 용어에 의해 가려졌거나 이전의 이론가들에 의해 과도하게 간과된 법의 어떤 측면을 강조하기 위해 사용된 역설적이거나 과장된 표현이다. 중요한 법학자에 관해서는, 그가 한 법에 대한 진술이 문자 그대로 참인지 거짓인지를 판단하기에 앞서, (1) 그가 자신의 진술을 뒷받침하기 위해 제시한 구체적 이유와, (2) 그 진술이 대체하고자 한 법 개념 또는 법 이론을 먼저 검토하는 것이 종종 유익하다.
@@ -136,3 +151,31 @@ Hart 자신의 주석은 이 판에서도 변경 없이 유지되었다. 그것�
 [^10]: Gray, loc. cit. 
 [^11]: *Confessiones*, xiv. 17. 
 [^12]: J. L. Austin, 'A Plea for Excuses', *Proceedings of the Aristotelian Society*, vol. 57 (1956–7), p. 8.
+
+\newpage
+
+\section{주석(Notes)}\label{uxc8fcuxc11dnotes}
+
+이 책의 본문은 자족적인(self-contained) 구조를 가지고 있으므로, 독자는
+각 장을 처음부터 끝까지 읽은 뒤에 이 주석 부분을 참고하는 것이 가장 좋을
+수 있다. 본문의 각주는 인용문의 출처, 그리고 인용된 판례(case)나
+법령(statute)에 대한 간단한 정보만을 제공한다. 이에 반해, 다음의
+주석들은 다음과 같은 세 가지 유형의 내용을 독자의 주의에 환기시키기 위해
+마련되었다: (i) 본문에 제시된 일반적 진술에 대한 추가적인 예시나 사례;
+(ii) 본문에서 채택하거나 언급한 견해를 더 확장하거나 비판한 문헌; (iii)
+본문에서 제기된 물음들에 대한 추가적인 탐구를 위한 제안. 이 책 자체에
+대한 모든 인용은 장 번호와 절 번호만으로 간단히 표기한다 (예: 제1장
+제1절). 다음은 본문에 사용된 주요 약어(abbreviation)들이다:
+
+\vspace{1em}
+
+\begin{tabular}{@{}l p{10cm}@{}}
+\textbf{Austin, The Province}   & \textit{오스틴, 『법철학의 관할 범위(The Province of Jurisprudence Determined)』} (하트 편, 런던, 1954) \\
+\textbf{Austin, The Lectures}   & \textit{오스틴, 『실정법 철학 강의(Lectures on the Philosophy of Positive Law)』} \\
+\textbf{Kelsen, General Theory} & \textit{켈젠, 『법과 국가의 일반이론(General Theory of Law and State)』} \\
+\textbf{BYBIL}                  & \textit{영국 국제법 연보(British Year Book of International Law)} \\
+\textbf{HLR}                    & \textit{하버드 로 리뷰(Harvard Law Review)} \\
+\textbf{LQR}                    & \textit{법 분기별 리뷰(Law Quarterly Review)} \\
+\textbf{MLR}                    & \textit{현대 법 리뷰(Modern Law Review)} \\
+\textbf{PAS}                    & \textit{아리스토텔레스 학회 발표집(Proceedings of the Aristotelian Society)} \\
+\end{tabular}

@@ -74,6 +74,20 @@ There are of course many other kinds of definition besides the very simple tradi
 
 At various points in this book the reader will find discussions of the borderline cases where legal theorists have felt doubts about the application of the expression 'law' or 'legal system', but the suggested resolution of these doubts, which he will also find here, is only a secondary concern of the book. For its purpose is not to provide a definition of law, in the sense of a rule by reference to which the correctness of the use of the word can be tested; it is to advance legal theory by providing an improved analysis of the distinctive structure of a municipal legal system and a better understanding of the resemblances and differences between law, coercion, and morality, as types of social phenomena. The set of elements identified in the course of the critical discussion of the next three chapters and described in detail in Chapters V and VI serve this purpose in ways which are demonstrated in the rest of the book. It is for this reason that they are treated as the central elements in the concept of law and of prime importance in its elucidation.
 
+# NOTES
+
+The text of this book is self-contained, and the reader may find it best to read each chapter through before turning to these notes. The footnotes in the text give only the sources of quotations, and references to cases or statutes cited. The following notes are designed to bring to the reader's attention matters of three different kinds, viz.: (i) further illustrations or examples of general statements made in the text; (ii) writings in which the views adopted or referred to in the text are further expounded or criticized; (iii) suggestions for the further investigation of questions raised in the text. All references to this book are indicated simply by chapter and section numbers, e.g. Chapter 1, s. 1. The following abbreviations are used:
+
+| Austin, The Province   | Austin, The Province of Jurisprudence Determined (ed. Hart, London, 1954) |
+|------------------------|---------------------------------------------------------------------------|
+| Austin, The Lectures   | Austin, Lectures on the Philosophy of Positive Law.                       |
+| Kelsen, General Theory | Kelsen, General Theory of Law and State.                                  |
+| BYBIL                  | British Year Book of International Law.                                   |
+| HLR                    | Harvard Law Review.                                                       |
+| LQR                    | Law Quarterly Review.                                                     |
+| MLR                    | Modern Law Review.                                                        |
+| PAS                    | Proceedings of the Aristotelian Society.                                  |
+
 ## CHAPTER I NOTES
 
 *Pages* 1–2. Each of the quotations on these pages from Llewellyn, Holmes, Gray, Austin, and Kelsen, are paradoxical or exaggerated ways of emphasizing some aspect of law which, in the author's view, is either obscured by ordinary legal terminology, or has been unduly neglected by previous theorists. In the case of any important jurist, it is frequently profitable to defer consideration of the question whether his statements about law are literally true or false, and to examine first, the detailed reasons given by him in support of his statements and secondly, the conception or theory of law which his statement is designed to displace.

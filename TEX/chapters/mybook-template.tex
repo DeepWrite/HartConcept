@@ -1,0 +1,66 @@
+\documentclass[12pt,oneside]{book}  % 글씨 크기 13pt
+
+% 언어 및 입력
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% 가독성 좋은 단행본용 서체 (Libertinus 또는 Palatino)
+\usepackage{libertinus}  % 또는: \usepackage[sc]{mathpazo}
+
+\linespread{1.25}  % 줄간격: 단행본용
+
+% 여백 설정 (A4, 단행본 스타일)
+\usepackage[a4paper, margin=1in]{geometry}
+
+% 수학 및 기호
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+
+% 표와 배열
+\usepackage{booktabs, tabularx}
+
+% 인용 및 각주
+\usepackage[notes, backend=biber]{biblatex-chicago}
+\addbibresource{attention.bib}
+\usepackage[flushmargin, hang]{footmisc}
+
+% 기타 기능
+\usepackage{csquotes}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+% 헤더와 푸터
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+% 자동 번호매기기 제거: 섹션/장 번호 숨기기
+\makeatletter
+\renewcommand{\@seccntformat}[1]{}
+\makeatother
+
+% 섹션 번호링 없음: chapter, section, subsection 모두 제목만 표시
+\setcounter{secnumdepth}{0}
+
+% 문서 시작
+\title{The Concept of Law, Third Edition}
+\author{H. L. A. Hart}
+\date{}
+
+\begin{document}
+
+\begin{titlepage}
+  \centering
+  \vspace*{3cm}
+  {\Huge\textsc{The Concept of Law}}\\[1.5ex]
+  {\Large Third Edition}\\[4ex]
+  \textsc{H. L. A. Hart}\\[6ex]
+  {\small Oxford University Press\\
+  2025 (Reprint Typeset Edition)}
+  \vfill
+\end{titlepage}
+
+$body$  % Pandoc 본문 삽입 지점
+
+\end{document}

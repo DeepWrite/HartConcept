@@ -11,7 +11,7 @@ The text of this book is self-contained, and the reader may find it best to read
 | LQR                    | Law Quarterly Review.                                                     |
 | MLR                    | Modern Law Review.                                                        |
 | PAS                    | Proceedings of the Aristotelian Society.                                  |
-|                        |                                                                           |
+
 
 # INDEX
 

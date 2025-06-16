@@ -1,0 +1,78 @@
+\documentclass[12pt, oneside]{book}  % 13pt는 직접 설정함
+
+% --- Language and Font Settings ---
+\usepackage[english]{babel}
+\usepackage{fontspec}
+\usepackage{kotex}  % Korean typesetting
+
+% --- Font Configuration (Main + Korean) ---
+\usepackage{libertinus}
+\setmainhangulfont[
+  Path = ./,
+  UprightFont = *Batang Light.ttf,
+  BoldFont    = *Batang Medium.ttf
+]{KoPubWorld}
+
+% --- Page Geometry: A4 with wide margins for print readability ---
+\usepackage[a4paper, margin=1in]{geometry}
+
+% --- Line Spacing ---
+\usepackage{setspace}
+\setstretch{1.45}
+
+% --- Section Formatting: Disable numbering ---
+\usepackage{titlesec}
+\setcounter{secnumdepth}{0}
+
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\bfseries}
+  {}{0pt}{\Huge}\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {}{0pt}{\Large}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {}{0pt}{\large}
+
+% --- Math and Tables ---
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{tabularx, booktabs}
+\usepackage{footmisc}
+
+% --- Quotes, Hyperlink, Header/Footer ---
+\usepackage{csquotes}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\setlength{\headheight}{15pt}
+
+% --- Bibliography (biblatex) ---
+\usepackage[style=verbose-note, backend=biber, maxbibnames=99]{biblatex}
+\addbibresource{references.bib}
+\AtEveryBibitem{\clearfield{pages}}
+
+% --- Title Info ---
+\title{\Huge\textsc{The Concept of Law} \\[2ex] \Large Third Edition}
+\author{\Large H. L. A. Hart}
+\date{}
+
+\begin{document}
+
+% --- Title Page ---
+\begin{titlepage}
+  \centering
+  \vspace*{3cm}
+  {\Huge\textsc{The Concept of Law}}\\[1.5ex]
+  {\Large Third Edition}\\[4ex]
+  \textsc{H. L. A. Hart}\\[6ex]
+  {\small Oxford University Press\\
+  2025 (Reprint Typeset Edition)}
+  \vfill
+\end{titlepage}
+
+$body$  % For Pandoc
+
+\end{document}
