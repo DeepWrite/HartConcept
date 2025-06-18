@@ -98,3 +98,5 @@ Hart의 **recognition**은 **사회적·제도적 승인** 또는 **공동 규�
 | **비트겐슈타인의 규칙 따르기 논의**           | 규칙의 의미는 내면 상태가 아니라 **공동체적 사용과 승인**에 달려 있음             |
 | **도덕 규범의 구성주의(constructivism)** | 규범은 *수용(practice of acceptance)*을 통해 현실 속에서 존재함 |
 
+17. rational(합리적인) / reasonable(합당한)
+
