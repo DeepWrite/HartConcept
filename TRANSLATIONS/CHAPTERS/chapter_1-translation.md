@@ -153,31 +153,3 @@ Hart 자신의 주석은 이 판에서도 변경 없이 유지되었다. 그것�
 [^10]: Gray, loc. cit. 
 [^11]: *Confessiones*, xiv. 17. 
 [^12]: J. L. Austin, 'A Plea for Excuses', *Proceedings of the Aristotelian Society*, vol. 57 (1956–7), p. 8.
-
-\newpage
-
-\section{주석(Notes)}\label{uxc8fcuxc11dnotes}
-
-이 책의 본문은 자족적인(self-contained) 구조를 가지고 있으므로, 독자는
-각 장을 처음부터 끝까지 읽은 뒤에 이 주석 부분을 참고하는 것이 가장 좋을
-수 있다. 본문의 각주는 인용문의 출처, 그리고 인용된 사례(case)나
-법령(statute)에 대한 간단한 정보만을 제공한다. 이에 반해, 다음의
-주석들은 다음과 같은 세 가지 유형의 내용을 독자의 주의에 환기시키기 위해
-마련되었다: (i) 본문에 제시된 일반적 진술에 대한 추가적인 예시나 사례;
-(ii) 본문에서 채택하거나 언급한 견해를 더 확장하거나 비판한 문헌; (iii)
-본문에서 제기된 물음들에 대한 추가적인 탐구를 위한 제안. 이 책 자체에
-대한 모든 인용은 장 번호와 절 번호만으로 간단히 표기한다 (예: 제1장
-제1절). 다음은 본문에 사용된 주요 약어(abbreviation)들이다:
-
-\vspace{1em}
-
-\begin{tabular}{@{}l p{10cm}@{}}
-\textbf{Austin, The Province}   & \textit{오스틴, 『법철학의 관할 범위(The Province of Jurisprudence Determined)』} (하트 편, 런던, 1954) \\
-\textbf{Austin, The Lectures}   & \textit{오스틴, 『실정법 철학 강의(Lectures on the Philosophy of Positive Law)』} \\
-\textbf{Kelsen, General Theory} & \textit{켈젠, 『법과 국가의 일반이론(General Theory of Law and State)』} \\
-\textbf{BYBIL}                  & \textit{영국 국제법 연보(British Year Book of International Law)} \\
-\textbf{HLR}                    & \textit{하버드 로 리뷰(Harvard Law Review)} \\
-\textbf{LQR}                    & \textit{법 분기별 리뷰(Law Quarterly Review)} \\
-\textbf{MLR}                    & \textit{현대 법 리뷰(Modern Law Review)} \\
-\textbf{PAS}                    & \textit{아리스토텔레스 학회 발표집(Proceedings of the Aristotelian Society)} \\
-\end{tabular}
