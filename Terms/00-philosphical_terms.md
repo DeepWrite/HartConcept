@@ -80,4 +80,21 @@ permalink: /terms/00-philosphical_terms
 
 15. concept / definition / conception
 
+16. recognition
+
+- rule of recognition
+- acceptance
+- social acceptance
+- official acknowledgment
+- cf. theory of recognition
+- cf. epistemology (인지(cognition) 또는 식별(identification)의 개념)
+
+Hart의 **recognition**은 **사회적·제도적 승인** 또는 **공동 규범 수용 행위**, "규범이 유효하기 위해 필요한 사회적 사실 조건"에 가까우며, 비트겐슈타인의 규칙-따르기 논의나 사회규범 이론과 친밀하다. 
+
+| 이론 또는 전통    | 관련성 설명                |
+| ----------------- | ------------------------------ |
+| **사회 규범 이론 (e.g. 규범사회학)**       | 규범이 제도적으로 받아들여지기 위해서는 **공동체 내 반복적 승인 행위**가 필요함        |
+| **비판적 실재론의 사회적 존재론**            | 규범이나 제도는 **인식적 구조**가 아니라 **집단적 실천과 승인**을 통해 성립        |
+| **비트겐슈타인의 규칙 따르기 논의**           | 규칙의 의미는 내면 상태가 아니라 **공동체적 사용과 승인**에 달려 있음             |
+| **도덕 규범의 구성주의(constructivism)** | 규범은 *수용(practice of acceptance)*을 통해 현실 속에서 존재함 |
 

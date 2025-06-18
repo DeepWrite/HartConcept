@@ -158,7 +158,7 @@ permalink: /book-translation/chapter_03
 
 *38–42쪽. ‘나쁜 사람’의 관점(The 'bad man's' point of view).* William Twining, 「‘나쁜 사람’ 다시 보기」(*The Bad Man Revisited*) Stephen Perry는 Hart의 이론이 ‘나쁜 사람’의 관점을 배제할 철학적 자원을 갖추고 있지 않다고 비판한다. 그의 글 「Holmes 대 Hart: 법이론에서의 나쁜 사람」(*Holmes versus Hart: The Bad Man in Legal Theory*)은 Steven J. Burton 편, 『법의 길과 그 영향: 올리버 웬델 홈즈 주니어의 유산』(*The Path of the Law and Its Influence: The Legacy of Oliver Wendell Holmes Jr.*), 캠브리지대 출판부, 2000년에 수록되어 있다. 법을 전적으로 유인 수단(incentivizing device)으로 이해하려는 시도는 특히 경제학자들 사이에서 지속되고 있다. 관련 저작으로는 Richard Posner의 『법경제학(Economic Analysis of Law)』(제8판, Aspen Publishers, 2010)과 『법철학의 문제들(*The Problems of Jurisprudence*)』(하버드대 출판부, 1990)이 있다. 가장 정교한 논의는 Lewis A. Kornhauser, 「법의 규범성」(*The Normativity of Law*) (1999) *American Law and Economics Review* 제1권 3쪽 참조.
 
-*44–49쪽. 관습법(custom)과 법의 원천으로서의 관습* John Gardner, 『법은 신념의 도약이다(*Law as a Leap of Faith*)』 제3장 「일부 법의 유형(Some Types of Law)」 참조. 또한 Amanda Perreau-Saussine과 James B. Murphy 편집, 『관습법의 본성: 법적, 역사적, 철학적 관점(*The Nature of Customary Law: Legal, Historical and Philosophical Perspectives*)』(케임브리지대 출판부, 2007)의 수록 논문들도 참고할 것. Dworkin은 Hart가 그의 인식 규칙(rule of recognition) 이론에 비추어 관습을 일관되게 설명할 수 없다고 비판한다. 관련 논의는 *Taking Rights Seriously*, 41–44쪽 참조.
+*44–49쪽. 관습법(custom)과 법의 원천으로서의 관습* John Gardner, 『법은 신념의 도약이다(*Law as a Leap of Faith*)』 제3장 「일부 법의 유형(Some Types of Law)」 참조. 또한 Amanda Perreau-Saussine과 James B. Murphy 편집, 『관습법의 본성: 법적, 역사적, 철학적 관점(*The Nature of Customary Law: Legal, Historical and Philosophical Perspectives*)』(케임브리지대 출판부, 2007)의 수록 논문들도 참고할 것. Dworkin은 Hart가 그의 승인 규칙(rule of recognition) 이론에 비추어 관습을 일관되게 설명할 수 없다고 비판한다. 관련 논의는 *Taking Rights Seriously*, 41–44쪽 참조.
 
 ## FOOTNOTES CHAPTER III
 
