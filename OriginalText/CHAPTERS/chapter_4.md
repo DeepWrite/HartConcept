@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # **IV SOVEREIGN AND SUBJECT**
 
 In criticizing the simple model of law as coercive orders we have so far raised no questions concerning the 'sovereign' person or persons whose general orders constitute, according to this conception, the law of any society. Indeed in discussing the adequacy of the idea of an order backed by threats as an account of the different varieties of law, we provisionally assumed that in any society where there is law, there actually is a sovereign, characterized affirmatively and negatively by reference to the habit of obedience: a person or body of persons whose orders the great majority of the society habitually obey and who does not habitually obey any other person or persons. We must now consider in some detail this general theory concerning the foundations of all legal systems; for in spite of its extreme simplicity the doctrine of sovereignty is nothing less than this. The doctrine asserts that in every human society, where there is law, there is ultimately to be found latent beneath the variety of political forms, in a democracy as much as in an absolute monarchy, this simple relationship between subjects rendering habitual obedience and a sovereign who renders habitual obedience to no one. This vertical structure composed of sovereign and subjects is, according to the theory, as essential a part of a society which possesses law, as a backbone is of a man. Where it is present, we may speak of the society, together with its sovereign, as a single independent state, and we may speak of *its* law: where it is not present, we can apply none of these expressions, for the relation of sovereign and subject forms, according to this theory, part of their very meaning.
