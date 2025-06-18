@@ -1,0 +1,1913 @@
+\documentclass[12pt, oneside]{book}  % 13pt는 직접 설정함
+
+% --- Language and Font Settings ---
+\usepackage[english]{babel}
+\usepackage{fontspec}
+\usepackage{kotex}  % Korean typesetting
+
+% --- Font Configuration (Main + Korean) ---
+\usepackage{libertinus}
+\setmainhangulfont[
+  Path = ./,
+  UprightFont = *Batang Light.ttf,
+  BoldFont    = *Batang Medium.ttf
+]{KoPubWorld}
+
+% --- Page Geometry: A4 with wide margins for print readability ---
+\usepackage[a4paper, margin=1in]{geometry}
+
+% --- Line Spacing ---
+\usepackage{setspace}
+\setstretch{1.45}
+
+% --- Section Formatting: Disable numbering ---
+\usepackage{titlesec}
+\setcounter{secnumdepth}{0}
+
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\bfseries}
+  {}{0pt}{\Huge}\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {}{0pt}{\Large}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {}{0pt}{\large}
+
+% --- Math and Tables ---
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{tabularx, booktabs}
+\usepackage{footmisc}
+
+% --- Quotes, Hyperlink, Header/Footer ---
+\usepackage{csquotes}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\setlength{\headheight}{15pt}
+
+% --- Bibliography (biblatex) ---
+\usepackage[style=verbose-note, backend=biber, maxbibnames=99]{biblatex}
+\addbibresource{references.bib}
+\AtEveryBibitem{\clearfield{pages}}
+
+% --- Title Info ---
+\title{\Huge\textsc{The Concept of Law} \\[2ex] \Large Third Edition}
+\author{\Large H. L. A. Hart}
+\date{}
+
+\begin{document}
+
+% --- Title Page ---
+\begin{titlepage}
+  \centering
+  \vspace*{3cm}
+  {\Huge\textsc{The Concept of Law}}\\[1.5ex]
+  {\Large Third Edition}\\[4ex]
+  \textsc{H. L. A. Hart}\\[6ex]
+  {\small 2025 SUMMER 강의용 한국어판\\
+  강좌 외의 사용을 불허함}
+  \vfill
+\end{titlepage}
+
+\section{1961년 제1판의 하트의
+머리말(PREFACE)}\label{uxb144-uxc81c1uxd310uxc758-uxd558uxd2b8uxc758-uxba38uxb9acuxb9d0preface}
+
+이 책의 목적은 법(law), 강제(coercion), 도덕(morality)을 서로 다른
+동시에 관련 있는 사회적 현상으로서 이해하는 데 기여하는 것이다. 이 책은
+주로 법철학(jurisprudence)을 공부하는 학생을 위한 것이지만, 법보다는
+도덕철학(moral philosophy)이나 정치철학(political philosophy), 또는
+사회학(sociology)에 주된 관심을 둔 이들에게도 유익하기를 바란다.
+법률가들은 이 책을 분석법학(analytical jurisprudence)에 대한 하나의
+에세이로 여길 것이다. 왜냐하면 이 책은 법에 대한 비판이나 법정책(legal
+policy)에 대한 비판보다는, 법적 사고의 일반적 틀을 명확히 하는 데 관심을
+두고 있기 때문이다. 더구나 나는 여러 지점에서 단어의 의미에 관한 질문을
+제기해 왔다. 예를 들어 `\textasciitilde 할 수밖에 없는 상태(being
+obliged)'와 `의무(obligation)를 지닌 상태'는 어떻게 다른가, 어떤 규칙이
+유효한 법규칙(valid rule of law)이라는 진술은 공직자의 행동을 예측하는
+진술과 어떻게 다른가, 한 사회집단이 규칙을 준수한다는 주장에서는 무엇이
+의미되는가, 그리고 그 주장은 구성원들이 습관적으로 어떤 행위를 한다는
+주장과 어떻게 유사하며 또 어떻게 다른가 등을 고찰하였다. 사실 이 책의
+중심 주제 가운데 하나는, 법뿐 아니라 모든 형태의 사회구조도 `내적
+진술(internal statement)'과 `외적 진술(external statement)'이라는 두
+가지 서로 다른 종류의 진술 사이의 중요한 구별을 이해하지 않고는 올바로
+이해될 수 없다는 것이다. 이 두 가지 진술은 사회적 규칙이 준수될 때
+언제나 모두 가능하다.
+
+이 책은 분석에 주된 관심을 두고 있음에도 동시에 기술적
+사회학(descriptive sociology)에 대한 하나의 에세이로 간주될 수도 있다.
+왜냐하면 단어의 의미에 대한 탐구는 단어에 대해서만 조명을 비춘다는
+생각은 거짓이기 때문이다. 사회적 상황이나 관계의 유형들 사이에 존재하는,
+즉각적으로는 자명하지 않은 많은 중요한 구별은, 관련 표현들의 표준적인
+사용방식과 그러한 사용이 의존하는 사회적 맥락(대개 명시되지 않은 채로
+남겨진다)을 검토함으로써 가장 잘 드러날 수 있다. 이러한 연구 영역에서는,
+J. L. 오스틴 교수의 말처럼, ``단어에 대한 예민한 감각을 사회현상에 대한
+예리한 인식의 수단으로 삼는'' 것이 특히 유효하다.
+
+나는 다른 많은 저자들에게, 그리고 그들의 저작에 명백하고도 깊은 빚을
+지고 있다. 실제로 이 책의 많은 부분은 오스틴(Austin)의 명법(imperative)
+이론을 토대로 구성된 단순한 법체계 모델의 한계점을 다루고 있다. 하지만
+본문에서는 다른 저자들에 대한 직접적인 인용이나 주석이 거의 없다. 그
+대신 책의 끝부분에 각 장을 읽은 뒤 참고할 수 있도록 광범위한 주석들을
+마련해 두었다. 여기서 본문에서 제시된 견해들은 나의 선구자 및 동시대
+이론들과 비교되며, 이 책의 논의를 그들의 저작에서 어떻게 더 확장해나갈
+수 있을지도 제안하고 있다. 이러한 방식을 택한 것은 부분적으로 이 책의
+논의가 하나의 연속적인 흐름을 지니고 있기 때문이며, 타 이론들과의 비교는
+그 흐름을 방해할 수 있기 때문이다. 그러나 나는 또한 교육적인 목적을 함께
+염두에 두었다: 나는 이러한 배열이, 법이론에 관한 책이란 기본적으로 다른
+책들에 무엇이 들어 있는지를 배우기 위한 책이라는 믿음을 약화시키기를
+바란다. 이 믿음을 저술하는 사람이 갖고 있다면, 그 학문은 거의 진전을
+이루지 못할 것이며, 독자가 그 믿음을 갖고 있다면, 그 학문의 교육적
+가치는 극히 제한된 수준에 머물 것이다.
+
+나는 너무나 오랜 시간 동안, 너무나 많은 친구들에게 빚을 졌기 때문에 이제
+와서는 나의 의무(obligations)들을 모두 밝히는 것이 어렵다. 하지만 나는
+A. M. Honoré 씨에게는 특별한 빚을 고백해야 한다. 그의 상세한 비판은 내
+사고의 혼란과 문체의 부적절함을 드러내 주었고, 나는 그것들을 제거하기
+위해 노력하였다. 그럼에도 여전히 그가 못마땅해할 부분이 남아 있을까
+두렵다. 이 책의 정치철학 부분과 자연법(natural law)에 대한 재해석 가운데
+가치 있는 것이 있다면, 그것은 G. A. Paul 씨와의 대화 덕분이다. 또한 그는
+교정쇄도 읽어 주었다. 나는 루퍼트 크로스 박사(Dr Rupert Cross)와 P. F.
+스트로슨(Mr P. F. Strawson) 씨가 본문을 읽고 보내준 유익한 조언과
+비판에도 깊이 감사하고 있다.
+
+\vspace{1em}
+\begin{flushright}
+\textbf{H. L. A. 하트 (H. L. A. HART)}
+\end{flushright}
+
+\newpage
+
+\section{1994년 제2판의 Bulloch와 Raz의 편집자 주(Editors'
+Note)}\label{uxb144-uxc81c2uxd310uxc758-bullochuxc640-razuxc758-uxd3b8uxc9d1uxc790-uxc8fceditors-note}
+
+\textbf{(제2판을 위해 쓰여짐)}
+
+\emph{The Concept of Law}는 출간된 지 불과 몇 년 만에 영미권을 넘어 전
+세계적으로 법철학(jurisprudence)의 이해 방식과 연구 방식을 근본적으로
+바꾸어 놓았다. 이 책은 엄청난 영향을 미쳤으며, 법이론의 맥락에서뿐
+아니라 정치철학(political philosophy)과 도덕철학(moral philosophy)의
+맥락에서도 이 책과 그 이론들에 대해 논의하는 수많은 저작들이 출판되었다.
+
+하트(Hart)는 오랜 시간 동안 \emph{The Concept of Law}에 한 장(chapter)을
+추가할 계획을 염두에 두고 있었다. 그는 엄청난 영향력을 지닌 본문의
+내용을 손보는 것을 원치 않았으며, 그의 뜻에 따라 본문은 소소한
+정정(minor corrections) 외에는 변경 없이 그대로 출판되었다. 그러나 그는
+그동안 이 책에 대한 다양한 논의들에 응답하고자 하였다. 그의 견해를
+오해한 이들에 대해 자신의 입장을 옹호하고, 근거 없는 비판을 반박하며, 그
+못지않게 중요하다고 그가 여겼던 바와 같이 정당한 비판에 대해서는 그
+타당성을 인정하고, 그 지점을 보완하기 위해 책의 이론들을 조정하는 방식을
+제안하고자 했던 것이다. 새로운 장(처음에는 머리말preface으로
+구상되었다가 최종적으로 후서postscript로 계획된)은 하트의 생애가 끝났을
+때 아직 미완성이었는데, 이는 그의 철저한 완벽주의(perfectionism)
+때문만은 아니었다. 이 작업의 적절성에 대한 지속적인 의구심과, 원래
+구상했던 책의 핵심 테제들(theses)의 생명력과 통찰력에 걸맞은 작업을
+자신이 과연 해낼 수 있을지에 대한 끊이지 않는 불안감 또한 그 이유였다.
+그럼에도 불구하고 그는 많은 중단 속에서도 이 후서 작업을 계속하였고,
+사망 당시 두 부분으로 구성될 계획 중 첫 번째 부분은 거의 완성된
+상태였다.
+
+제니퍼 하트(Jennifer Hart)가 우리에게 초고들을 검토해 볼 것을 요청하며,
+그 가운데 출판할 만한 것이 있는지를 판단해 달라고 했을 때, 우리에게 가장
+중요한 생각은 하트 자신이 만족하지 않을 만한 것이 출판되어서는 안 된다는
+것이었다. 따라서 우리는 후서의 첫 번째 부분이 대부분 완성된 상태였음을
+발견하고 매우 기뻤다. 두 번째 부분에 해당하는 것은 손으로 쓴
+메모들뿐이었고, 그것은 지나치게 단편적이고 미완성된 것이어서 출판할 수
+없었다. 반면 첫 번째 부분은 여러 버전이 존재했으며, 그것들은 타이핑되고,
+수정되고, 다시 타이핑된 뒤 다시 수정되었다. 가장 최근의 버전조차도 하트
+자신이 그것을 최종본으로 여기지는 않았던 것이 분명하다. 연필과
+바이로펜(Biro)으로 이루어진 수많은 수정 흔적들이 있었기 때문이다. 더구나
+하트는 이전 버전들을 폐기하지 않았고, 어떤 버전이든 손에 닿는 대로 계속
+작업을 이어갔다. 이러한 점은 편집 작업을 어렵게 만들었지만, 지난 2년간
+이루어진 수정들은 대부분 문체상의 뉘앙스에 대한 것이었으며, 이는 그가
+본문 내용 자체에는 대체로 만족하고 있었다는 것을 보여준다.
+
+우리의 과제는 여러 버전들을 비교하고, 한 버전에만 존재하는 텍스트의
+일부가 나머지 버전에서 누락된 이유가 그가 의도적으로 삭제했기 때문인지,
+아니면 모든 수정을 포함한 완전한 버전을 그가 아직 만들지 못했기
+때문인지를 판별하는 것이었다. 이번에 출판된 텍스트는 하트가 폐기하지
+않았으며, 이후에도 계속 수정해 나간 버전에 나타나는 모든 수정을 포함하고
+있다. 때때로 텍스트 자체가 비논리적이거나 일관되지 않은 경우도 있었는데,
+이는 필시 타자 작업을 맡은 사람이 그의 원고를 잘못 읽었기 때문이며,
+하트가 그러한 오류를 항상 인지하지 못했기 때문일 것이다. 또 어떤
+경우에는 문장을 쓰는 과정에서 자연스럽게 발생한 혼란일 수도 있으며, 이는
+마지막 원고 정리 단계에서 다듬어졌을 문장이었으나, 하트가 그 단계까지
+다다르지 못했기 때문이기도 하다. 이런 경우 우리는 원래의 텍스트를
+복원하거나 하트의 사유를 최소한의 개입으로 되살리는 방식으로 편집하려
+했다. 특히 제6절(재량discretion에 관하여)은 특별한 문제를 제기하였다.
+우리는 그 첫 단락의 두 가지 버전을 발견했는데, 하나는 그 단락에서 끝나는
+버전에 있었고, 다른 하나는 나머지 부분을 포함한 사본에 있었다. 잘려 있는
+버전은 그의 최근 수정을 많이 포함한 사본에 있었으며, 하트가 이를 폐기한
+적이 없었고, 후서 전반의 논의와도 잘 부합하였기에, 우리는 두 버전을 모두
+출판하기로 결정하였고, 이어지지 않는 버전은 미주(endnote)로 실었다.
+
+하트는 주로 참고문헌들로 구성된 주석(notes)을 타이핑하지 않았다. 그는
+자필로 주석을 작성하였고, 그 주석의 단서는 가장 이른 시기의 타자본에서
+가장 잘 추적할 수 있었다. 이후 그는 간혹 여백에 참고문헌을 덧붙이기도
+했지만, 대체로 불완전한 형태였으며, 경우에 따라서는 단지 참고문헌을
+추적할 필요가 있다는 표시만 있을 뿐이었다. 티머시 엔디컷(Timothy
+Endicott)은 모든 주석을 확인하고, 누락된 부분을 추적하여 보완했으며,
+하트가 드워킨(Dworkin)을 인용하거나 그를 밀접하게
+패러프레이즈(paraphrase)하면서도 출처를 명시하지 않은 경우에 대해 출처를
+추가하였다. 엔디컷은 또한 인용이 정확하지 않았던 본문을 수정하였으며,
+이러한 작업은 폭넓은 연구와 창의성을 필요로 했다. 그는 또한 본문의 여러
+오류들을 앞서 밝힌 편집 방침에 따라 수정할 것을 제안하였고, 우리는 이를
+감사히 반영하였다.
+
+우리는 하트가 더 오랜 시간이 주어졌다면 본문을 더욱 다듬고 개선하였을
+것이라는 점에 의심의 여지가 없다고 생각한다. 그러나 이번에 출판된
+후기(postscript)는 드워킨의 여러 논변에 대한 하트의 신중한 응답을 담고
+있다고 우리는 믿는다.
+
+\vspace{1em}
+
+\begin{flushright}
+\textbf{페넬로페 A. 불로흐 (Penelope A. Bulloch) 조셉 라즈 (Joseph Raz)}
+\\ 1994
+\end{flushright}
+
+\newpage
+
+\section{2012년 제3판의 Leslie Green의 머리말(Preface to the Third
+Edition)}\label{uxb144-uxc81c3uxd310uxc758-leslie-greenuxc758-uxba38uxb9acuxb9d0preface-to-the-third-edition}
+
+\emph{The Concept of Law}는 허버트 하트(Herbert Hart)가 옥스퍼드
+대학교(University of Oxford)에서 법학도들을 대상으로 진행한
+법철학(jurisprudence) 입문 강의에 기반을 두고 있다. 이 책은 1961년
+초판이 출간되자마자 영어로 저술된 법철학 분야에서 가장 영향력 있는
+저작으로 자리매김하였다. 법학, 철학, 정치이론 분야의 학자들은
+오늘날까지도 이 책의 논증을 발전시키고, 토대를 넓히며, 비판하고 있다.
+동시에 이 책은 여전히 법철학 입문서로 널리 활용되고 있으며, 원어로든
+다양한 번역본으로든 세계 곳곳의 학생들이 읽고 있다.
+
+초판 출간 50주년이 가까워졌을 무렵, 옥스퍼드 대학출판부(Oxford
+University Press)는 새로운 판을 준비하는 가능성에 관해 나에게 제안을
+해왔다. 1994년에 출간된 하트 사후의 제2판(posthumous second edition)은
+페넬로페 불로흐(Penelope Bulloch)와 조셉 라즈(Joseph Raz)의 편집으로
+이루어졌으며, 하트가 생전에 발표하지 않았던 로널드 드워킨(Ronald
+Dworkin)에 대한 반론을 바탕으로 한 후기(Postscript)를 포함하고 있었다.
+그 판은 하트의 이론들 및 일반적인 법철학 논의에 대한 새로운 논쟁의
+물결을 촉발시켰다. 이후 수차례 재쇄가 이루어진 뒤, 본문에 남아 있는 몇
+가지 오류를 바로잡고 책의 디자인을 새롭게 구성할 시점이 되었다. 이로
+인해 새로운 내용을 일부 포함시킬 수 있는 가능성도 열리게 되었다.
+
+\emph{The Concept of Law}는 변명할 필요 없는 저작이지만, 반세기가 지난
+지금 더 이상 소개(introduction)가 필요하지 않다고는 말할 수 없다. 이번에
+추가된 서론에서는 이 책의 주요 주제들을 개관하고, 몇 가지 비판적 논점을
+간략히 스케치하며, 가장 중요한 것으로서 이 책의 기획 자체에 대한 몇몇
+오해들을 미연에 방지하고자 한다. 하트는 본문 곳곳에 참고문헌, 설명, 추가
+독서를 제시하는 주석(notes)을 덧붙였다. 이 주석들은 원형 그대로
+유지되었다. 그러나 그 주석에서 인용된 많은 문헌들은 이미 시대에
+뒤처졌고, 이후 수많은 저작들이 그의 논의를 계승하고 있다. 이에 따라 학생
+독자들이 주요 논쟁 지점을 따라갈 수 있도록 새로운 주석을 추가하였다.
+마지막으로, 과거의 연구들은 초판의 쪽수(pagination)에 따라 인용하고
+있으나, 이제 초판 사본은 거의 유통되지 않고 있으며, 그 쪽수에 익숙한
+사람들도 점차 줄어들고 있다. 따라서 나는 제2판의 쪽수를 따르기로
+결정하였다.
+
+서론(Introduction)은 내가 이전에 발표한 논문 「The Concept of Law
+Revisited」 (\emph{Michigan Law Review}, 1997년, 제94권, 1687쪽)에서
+발췌한 자료를 활용하고 있다. 이 프로젝트를 처음 제안하고 여러 중요한
+시점마다 귀중한 조언을 아끼지 않았던 옥스퍼드 대학출판부의 알렉스
+플래치(Alex Flach)에게 깊이 감사드린다. 내 동료 존 피니스(John Finnis)는
+하트의 본문에 대한 오류 수정에 도움을 주었고, 톰 애덤스(Tom Adams)는
+주석 작업을 위한 자료 조사에 협력해 주었다. 두 사람 모두에게 따뜻한
+감사를 전한다. 그리고 서론을 읽고 논평해 준 드니즈 레옴(Denise
+Réaume)에게 특히 깊이 감사드린다.
+
+\vspace{1em}
+
+\begin{flushright}
+\textbf{레슬리 그린(Leslie Green)} 
+\\ 옥스퍼드, 베일리얼 칼리지(Balliol College) 
+\\ 2012년 트리니티(Trinity 2012)
+\end{flushright}
+
+\newpage
+
+\section{2012년 제3판의 Leslie Green의
+서론(INTRODUCTION)}\label{uxb144-uxc81c3uxd310uxc758-leslie-greenuxc758-uxc11cuxb860introduction}
+
+\subsection{\texorpdfstring{\textbf{1. 하트의 메시지(HART'S
+MESSAGE)}}{1. 하트의 메시지(HART'S MESSAGE)}}\label{uxd558uxd2b8uxc758-uxba54uxc2dcuxc9c0harts-message}
+
+법(law)은 사회적 구성물(social construction)이다. 그것은 역사적으로
+우연히 특정 사회들에 나타난 특징이며, 제도를 통해 운영되는 체계적인
+사회적 통제(social control)의 등장을 통해 그 모습을 드러낸다. 어떤
+면에서 법은 관습(custom)을 대체하지만, 또 다른 면에서는 관습에 의존한다.
+법은 인간의 행위를 지시하고 평가하는 일차적 규칙(primary rules)들과,
+이러한 일차적 규칙을 식별하고(identify), 시행하며(enforce),
+변경(change)하는 방법에 관한 이차적 사회규칙(secondary social rules)으로
+이루어진 하나의 체계다. 이러한 구조는 특정한 맥락에서 유익할 수 있지만,
+항상 일정한 대가를 수반한다. 왜냐하면 그것은 부정의(injustice)의 위험과,
+그 사회 구성원들을 그들의 삶을 지배하는 가장 중요한 규범들로부터
+소외시키는 위험을 동반하기 때문이다. 따라서 법에 대해 우리가 취해야 할
+적절한 태도는 경계(caution)이지, 찬양(celebration)이 아니다. 더욱이 법은
+때로 자신에게 없는 객관성(objectivity)을 가장하기도 한다. 왜냐하면
+판사들이 무엇이라고 말하든 실제로는 그들이 법을 창출하는 강력한 권한을
+행사하고 있기 때문이다. 따라서 법과 재판(adjudication)은
+정치적이다(political). 그리고 다른 방식으로, 법이론(legal theory) 역시
+정치적이다. `순수한 법이론(pure theory of law)'이란 존재할 수 없다. 법
+자체의 개념들만으로 구성된 법철학(jurisprudence)은 법의 본성을
+이해하기에 충분하지 않다. 법철학은 사회이론(social theory)과 철학적
+탐구(philosophic inquiry)에서 도움을 받아야 한다. 이런 점에서 법철학은
+법률가나 법학 교수들의 고유 영역도 아니며, 심지어 그들에게 자연스러운
+활동이라 보기도 어렵다. 법철학은 보다 일반적인 정치이론(political
+theory)의 일부일 뿐이다. 그 가치는 고객에게 법률 자문을 제공하거나
+사안들의 결정에 있는 것이 아니라, 우리 문화와 제도들을 이해하고,
+그것들에 대한 도덕적 평가(moral assessment)를 정초하는 데 있다. 이러한
+평가는 법의 본성뿐 아니라 도덕성(morality)의 본성에도 민감해야 한다.
+도덕성은 복수적이고 상충하는 가치들로 구성되어 있기 때문이다.
+
+이상은 현대 법철학에서 가장 영향력 있는 저작 중 하나인 H. L. A. 하트의
+\emph{법의 개념(The Concept of Law)}의 핵심 사상들이다. 그러나 다른
+중요한 책들과 마찬가지로, 하트의 책도 실제로 읽은 것보다는
+풍문(rumour)을 통해 알려진 경우가 많다. 그 책의 존재는 알고 있지만 그
+내용을 진지하게 읽어보지 않은 이들에게는, 방금 소개한 요약이 낯설게
+들릴지도 모른다. 그들이 들은 바에 따르면, 하트는 다음과 같은 생각을 가진
+사람처럼 보인다: 법은 폐쇄적인 논리 체계인가? 법은 다른 사회질서가 가진
+결함을 치유하는 하나의 사회적 성취인가? 법은 대체로 명확하며, 법원은
+도덕적 가치와 무관하게 이를 적용해야 하는가? 법과 도덕은 개념적으로
+구분되며, 반드시 분리되어야 하는가? 법철학은 가치로부터 자유롭고,
+`법(law)'과 같은 단어들의 진정한 의미를 탐구함으로써 그 진리를 밝힐 수
+있는 학문인가?
+
+이 모든 질문에 대한 간단한 대답은 ``아니다.'' 하트는 그런 생각을 갖고
+있지 않다. 이러한 왜곡된 해석들은 크게 세 가지 원인에서 비롯된다. 첫째는
+철학 전반에 걸쳐 자주 등장하는 난점이다. 하트가 다루는 문제들은
+복잡하며, 참과 거짓 사이의 간극은 종종 미묘하거나 쉽게 간과될 수 있는
+구분에 달려 있다. (예: 법과 도덕이 분리될 수 있다고 주장하는 것과, 법과
+도덕이 실제로 분리되어 있다고 주장하는 것은 전혀 다른 이야기다.) 둘째는
+역사적 요인이다. 반세기가 지난 지금, 책의 언어와 사례들은 사회적으로도,
+철학적으로도 낯설게 느껴질 수 있다. 오늘날 `원시적(primitive)'
+사회질서라는 표현을 쓰는 이는 드물고, 어떤 것의 본질에 대한 설명을
+그것의 개념에 대한 `해명(elucidation)'이라 부르지도 않는다. 셋째는
+독자의 기대와 관련된다. 모든 책은 이른바 `암묵적 독자(implied reader)'를
+전제로 한다. 하트의 책이 전제하는 독자는 우리가 가진 가장 중요한 정치
+제도 중 하나인 `법'의 본성과, 그것이 도덕 및 강제력(coercive force)과
+맺는 관계에 철학적으로 호기심을 가진 사람이다. 그러나 실제 독자는 반드시
+그렇지는 않다. 일부 독자들은 법철학에서 실천적 조언을 기대한다. 예컨대
+그들은 헌법을 어떻게 해석해야 하는지, 또는 어떤 사람이 판사가 되어야
+하는지를 알고 싶어 한다. 그들은 법 이론에 관한 책이 요리 이론에 관한
+책이 요리에 대해 해줄 수 있는 역할---즉 다양한 상황에 적용 가능한
+일반적인 `방법론(how-to)'---을 수행할 것이라 기대하는 것이다.
+
+하트의 책은 충분히 명료하므로 요약이 필요하지는 않지만, 그 주제들을
+간략히 탐색해보는 일은 위와 같은 오해들을 방지하는 데 도움이 될 수 있다.
+나는 그의 법과 사회규칙(social rules), 강제력(coercion),
+도덕성(morality)에 관한 견해를 살펴본 뒤, 몇 가지 방법론적 논점을 간단히
+언급할 것이다. 나는 중립적 태도를 취할 생각은 없다. 하트의 법이론은
+일부는 옳고, 일부는 잘못되었으며, 여기저기서 약간은 난해하기도 하다.
+그러나 다음에 이어지는 내용은 평가(appraisal)가 아니다. 나는 사람들이
+흔히 빠지거나 오도되는 지점들을 강조하고, 몇몇 쟁점에 대해 비판적 논평을
+덧붙이겠지만, 전체적인 평가는 독자의 몫으로 남겨두겠다.
+
+\subsection{\texorpdfstring{\textbf{2. 사회적 구성물로서의 법(LAW AS A
+SOCIAL
+CONSTRUCTION)}}{2. 사회적 구성물로서의 법(LAW AS A SOCIAL CONSTRUCTION)}}\label{uxc0acuxd68cuxc801-uxad6cuxc131uxbb3cuxb85cuxc11cuxc758-uxbc95law-as-a-social-construction}
+
+법(law)과 법체계(legal systems)는 자연(nature)의 산물이 아니라 인위적인
+것(artifice)이다. 다시 말해, 그것들은 사회적 구성물(social
+constructions)이라고 할 수 있다. 그렇다고 해서 이 말이 특별히 중요하거나
+주목할 만한 대비를 이룬다고 할 수 있을까? 어떤 이들은 모든 것이
+사회적으로 구성된 것이기 때문에, 법도 사회적 구성물이라고 생각한다.
+데리다(Derrida)는 ``\emph{il n'y a pas de hors-texte}''(텍스트 바깥은
+없다)라는 표현으로 이를 비꼬았다. 만약 이 말이 이해 가능하다 하더라도,
+법에 관한 논의에서는 무관한 말이다. 예를 들어, 누군가가 ``인종(race)은
+사회적 구성물이다''라고 말한 뒤, 그것을 ``경찰봉(truncheons)이나
+감옥(prisons)처럼 말이죠''라고 설명한다면 어떻겠는가? 이는 마치 누군가가
+신(God)은 존재하지 않는다고 말했는데, 알고 보니 그 사람은 개(dogs)조차
+존재하지 않는다고 믿는다는 사실을 알게 되는 것과 같다. 내가 법이 사회적
+구성물이라고 말할 때, 그것은 어떤 것들이 그렇지 \emph{않은} 방식에서
+그렇게 구성된 것이라는 뜻이다. 법은 사령(command)이나 규칙(rule)과 같은
+제도적 사실(institutional facts)로 구성되어 있으며, 그것들은 인간들이
+사고(thinking)하고 행위(acting)함으로써 만들어낸 것이다.\footnote{See
+  eg. John Searle, \emph{The Construction of Social Reality} (Allen
+  Lane, 1995); and Neil MacCormick, \emph{Institutions of Law: An Essay
+  in Legal Theory} (Oxford University Press, 2007).} 그러나 법은
+사회적으로 구성되지 않은 물리적 우주 속에 존재하며, 또한 법은 사회적으로
+구성되지 않은 인간들에 의해, 그리고 인간들을 위해 만들어진 것이다.
+어쩌면 이 점은 너무 뻔한 말처럼 들릴 수 있다. 유행에 발맞추려는 듯이
+`예절의 사회적 구성(social construction of etiquette)'에 대해 말할 수도
+있겠지만, 예절(manners)이 관습(conventional)이라는 것은 누구나 알고 있는
+일이기에 굳이 강조할 필요가 없다. \footnote{Cf. Ian Hacking, \emph{The
+  Social Construction of What?} (Harvard University Press, 1999).}
+예절은 공동의 관행(common practice)에 의존하고, 나름의 역사(history)를
+가지며, 지역마다 달라진다. 그렇다면 법도 이와 같다는 것은 자명한 진실
+아닌가? 하지만 이 점을 다시 생각하게 만드는 유명한 스토아 학파(Stoic)의
+자연법(natural law) 요약문을 보자:
+
+\begin{quote}
+진정한 법은 자연(Nature)과 일치하는 올바른 이성(right reason)이다.
+그것은 보편적으로 적용되며, 변하지 않고 영원하다\ldots{} 로마와
+아테네에서 다른 법이 있을 수 없고, 현재와 미래에 서로 다른 법이 존재할
+수 없으며, 오직 하나의 영원하고 불변하는 법만이 모든 민족과 모든 시대에
+타당할 것이다\ldots{}\footnote{Cicero, \emph{De Re Republica} III. xii.
+  33, tr. C. W. Keyes (Harvard University Press, Loeb Classical Library,
+  1943) 211.}
+\end{quote}
+
+이 영원하고 보편적인 법은 누군가가 창조한 것도 아니고, 누군가가 바꿀 수
+있는 것도 아니라고 말한다. 자연법(natural law)은 의지(will)의 문제가
+아니라 이성(reason)의 문제이다. 이러한 전체 주장에 동의하는 법이론가는
+드물지만, 그 중 일부에 동의하는 이들은 여전히 많다.\footnote{Perhaps
+  John Finnis comes closest, in his \emph{Natural Law and Natural
+  Rights} (2nd edn., Oxford University Press, 2011).} 예컨대 로널드
+드워킨(Ronald Dworkin)은 다음과 같이 주장한다. 우리 법은 조약(treaties),
+관습(customs), 헌법(constitutions), 성문법(statutes), 사례(cases)에서
+발견되는 규범들뿐 아니라, 그 규범들에 대한 최선의 정당화(best
+justification)를 제공하는 도덕적 원칙들(moral principles)도 포함한다는
+것이다.\footnote{Ronald Dworkin, \emph{Taking Rights Seriously} (Harvard
+  University Press, 1978), chap.~4; Ronald Dworkin, \emph{Law's Empire}
+  (Harvard University Press, 1986), chaps. 2--3.} 드워킨의 설명에
+따르면, 도덕적 원칙들에 의해 \emph{정당화되는 대상}은 사회적으로 구성된
+것이지만, 그 정당화들 자체는 사회적으로 구성된 것이 아니다. 여기서
+중요한 점은, 정당화(justification)는 사건(event)이 아니라는 것이다.
+정당화를 믿거나(believing), 수용하거나(accepting), 주장(asserting)하는
+행위는 사건이다. 하지만 드워킨은 법이 구성되는 것은, 단지 구성된
+내용들과 사람들이 그것을 정당화라고 \emph{믿었거나}, \emph{수용했거나},
+\emph{주장했기 때문}이라고 말하지 않는다. 그는 그 내용들에 \emph{실제로
+정당화가 되는} 도덕적 원칙들이 더해져야 법이 구성된다고 주장한다. 만약
+어떤 것이 법이 되기 위한 조건이 그것이 다른 어떤 법적 대상에 대한 최선의
+도덕적 정당화(best moral justification)라는 사실이라고 믿는다면, 당신은
+키케로(Cicero)와 마찬가지로, `올바른 이성(right reason)'의 요청이기
+때문에 법의 지위를 갖는 법이 있다고 믿는 셈이다. 우리가 하는 어떤 일도
+타당한 정당화(sound justification)를 부당한 것으로 만들 수 없다면,
+우리는 바꿀 수 없는 법의 존재를 인정하게 된다. 또한 어떤 도덕 원칙이
+어떤 제도를 정당화하는지는 누가 그것을 알고 있거나 믿는지 여부와
+무관하다면, 아무도 들어본 적 없는 법---아주 많은 법---이 존재할 수 있게
+된다. 도덕적 인식(moral knowledge)의 가능성에 따라, 아예 알 수조차 없는
+법이 존재할 수도 있다.
+
+하트(Hart)의 접근은 이러한 입장을 전면적으로 거부한다. 법 안에 존재하는
+모든 것은 누군가, 혹은 어떤 집단이 그것을 고의적으로든 우연히든 그곳에
+두었기 때문에 존재하는 것이다. 법은 모두 역사를 가지며, 모두 변화
+가능하며, 모두 알려져 있거나 알려질 수 있는 것이다. 우리의 법 중 일부는
+좋은 정당화(good justification)를 갖고, 일부는 그렇지 않으며,
+정당화만으로는 결코 법을 성립시키기에 충분하지 않다. 법을 성립시키기
+위해서는 실제 인간의 개입(actual human intervention)이 필요하다. 즉,
+사령(command)이 내려지고, 규칙(rule)이 적용되고, 결정(decision)이
+내려지고, 관습(custom)이 형성되고, 혹은 정당화(justification)가
+승인되거나 주장되어야 한다.
+
+법철학자들은 인간의 개입(human interventions)으로 설정된 것들을 지칭하기
+위해 오래된 용어를 사용하는 경우가 있다. 그들은 그것들을
+`정립되었다(posited)'고 말한다. 모든 법이 정립된 것이라고 여기는 사람을
+\emph{법실증주의자}(legal positivist)라고 부르며, 사회구성주의자(social
+constructivist)는 그러한 법실증주의자의 일종이다. 그러나 모든
+법실증주의자가 사회구성주의자인 것은 아니다. 한스 켈젠(Hans Kelsen)은
+사회구성주의자가 아니었다. 그는 모든 법이 정립된 것이라고 생각했지만,
+동시에 모든 법체계에는 정립된 것이 아니라 단지 `전제(presupposed)'된
+규범(norm)이 적어도 하나는 포함된다고 보았다.\footnote{Hans Kelsen,
+  \emph{Pure Theory of Law} (Max Knight tr., 2nd edn., University of
+  California Press, 1967) 193--205.} 켈젠에 따르면, 법규범(legal norm)은
+그것이 유효(valid)할 때에만 존재한다. 여기서 `유효하다(valid)'는 것은 그
+규범의 대상자(subjects)가 그것에 따라야 한다(ought to conform)는 것을
+의미한다. 그는 흄(Hume)과 칸트(Kant)의 뒤를 이어, `존재한다(is)'는
+사실만으로는 `마땅하다(ought)'는 결론을 도출할 수 없다고 주장했다.
+따라서 어떤 사회적 구성물(social construction)도, 혹은 그것들의 총합이라
+할지라도, 규범(norm)이 될 수 없다. 규범을 만들어내기 위해서는, 사회
+내에서의 근본적인 입법 과정(fundamental law-making processes)이
+유효하다는 전제가 필요하다. 원초적 헌법(original constitution)이 진정한
+권위를 가져야만 그 아래의 어떤 것도 권위를 가질 수 있다. 따라서 우리는
+원초적 헌법 아래에서 만들어진 자료들을 법으로 간주하려면, 그 헌법이
+구속력을 갖는다는 것을 전제(presuppose)해야 한다. 이제,
+전제(presupposition)라는 것도 정당화(justification)와 마찬가지로 어떤
+사건(event)이 아니다. 켈젠은, 법이 무엇을 요구하는지를 알기 위해서는
+사람들이 실제로 무엇을 정립(posited)했는지를 알아야 한다는 점은 부정하지
+않았다. 하지만 그는, 그들이 만들어낸 산물을 \emph{법으로서(as law)}
+이해하기 위해서는, 사회적이거나 역사적인 것이 아닌 어떤 요소가 더해져야
+한다고 주장했다. 이 때문에 켈젠은 법실증주의자임에도 사회구성주의자는
+아니다. 그는 우리가 사회적으로 구성된 규범들을 연구하는
+방식---사회학적(sociological), 심리학적(psychological),
+역사적(historical) 탐구---을 법철학(jurisprudence)에서는 `외부
+요소(alien elements)'로 간주해야 한다고 보았다.\footnote{Ibid. 1.}
+
+하트(Hart)는 켈젠의 이러한 견해 역시 거부한다.\footnote{See below,
+  292--3, and Hart's essays `Kelsen Visited' and `Kelsen's Doctrine of
+  the Unity of Law' in H. L. A. Hart, \emph{Essays in Jurisprudence and
+  Philosophy} (Oxford University Press, 1983).} 법의 궁극적 기초는
+정당화(justification)도 아니고 전제(presupposition)도 아니다. 그것은
+사람들이 특정한 사고(thinking)와 행위(doing)를 함으로써 생겨나는 사회적
+구성물(social construction)이다. 법철학(jurisprudence)의 역할은 이
+구성물이 무엇인지, 그리고 그것이 일상의 사회적 사실들로부터 어떻게
+구축(built up)되는지를 설명하는 것이다. 하트는 자신의 이 설명을 `기술적
+사회학에 관한 하나의 에세이(an essay in descriptive sociology)'라고
+부르기까지 한다(vi).\footnote{Parenthetical page references are all to
+  this volume.} 이것은 다소 과장된 표현일 수 있다. 이는 분석적
+법철학(analytic legal philosophy)의 하나의 시도이지만, 이 시도는
+이론적으로 예리한 법사회학(theoretically astute sociology of law)이
+유용하게 사용할 수 있는 개념들을 활용한다. 그중 가장 중요한 것이 바로
+사회적 규칙(social rule)이라는 개념이다.
+
+\subsubsection{\texorpdfstring{(i) \emph{법, 규칙, 관행} (Law, Rules,
+and
+Conventions)}{(i) 법, 규칙, 관행 (Law, Rules, and Conventions)}}\label{i-uxbc95-uxaddcuxce59-uxad00uxd589-law-rules-and-conventions}
+
+하트는 원래 홉스(Hobbes), 벤담(Bentham), 오스틴(Austin)에게서 발견되는
+초기의 법실증주의 설명을 거부한 뒤, 규칙(rules)이 법의 가장 중요한 구성
+요소라고 생각하게 되었다. 이들은 법을 명령(command), 위협(threat),
+복종(obedience)으로 구성된 것이라고 보았다. 주권자(sovereign)란 대부분의
+사람들의 습관적인 복종(habitual obedience)을 받지만, 자신은 아무에게도
+습관적으로 복종하지 않는 개인이나 집단을 말한다. 법이란 주권자의 일반적
+명령(general command)이며, 힘(force)의 위협에 의해 뒷받침된다.
+
+1977년, 미셸 푸코(Michel Foucault)는 다음과 같이 말했다. ``우리가 필요로
+하는 것은 주권의 문제를 중심으로 세워진 정치철학이 아니다\ldots{} 우리는
+왕의 목을 쳐야 한다. 정치이론에서는 그것이 아직 끝나지
+않았다.''\footnote{Michel Foucault, `Truth and Power' in his
+  \emph{Power/Knowledge: Selected Interviews and Other Writings,
+  1972--1977} (Colin Gordon ed., Vintage, 1980) 121.} 그러나 이 `왕
+살해'(regicide)의 소식은 이미 영국 해협을 건넜는지도 모른다. 하트는 이미
+오래 전에 그 작업을 끝마쳤기 때문이다. 하트는 『법의 개념』 제3장과
+제4장에서 다음을 보여준다. 법은 모두 명령으로 구성되어 있지 않으며,
+법체계는 반드시 어떤 개인이나 집단이 주권자의 속성을 가져야만 성립되는
+것이 아니다. 법은 그것을 창조한 자들이 사라진 이후에도 계속 존재하며,
+위협(threats)은 사람들에게 어떤 행위를 하도록 \emph{강제(oblige)}할 수는
+있지만, \emph{의무(obligation)}를 부여할 수는 없다. 결국 주권 이론에서
+누락된 핵심은 사회적 규칙(social rule)의 개념이다. 우리가 규칙을
+이해하게 되면, 우리는 그것이 주권, 권한(powers), 관할(jurisdiction),
+유효성(validity), 권위(authority), 법원(courts), 법률(laws),
+법체계(legal systems)---심지어 하트에 따르면 정의(justice)의 한
+유형---을 설명하는 열쇠라는 것을 알게 될 것이다. 법(law) 자체는 사회적
+규칙들의 \emph{결합(union)}이다. 즉, 인간의 행위를 지도하기 위해
+의무(duty)를 부과하거나 권한(power)을 부여하는 \emph{1차 규칙(primary
+rules)}과, 1차 규칙을 식별하고(identification), 변경(alteration),
+집행(enforcement)하기 위한 \emph{2차 규칙(secondary rules)}의 결합이다.
+이 2차 규칙들 중에서도, 궁극적인 \emph{인식 규칙(rule of recognition)}은
+특별한 중요성을 갖는다. 인식 규칙은 1차 규칙을 적용하는 역할을 맡은
+사람들의 관습적 관행(customary practice)으로, 어떤 행위가 법을
+형성하는지를 결정함으로써 법적 유효성(legal validity)의 기준(criteria)을
+제공한다. 따라서 법체계의 근본 헌법(fundamental constitution)은 도덕적
+정당화(moral justifications)나 논리적 전제(logical presuppositions)에
+근거하는 것이 아니라, `법원(courts), 공무원(officials), 일반인(private
+persons)의 복합적 관행(complex practice)'에 의해 생성된 이 관습적
+사회규칙(customary social rule)에 기반한다(107쪽). 하트는 영국의 인식
+규칙(rule of recognition)이 다음과 같은 것이라고 제안한다. ``여왕과
+의회가 제정한 것은 곧 법이다(Whatever the Queen in Parliament enacts is
+law).'' 의회의 제정물은, 그것이 도덕적으로 정당하다거나, 어떤 논리적
+전제에 의해 정당화되었기 때문에 법인 것이 아니라, 실제로 시행되고 있는
+관습적 규칙(customary rule)이 그것들을 법으로 인정하고 있기 때문에 법인
+것이다.
+
+그러므로 법은 사회적 규칙(social rules)으로 구성되어 있다. 그렇다면
+규칙(rules) 자체는 어떤가? 그것들 역시 사회적 구성물(social
+constructions)이며, 하트(Hart)는 그것들이 실천(practice)으로 이루어져
+있다고 말한다. (이러한 입장을 흔히 `규칙에 대한 실천 이론(practice
+theory of rules)'이라 부른다.) 관습적 규칙(customary rules)은 `외적
+측면(external aspect)'을 가지며, 이는 행동의 규칙성(behavioural
+regularity)으로 나타난다. 즉, 사람들은 공통된 방식으로 행동한다. (규칙의
+성격에 따라, 이는 그 규칙의 요구에 부응하거나 또는 타인에게 그것을
+적용하는 행위를 포함할 수 있다.) 규칙은 또한 `내적 측면(internal
+aspect)'을 갖는데, 이는 하트가 `수용(acceptance)'이라 부른 복합적인
+태도를 포함한다. 수용이란, 그 규칙적 행태를 행동을 인도하고 평가하는
+기준(standard)으로 삼으려는 의지로서, 특히 일치(conformity)를 칭찬하고
+위반(breach)을 비판하며, 그러한 칭찬과 비판이 적절하다고 여기는
+태도이다. 수용은 찬성(approval)을 요구하지 않는다. 그것은 사람들이 그
+규칙에 대해 어떻게 느끼는가의 문제가 아니라, 그 규칙을 사용할 의사가
+있는가의 문제이다. 사람들은 하트가 말하는 의미에서 규칙을 수용할 수
+있다. 그 규칙이 좋다고 생각해서 수용할 수도 있고, 다른 사람을 기쁘게
+하려고, 혹은 두려움이나 동조심(conformism) 때문에 수용할 수도 있다
+(56--7, 115, 257쪽). 밀턴(Milton)의 말을 믿는다면, 사탄(Satan)조차도 그
+규칙이 나쁘다고 생각하는 이유로 규칙을 수용할 수 있다. ``악이여, 나의
+선이 되어라(Evil be thou my good).'' 중요한 것은 사람들이 특정
+기준(standard)에 수렴(converge)하고, 그것을 행위의 지침으로 삼으며,
+그렇게 함으로써 그것을 규범적인 것(normative)으로 대우한다는 점이다.
+
+규칙에 대한 실천 이론(practice theory of rules)은 논쟁적이다. 몇 가지
+난점을 살펴보고, 그런 뒤에 하트가 제기된 반론을 어떻게 회피하려 하는지를
+살펴보자. 하트는 다음 두 가지를 만족시키는 규칙의 존재 테스트를 원했다.
+첫째, 단순한 우연적 또는 습관적 행동 패턴과 진정한 규칙 준수를 구별할 수
+있을 것. 둘째, 관습 규칙이 의무(obligatory) 또는 구속력을 가진(binding)
+것으로 되는 것이 무엇을 의미하는지 설명할 수 있을 것. 그러나 실천 이론은
+이 요구를 충족시키지 못한다.\footnote{See Ronald Dworkin, \emph{Taking
+  Rights Seriously} (rev. edn., Harvard University Press, 1978) 48--58;
+  Joseph Raz, \emph{Practical Reason and Norms} (2nd edn., Oxford
+  University Press, 1999) 49--58.} 예컨대 규칙이지만 사회적 실천이 아닌
+것들이 있다 (예: 개인의 규칙). 또한 사회적으로 받아들여지고 수용된
+실천이지만 규칙은 아닌 것도 있다 (예: 권총강도에게 지갑을 넘겨주는 것이
+일반적이고 수용된 관행일 수 있지만, 그것이 규칙인 것은 아니다). 그리고
+어떤 규칙을 인용하는 것이, 단지 어떤 정당화가 존재한다고 여긴다는 표시가
+아니라, 자기 행위의 \emph{정당화로서(as a justification)} 제시될 수도
+있다. 이는 실천 이론과 맞지 않는다. 더 나아가, 우리가
+의무(obligation)라는 개념을 이해하는 데 사회적 규칙(social rule)이라는
+개념이 반드시 필요한지도 명확하지 않다. 어떤 사람은 항공 여행에 대해
+탄소 상쇄(carbon offsets)를 구매해야 할 의무가 있다고 믿을 수 있지만,
+그런 실천이 보편적으로 존재한다거나 관행적으로 수용된다고 생각하지는
+않을 수 있다.
+
+하트는 이 책의 \emph{후기(Postscript)}에서 이러한 비판들에 대응하기 위해
+자신의 설명을 한정한다. 그는 이제 모든 규칙이 실천 규칙(practice
+rules)은 아니라고 인정하지만, \emph{관습적 규칙(conventional rules)}은
+그렇고, 법은 그러한 규칙들에 기반한다고 말한다. 하트는 어떤 규칙이
+관습적(conventional)이라고 하려면 ``그 집단 구성원 각각이 그 규칙을
+수용하는 이유 중에, 집단 전체의 일반적 일치(conformity)가 포함되어
+있어야 한다''고 말한다 (255쪽). 예컨대, ``우측 통행''의 규칙은 사람들이
+대다수가 그렇게 하지 않는다면 따르지 않을 것이므로 관습이다. 반면,
+``졸릴 때 운전하지 말라''는 규칙은 해당되지 않는다. 왜냐하면 도로에 졸린
+운전자가 많을수록 오히려 더욱 깨어 있어야 할 이유가 생기기 때문이다.
+하트는 궁극적 인식 규칙(rule of recognition)이 하나의 관습이라고 본다.
+``영국 판사가 의회의 입법을 법의 원천으로 삼아 다른 원천들보다 우위에
+둔다면, (또는 미국 판사가 헌법을 그런 원천으로 삼는다면) 그 이유는
+그들의 사법적 동료들 역시 그렇게 해왔으며, 선배들도 그렇게 해왔기
+때문이다''(267쪽). 법은 ``판사들과 법률가들이 수용한 단지 하나의 관습적
+인식 규칙(a mere conventional rule of recognition)''에 기반한다 (267쪽).
+그러나 여기서 \emph{mere}(단지)라는 표현은 삭제해야 할 것이다.
+공직자들이 인식 규칙(rule of recognition)이나 다른 근본 규칙들을 따르는
+유일한 이유가 다른 사람들도 그렇게 하기 때문이라고 보기는 어렵다. 예컨대
+영국에서 의회 제정 법률(parliamentary statutes)이 최고 법원(supreme
+source of law)이라는 지위는, 그것이 최고로 간주되는 관행뿐 아니라, 이
+관행이 민주적이라거나 우리 문화의 핵심이라는 신념에 의존하고 있을 수
+있다. 미국의 경우, 헌법의 최고성은 단지 공동의 관행뿐 아니라, 그것이
+정당한 정부형태를 구성한다는 믿음이나, 지혜로운 사람들이 제정한 것이므로
+그것에 충실해야 한다는 믿음에 기초할 수 있다. 이러한 신념들이 반드시
+올바를 필요는 없으며, 반드시 모든 사람에게 공유될 필요도 없다. 그러나
+이러한 신념들은 일반적으로 공동 관행 기반의 이유들과 함께 존재한다.
+하트가 말하는 의미에서 인식 규칙이 관습적이라고 하려면, 공직자들이
+그것을 적용하는 다른 이유들이 무엇이든 간에, 그러한 공동 관행이 없었다면
+그것을 적용하지 않았을 것이라는 조건이 충족되어야 한다.
+
+이러한 수정(관습 이론의 도입)을 감안하더라도, 또 다른 문제가
+남는다.\footnote{For other doubts about Hart's argument on this point
+  see Leslie Green, `Positivism and Conventionalism' (1999) 12
+  \emph{Canadian Journal of Law and Jurisprudence} 35; and Julie
+  Dickson, `Is the Rule of Recognition Really a Conventional Rule?'
+  (2007) 27 \emph{Oxford Journal of Legal Studies} 373.} 인식 규칙(rule
+of recognition)은 의무나 책무를 부과하는 규칙이다: 그것은 법의 원천을
+식별할 뿐 아니라, 식별된 법을 판사들과 다른 이들이 적용하도록 지시한다.
+실천 이론에 따르면, 사회적 규칙이 의무를 부과하려면 다음 세 가지 조건이
+모두 충족되어야 한다: (a) 그 규칙이 사회적으로 필요하다고 믿어져야 하며,
+(b) 강한 사회적 압력(social pressure)에 의해 강화되어야 하고, (c) 그
+규칙이 규범 대상(norm-subject)의 당면한 자기이익(self-interest)과 충돌할
+수 있어야 한다 (86--8쪽). 이러한 조건들이 이 경우 충족되는가? 이
+조건들은 사실적(factual)이므로, 구체적인 사례마다 실제 조사가 필요하다.
+일반적으로 보자면, 법원의 입장에서는 법의 기준(test)을 고정시키는 것이
+필요하다고 여겨질 가능성이 높고, 이를 벗어난 행동은 강한 압력에 의해
+교정될 것이다. (예를 들어, 미국 지방법원이 대법원의 모든 판결을 무시하고
+샤리아법(Sharia)을 구속력 있는 법의 원천으로 적용한다면, 어떤 반응이
+나타날지 상상해 보라.) 그러나 관습 규칙의 경우, 조건 (c)가 왜 충족되는지
+확인하는 것은 더 어렵다. 특정한 관습 기준이 중요하다고 믿어질수록,
+그것을 어길 유인은 오히려 줄어든다. 우리는 모두 좌측 통행이든 우측
+통행이든 선택할 수 있지만, 공통된 관행이 존재하는 상황에서는 그
+반대편으로 운전할 유혹은 별로 없다. 일탈의 유혹은 일반적으로
+\emph{공공재(public goods)}에 관한 규칙, 즉 무임승차(free-riding)가
+가능한 규칙에서 더 자주 발생한다. 하지만 규칙이 관습적인 경우, 의무와
+욕망이 같은 방향으로 작용한다. 이때는 `의무 또는 책무와 이익 사이에 항상
+존재하는 충돌 가능성(the standing possibility of conflict between
+obligation or duty and interest)'이 존재하지 않는다 (87쪽). 위에서 말한
+것처럼, 판사들은 서로 다른 인식 규칙들 사이에 선호(preferences)를 가질
+수 있으며, 그 선호는 정당성(legitimacy) 등에 대한 견해를 반영할 수 있다.
+그러나 모든 판사들의 기본적인 태도가 `군중과 함께 가고자 하는
+욕망'이라면, 우리가 일반적으로 `의무'라고 부르는 규범적 긴장(normative
+push and pull)은 드물어질 것이다. 이 점에서 하트는 처음의 설명이 더
+진실에 가까웠다: 판사들조차 일탈의 유혹을 받을 수 있지만, 그것은 또한
+비판과 강한 복종 압력을 불러일으키는 계기가 된다. 안타깝게도, 이와 같은
+비판과 압력은 규칙이 전혀 없는 경우, 단지 보편 적용 가능한 이유(reason
+of general application)가 존재하는 경우에도 마찬가지로 발생한다. 사회적
+규칙(social rule)의 정확한 성격에 대한 논쟁은 여전히 계속되고 있으며,
+하트의 일반적인 설명 틀 안에서 수용 가능한 다른 설명들도
+있다.\footnote{For example: Joseph Raz, \emph{Practical Reason and
+  Norms}; Frederick F. Schauer, \emph{Playing by the Rules: A
+  Philosophical Examination of Rule-based Decision-making in Law and in
+  Life} (Oxford University Press, 1993); Andrei Marmor, \emph{Social
+  Conventions}: \emph{From Language to Law} (Princeton University Press,
+  2009); Scott J. Shapiro, \emph{Legality} (Harvard University Press,
+  2011). A distinction between rules and standards is drawn in Henry M.
+  Hart and Albert Sacks, \emph{The Legal Process: Basic Problems in the
+  Making and Application of Law} (W. N. Eskridge, Jr.~and P. P. Frickey
+  eds., Foundation Press, 1994) 139--41.} 그러나 단순한 실천 이론도,
+하트의 관습주의적 수정안도, 그것들만으로는 충분하지 않다.
+
+\subsubsection{\texorpdfstring{(ii) \emph{규칙의 적용 범위(The Reach of
+Rules)}}{(ii) 규칙의 적용 범위(The Reach of Rules)}}\label{ii-uxaddcuxce59uxc758-uxc801uxc6a9-uxbc94uxc704the-reach-of-rules}
+
+법 이론에서 규칙 기반 이론(rule-based theory)에 대한 독립적인 회의
+근거는 그 범위(scope)에 관련된다. 사회적 규칙(social rules)이 법적
+현상(legal phenomena)을 이해하는 데 필수적이라는 점이 입증된다고
+하더라도, 그것만으로 충분한가? 그렇지 않다. 그 이유는 여러 가지다.
+
+첫 번째 이유는 하트(Hart) 자신이 강조한 것이다. 모든 1차 및 2차
+규칙(primary and secondary rules)의 체계가 법체계(legal system)인 것은
+아니다. 예컨대, 북미 하키 리그(National Hockey League)에는 규칙 체계가
+존재한다. 선수, 심판, 커미셔너의 행동을 지시하는 1차 규칙과, 공식 규칙에
+대해 인정(recognition), 변경(change), 판정(adjudication)의 기능을
+수행하는 2차 규칙들이 있다. 하지만 하키 규칙들은 법체계는 아니다. (물론
+그것들이 법체계와 \emph{유사하다}는 점은 누구도 부정하지 않는다.) 그러면
+무엇이 빠져 있는가? 하키 규칙은 특수 목적(special-purpose)의 규칙이다.
+하나의 게임만을 규율하는 반면, 법은 삶의 많은 부분을 규율할 수 있다.
+그리고 법체계는 하키 규칙을 포함하여 하키 전반을 규율하지만, 하키 규칙은
+법을 규율하지 않는다. 하트는 나아가, 법은 단지 포괄적으로 규율할
+\emph{수 있는} 것뿐 아니라, 실제로 재산(property), 계약(agreements),
+폭력의 사용(use of force) 등을 포함하여 광범위한 사안들을 규율해야만
+비로소 법체계라고 할 수 있다고 주장한다 (193--200쪽). 하트는 이를
+법체계의 `최소한의 내용(minimum content)'이라 부르며, 이러한 내용을
+규율하는 것이 인간 생존(human survival)을 증진시키고, 인간 생존이 (그는
+당연하다는 듯) 도덕적으로 선(good)하다고 가정하기 때문에, 모든 법체계는
+어떤 형태로든 선(good)을 지향한다고 본다. 따라서 법체계에 대해
+`형식적(formal)' 기준을 적용할 수 있는가의 문제는 무의미하다. 이것이
+바로 서두에서 언급한 것처럼, 하트의 이론이 법체계를 논리나 수학의 형식
+체계(formal system)처럼 간주한다고 생각하는 것이 잘못된 이유 중 하나다.
+그리고 이 논점은 더 큰 함의를 갖는다. 어떤 것도 법이 되려면 어떤
+법체계에 속해야 하기 때문에, 법 자체에 대해서도 순수하게 형식적인
+기준이라는 것은 있을 수 없다. 법은 특정한 \emph{유형(kind)}의 규범
+체계(normative system) 속에서 일정한 역할을 수행하는 규칙(rules)인
+것이다. 그리고 이 규범 체계는 부분적으로 그 \emph{내용(content)}에 의해
+구별된다.
+
+두 번째 논점은 하나를 명확하게 해 준다. 어떤 학자들은 하트의 설명이
+부정확하거나 불완전하다고 생각한다. 그 이유는 법체계에는 규칙 외의 다른
+규범(norms)들이 존재한다는 것이다. 예컨대 `기준(standards)'이나
+`원칙(principles)'이 그러한 것이라 한다.\footnote{A distinction between
+  rules and principles is drawn in Ronald Dworkin, \emph{Taking Rights
+  Seriously} 22--8.} 위에서 본 것처럼(xviii쪽 참조), 이러한 것이 법률의
+도덕적 정당화(moral justifications)를 가리킨다고 본다면, 하트의 관점에서
+그것들은 공식적으로 채택(adopted)되거나 승인(endorsed)되지 않는 한 법의
+일부가 아니다. 그러나 `기준'과 `원칙'이라는 용어는 또한 융통성 있거나
+반박 가능한(defeasible) 일반적 법 규범을 지칭하기 위해 흔히 사용된다.
+이런 의미에서라면, 그것들은 하트의 이론에 쉽게 들어맞는다. 법이 어떤
+쟁점에 미치는 영향을 알기 위해서는, 서로 교차하거나 충돌할 수 있는 여러
+규칙들의 총합적 효과(net effect)를 이해해야 하며, 그 충돌을 해결할 수
+있는 허용 가능한 방법(permissible way)은 하나 이상 존재할 수 있다.
+이것이 반박 가능성(defeasibility)의 한 원천이다. 또 다른 원천은 하트가
+제7장에서 설명했듯이, 모든 규칙은 일정 정도 모호하며(open-textured),
+불명확한 부분이 존재한다는 사실이다. 어떤 경우에는 규칙의 적용이
+명확하고, 어떤 경우에는 명백히 적용되지 않지만, 어떤 경우에는 적용
+가능성은 있지만 명확하지 않다. 항소심 법원(appellate courts)의 업무 중
+많은 부분이 바로 이러한 명확하지 않지만 법적으로는 논의 가능한(arguable)
+사건들에 대한 판단을 포함한다. 이러한 의미에서 법의 불확정성(legal
+indeterminacy)은 규칙의 경계(margins)에서 발생하긴 하지만, 그 자체가
+\emph{주변적} 현상은 아니다. 이는 모든 법체계와 그 안의 모든 규칙의
+특징이며, 그 결과로 ``법원과 다른 공직자들의 재량(discretion) 영역이
+넓고 중요하다''(136쪽)고 할 수 있다. 법원은 법을 권위적으로 적용하는
+특별한 임무를 가지지만, 동시에 입법기관과 마찬가지로 새로운 법을
+창출하는 임무도 수행한다. 이 법 창출적 기능을 언제, 어떻게 사용할지는
+어떤 종류의 규칙도 단순히 적용하는 문제가 아니라 실천적 판단(practical
+judgement)을 요한다. 불확정성 해결에 있어 법원의 역할을 고려할 때,
+오로지 또는 주로 항소심 법원이나 그 어떤 법원의 역할만을 통해 일반적인
+법 이론을 구성하려는 것은 오도될 수 있다. `선택 효과(selection
+effect)'로 인해 법적 불확실성이 과도하게 강조될 위험이 있기 때문이다.
+법이라는 개념이 너무 고정적(cut-and-dried)이라고 보고 그것이 실제 법의
+유동적이며 논쟁적인 성격을 포착하지 못한다고 생각하는 이들은 이러한
+함정에 빠지기 쉽다. 그들은 법원을 구성하는 비교적 확립된 규칙들이나,
+사람들이 법원에 가지 않고도 자신의 행동을 결정할 때 사용하는 평범한 법
+규칙들을 보지 못한다. 예컨대 도로 표지판의 ``정지(Stop)''는 ``깜빡이는
+것을 멈추라''는 뜻이 아니라 ``차를 멈추라''는 의미임을 운전자들은 알고
+있다. 이를 위한 사법적 판결은 필요 없다. 이는 실제로 작동하는 법(law in
+action)의 전형적인 사례다.
+
+세 번째 논점은 다음 사실을 상기시킨다. 즉, 법적 규칙 체계 안의 모든
+요소가 어떤 종류의 규칙인 것은 아니라는 점이다. 예컨대 『1998년 영국
+인권법(UK Human Rights Act)』 제6조는 다음과 같이 규정한다. ``이
+조항에서 `공공기관(public authority)'이란 다음을 포함한다: (a) 법원 또는
+재판소, 그리고 (b) 그 기능 중 일부가 공적 성격(public nature)의 기능인
+사람\ldots.'' 이는 규칙인가? 그것은 정의(definition)이다. 하지만 정의가
+언어 사용을 위한 규칙이라고 본다면? 그렇다면 이는 행위를 요구하거나
+부여하거나 허용하지 않기 때문에 규범(norm)은 아닌 규칙(rule)일 것이다.
+정의의 법적 역할은, 그것이 섹션 1에 나오는 규범(norm)인 규칙과
+\emph{함께(along with)} 어떻게 작동하는지를 보여줌으로써 설명된다.
+예컨대 제1조는 이렇게 말한다. ``공공기관은 협약 권리(Convention right)와
+양립할 수 없는 방식으로 행동하는 것이 불법(unlawful)이다.'' 그리고 불법
+행위에 대한 구제는 다른 조항에 의해 제공된다. 이는 (함축적으로)
+사람들에게 무엇을 하라고 지시하는 것이다. ('불법'이라는 표현이 이
+문맥에서 무엇을 의미하는지를 아는 것이 필요하다.) 이는 규칙이 아닌
+규범인 법적 자료들을 다루는 방법이기도 하다. 예컨대 법원 판결은 종종
+특정한 명령(order)으로 끝난다. 즉, 누군가에게 무엇을 하라, 지불하라,
+또는 어떤 불이익을 감수하라는 지시(directive)다. 이러한 일회적
+명령(one-off order)은 규칙이 아니라 개별 규범(individual norm)이다. 개별
+규범만으로는 통치(govern)가 사실상 불가능하지만, 그것 없이는 통치는
+논리적으로 불가능하다. 법원이 사람들의 법적 지위를 권위 있게 결정하려면,
+특정한 사람들에게 구속력을 갖는 판단(ruling)을 내려야 한다. 따라서
+규칙은 법과 법체계를 이해하는 데 필수적이지만, 그것만으로는 충분하지
+않다. 우리는 규칙이 어떤 내용을 다루는지, 무엇을 하도록 기대되는지,
+규칙과 함께 작동하는 다른 자료들이 무엇인지, 그리고 규칙에 의해 지배되지
+않는 법적 의사결정이 무엇인지도 알아야 한다. 하트는 이러한 주제들 가운데
+일부에 다른 것보다 더 많은 시간을 할애하긴 했지만, 이 모든 주제는 그의
+이론 안에 수용 가능하다. 널리 퍼진 오해와 달리, 하트는 법이
+\emph{단순히} 규칙의 문제라고 말한 적이 없다. 또한 규칙이 \emph{모든}
+법적 현상을 설명한다고도 말하지 않았다. 사실 그는 그러한 오류를
+경계한다. ``기본 및 2차 규칙의 결합은 법의 많은 측면을 설명해 주기
+때문에 중심적인 위치를 차지할 자격이 있다. 그러나 이것만으로 모든 문제를
+밝힐 수는 없다.\ldots{} {[}이 결합은{]} 법체계의 중심에 있긴 하지만,
+그것이 전부는 아니다\ldots.'' (99쪽) 법철학(jurisprudence)은 이 밖의
+여러 관심사들을 함께 고려해야 한다.
+
+\subsection{\texorpdfstring{\textbf{3. LAW AND POWER (법과
+권한)}}{3. LAW AND POWER (법과 권한)}}\label{law-and-power-uxbc95uxacfc-uxad8cuxd55c}
+
+지금까지의 논의는 다음과 같다. 법(law)은 사회적 규칙(social rules)의
+산물이며, 이러한 규칙들 역시 실천(practice)으로부터 구성된 것이다. 이는
+결국 사회적 통제(social control)의 수단인 제도를 다소 안이하게 이해한
+것처럼 들릴 수도 있다. 그렇다면 갈등(conflict), 강제(coercion),
+권한(power)은 어떻게 되는가?
+
+\subsubsection{\texorpdfstring{(i) \emph{법에서의 분업(The Division of
+Labour in
+Law)}}{(i) 법에서의 분업(The Division of Labour in Law)}}\label{i-uxbc95uxc5d0uxc11cuxc758-uxbd84uxc5c5the-division-of-labour-in-law}
+
+하트(Hart)는 법을 주권자(sovereign)의 명령이 위협(threats)을 수반하는
+것으로 본 오스틴(Austin)의 상향적 피라미드식 관점(top-down, pyramidal
+view)에 반대한다. 이러한 관점이 조잡하다는 점은 널리 인정되지만, 일부는
+그것이 일종의 경각심을 주었다고 보고, 하트가 법실증주의(legal
+positivism)를 보다 정교하게 만들었지만 그 강력함을 잃었다고 느낄 수도
+있다. 법은 단지 합의(consensus)나 일치(agreement)에 관한 것이 아니라,
+갈등(conflict)과 불일치(disagreement)에도 관한 것이다.\footnote{On other
+  aspects of this theme see Jeremy Waldron, \emph{Law and Disagreement}
+  (Oxford University Press, 1999).} 물론, 만약 이러한 주장이 항소심
+법원(appellate courts)에서의 활동이 고도로 정치화되어 있고, 기존의 법을
+적용한다기보다 논쟁 가능한 사건을 결정(settle)하는 것이 주된 활동이라는
+익숙한 주장이라면, 이를 반대할 이유는 없다. 방금 전 우리는 이것이 하트의
+이론과 어떻게 들어맞는지를 살펴보았다. 다만 하트는 최소한 어떤 수준의
+합의가 제도가 작동을 시작하려면 필요하다고 본다. 적어도 `인식 규칙(rule
+of recognition)'은 무엇이 법을 구성하는 행위인지에 대한 합의 위에
+성립되어야 한다. 하지만 누구의 합의란 말인가? 다음은 드워킨(Dworkin)이
+하트의 이론을 재현한 방식이다:
+
+\begin{quote}
+법의 진정한 근거(grounds of law)는 전체 공동체가 하나의 근본적이고
+포괄적인 규칙(master rule)을 수용(acceptance)하는 데 있다. (그는 이것을
+`인식 규칙(rule of recognition)'이라 부른다)\ldots{} 오스틴에게는
+캘리포니아의 제한 속도가 55마일이라는 명제가 참인 이유가 단순히 그
+규칙을 제정한 입법자들이 그곳을 지배하고 있기 때문이다. 반면 하트에게
+그것이 참인 이유는, 캘리포니아 주민들이 주 및 연방 헌법의 권위
+체계(authority scheme)를 수용해 왔고 계속 수용하고 있기
+때문이다.\footnote{Ronald Dworkin, \emph{Law's Empire} 34.}
+\end{quote}
+
+이 설명이 `법의 근거(grounds)'를 설명하는 방식으로서 문제가 있다는 점은
+분명하다. 캘리포니아의 많은 사람들은 주 및 연방 헌법의 권위 체계가
+무엇인지 전혀 알지 못하며, 심지어 `주 헌법(state constitution)'이
+존재한다는 사실조차 모르는 사람들도 있다. 또한 이 설명은 하트의 이론에
+대한 해석으로도 문제가 있다. 하트에 따르면, 법 이전의(pre-legal)
+사회에서 사회 규범(social norms)은 광범위한 지지 없이는 존재할 수 없다.
+``보다 단순한 구조(법이 형성되기 이전)에서는, 공직자들이 존재하지 않기
+때문에, 규칙은 집단의 행동에 대한 결정적 기준을 설정하는 것으로서 널리
+수용되어야 한다. 그곳에서는 `내면적 관점(internal point of view)'이 널리
+퍼져 있지 않다면 논리적으로 규칙이 존재할 수 없다''(117쪽). 관습적
+규칙(customary rules)은 일반적인 동의(general buy-in)를 필요로 한다.
+그러나 ``\ldots 일차 및 이차 규칙이 결합된 사회에서는\ldots{} 규칙을
+집단의 공통된 기준(common standards)으로 수용하는 것이, 단지 개인이
+자발적으로 규칙을 따르는 것과는 분리될 수 있다. 극단적인 경우에는,
+`이것은 유효한 규칙이다'라는 규범적 언어를 사용하는 내면적 관점이 오로지
+공직자 세계에만 제한될 수 있다. 이러한 더 복잡한 체계에서는,
+공직자들만이 유효성 기준(criteria of validity)을 수용하고 사용할 수도
+있다. 이러한 사회는 한없이 순종적인 양 떼(sheeplike) 같을 수 있고, 결국
+도살장으로 끌려갈 수도 있다. 그러나 그것이 존재할 수 없거나 법체계로
+인정받을 수 없다고 생각할 근거는 거의 없다''(117쪽).
+
+이 인용문을 길게 제시한 이유는, 그것이 법의 본질(nature of law)을
+이해하는 데 핵심적인 점을 제시하며, 동시에 법이 그러한 본질을 지닌다는
+사실의 정치적 의미를 보여주기 때문이다. 하트는 관습(custom)과 사회적
+도덕성(social morality)은 의도적인 변화에 대해 면역(immunity)을 지니며,
+점진적으로만 진화한다고 지적한다. 작은 규모의 안정된 공동체에서는
+그것들이 제도를 운영하는 꽤 괜찮은 방식이다. 우리가 일상생활의 많은
+부분을 그렇게 운영하는 것이 일반적이다. 그러나 규모가 크고 복잡한 사회는
+규범(customs and other norms)을 공적으로 확인할 수 있고 즉시 변경할 수
+있는, 보다 의도적인 사회 통제 메커니즘(deliberate mechanisms of social
+control)을 필요로 한다. 예컨대 통치자의 선언, 다수결 투표 등의 방식으로
+말이다.
+
+이러한 메커니즘은 제도화(institutionalization)를 통해 가능해진다. 즉,
+규칙을 식별하고 변경하며 집행할 권한을 가진 특화된 기관(specialized
+organs)의 등장이다. 그 결과 나타나는 규범적 분업(division of normative
+labour)은 일종의 양면성을 지닌다. 그것은 이득과 비용을 모두 수반한다.
+``그 이득은 변화에 대한 적응력, 확실성(certainty), 효율성(efficiency)
+등이고\ldots{} 그 비용은, 중앙집중화된 권력이 집단적 지지 없이도
+다수에게 억압(oppression)을 가할 수 있는 위험이다. 이는 보다 단순한 일차
+규칙 체계에서는 발생할 수 없는 일이다''(202쪽). 따라서 법은
+\emph{보편적으로 좋은 것}도 아니고, \emph{무조건 좋은 것}도 아니다.
+제도적 성격(institutional character)이 특정한 이득을 가능하게 하지만,
+동시에 특정한 비용도 가능하게 한다. 이러한 비용은 법 없는 사회에서는
+발생하지 않을 수 있는 것들이다. 하트가 위에서 논한 극단적인 사례까지
+가지 않더라도, 법이 작동하는 일반적인 사회에서는 광범위한 사회적
+합의보다는 좁은 공직자 집단의 합의에 더 의존한다.\footnote{이는
+  구체적으로 어떤 공직자(official)가 중요한지, 그리고 `공직자'의 역할이
+  어떻게 규정되어야 하는지를 정확히 다루지 않는다. 일반적으로 말해,
+  하트(Hart)는 적어도 판사(judges)와 입법자(legislators)를 포함할 의도를
+  지니며, 이때 `공직자'는 법적 정의가 아니라 사회정치적(socio-political)
+  정의를 따른다.} 법이 존재하기 위해 일반 대중에게 요구되는 것은, 해당
+체계의 강제 규범(mandatory norms)에 대해 수동적으로 따르는
+것(acquiescence) 이상은 거의 없다.
+
+그렇다면, 법이 의존하는 합의는 절대 편안하거나 공동체적인 것이 아니다.
+그것은 가치에 대한 일치(value agreement)를 전제로 하지 않으며, 법의 작동
+속에서의 중대한 반대(dissent)를 배제하지도 않는다. 이것은 왜 ``모든
+법체계는 필연적으로 그 공동체의 가치를 표현한다''는 낭만적 신념이 잘못된
+것인지를 보여준다. 정의롭고 소중한 법체계조차도, 결국에는 난해하고,
+기술적이며, 그 지배 대상자들의 삶에서 멀어질 수 있다. 규범적 분업 때문에
+법은 항상 `법률주의적(legalistic)'이 될 위험에 노출되어 있다. 모든
+법철학자들은 법이 도덕적으로 오류 가능(morally fallible)하다는 사실에
+동의한다. 하트의 특별한 기여는, 법이 실패하는 몇 가지 방식이 바로 그것이
+사회 제도(social institution)라는 본질과 밀접하게 연결되어 있다는 점을
+보여준 데 있다.
+
+\subsubsection{\texorpdfstring{(ii) \emph{강제와 권한(Coercion and
+Power)}}{(ii) 강제와 권한(Coercion and Power)}}\label{ii-uxac15uxc81cuxc640-uxad8cuxd55ccoercion-and-power}
+
+법은 본질적으로 강제적 장치(coercive apparatus)라는 생각은 일반인의
+직관과 잘 맞아떨어지며, 법철학(jurisprudence)에서도 오랫동안 인기를
+끌어온 견해이다. 그러나 하트(Hart)는 이 견해가 잘못되었다고 본다. 모든
+법체계(legal system)는 강제로 집행되지 않는 규범(norms)을 일부 포함하며,
+심지어 전적으로 그러한 규범들로 구성된 법체계조차도 상상 가능하다고
+한다(199--200쪽). 그렇다면 제재(sanction)가 없는 법은 무슨 의미가
+있는가? 제재가 있는 법과 마찬가지로, 사람들의 행위를 지시(direct)하는 데
+그 목적이 있다. 제재는 법의 \emph{플랜 B}다. \emph{플랜 A}는 법의
+대상자(subjects)들이 추가적인 감독 없이도 법에 자발적으로 따르도록 하는
+것이다. 지시가 필요하지만 강화 동기(reinforcing motivation)는 필요하지
+않은 경우에는 제재 없는 법이 그리 드문 것이 아니다. 예컨대 \emph{미국
+연방법전}(United States Code)에는 국기에 대한 예우를 지시하는 규범이
+포함되어 있다. (``국기는 어떤 것도 받거나, 보관하거나, 운반하거나
+전달하는 용기로 사용되어서는 안 된다.''\footnote{4 U.S.C. § 8 (h).})
+하지만 이 규범을 위반했을 경우 처벌 조항은 존재하지 않는다. 만약 인간
+본성이 지금과 달랐다면, 모든 법 규범이 이와 같을 수도 있었을 것이다.
+
+하지만 인간 본성이 지금과 같음에도 불구하고, 많은 법 규범은 제재로
+뒷받침되지 않는다. 중요한 범주의 하나는 권한 부여 규범(power-conferring
+norms)이다. 즉, 법 규범 중에서 다른 법적 규범이나 지위를 변경할 수 있는
+능력을 창출하는 규칙들이다. 예컨대, 입법, 법인 설립, 계약 체결, 혼인
+등을 가능하게 하는 규칙들이 그러하다. 이러한 권한이 자발적인
+것이라면(일반적으로 그렇다), 사람들은 그것을 행사할지 여부를 자유롭게
+선택할 수 있다. 입법하거나, 법인을 설립하거나, 계약하거나, 혼인하려는
+사람은 법이 정한 절차를 따르지 않으면 그 행위는 무효(null and void)가
+된다. 예컨대, 법적 요건을 갖추지 못한 `혼인'은 무효다. 그러나 이를
+따르지 않았다는 이유로 처벌을 받지는 않는다. 그렇다면 무효 자체가 일종의
+처벌이므로, 이 역시 강제적인 법이라고 보아야 할까? 하트는 그렇게
+보아서는 안 되는 이유를 설명한다. 여기에는 두 가지 별개의
+요소---무언가를 하라는 명령(order)과 그것을 위반했을 때의
+제재(sanction)---가 존재하지 않기 때문이다. 아예 명령이 존재하지 않으며,
+그 `제재'는 실제로는 권한 부여 규범 그 자체일 뿐이다. 켈젠(Kelsen)은
+강제 이론(coercion theory)을 유지하기 위한 우회로(work-around)를
+제안했다. 그는 권한 부여 규칙은 실제로는 법률의 조각(fragment)에
+불과하므로, 그 안에 제재가 없다는 것은 놀라운 일이 아니라고 주장했다.
+제재를 담고 있는 규범은, 예컨대 배우자를 부양할 의무와 같은 규범이며,
+혼인에 관한 권한 부여 규칙은 누가 배우자인지 여부를 결정하는 것이라고
+본다. 이리저리 따져보면 결국 모든 것은 강제로 환원된다(coercion). 하트는
+이에 대해 흥미로운 방식으로 응답한다. 그는 켈젠의 재구성이
+불가능하다거나 비논리적이라고 말하지 않는다. 다만 그것이 동기를
+결여(unmotivated)하고, 법철학의 방법론적 제약(methodological
+constraint)에 어긋난다고 주장한다.
+
+\begin{quote}
+``법이 사회 통제의 수단으로서 수행하는 주요 기능(principal functions)은
+사적 소송(private litigation)이나 형사 기소(prosecutions)에서 나타나지
+않는다. 그것들은 제도의 실패에 대비한 필수적이지만 보조적인 장치일
+뿐이다. 법의 주요 기능은, 법이 법정 바깥에서 인생을 통제하고, 안내하고,
+설계하는 다양한 방식에서 나타난다''(40쪽).
+\end{quote}
+
+개별 법률(laws)로 법적 자료(legal material)를 나누는 데 있어서
+본질주의적(essentialist), 즉 `형이상학적(metaphysical)' 해답은 존재하지
+않는다. 가장 좋은 접근 방식은, 법을 실제로 사용하는 사람들(대부분은 법정
+밖에서 살아가는 사람들)에게 법이 어떻게 작용하는지를 이해할 수 있게
+해주는 방식이다. 권한 부여 규칙은 의무를 부과하는 규칙과는 다르게
+인식되고, 언급되고, 사용되며, 전혀 다른 이유로 가치가 부여된다. ``그
+특성이 다르다는 것을 보여줄 다른 기준이 무엇이 있겠는가?''(41쪽) 이 점은
+하트의 방법론(method)의 정수를 보여준다. 홈스(Holmes)의 `나쁜 사람(bad
+man)'에게 법은 피해야 할 비용(costs)에 관한 것이며, 법률가에게 법은
+가능한 법정 사건들과 거기에서 얻을 수 있는 수임료(legal costs)에 관한
+것이다. 법이론들은 이러한 외눈박이(cyclopic) 관점에서 파생되어 왔다.
+그들은 현실이긴 하지만 주변적인 요소(marginal)를 중심적인 것으로
+간주하며, 법의 중요성이 드러나는 여러 차원을 납작하고 환원적인(flat and
+reductive) 그림 속에 지워버린다.
+
+여기까지는 모두 타당한 주장이다. 그러나 만약 우리가 법이 사회 통제의
+수단으로서 수행하는 \emph{모든} 주요 기능을 고려하고자 한다면, 여기서
+하트가 제시한 수준 이상으로 나아가야 한다. 권한 부여 규칙을 의무 부과
+규칙으로 환원하거나, 무효(nullity)를 일종의 제재로 해석하려는 시도는
+오류이지만, 권한 부여 규칙이 사회적 권한(social power)과 밀접하게 얽혀
+있다는 점을 주목하는 것은 옳다. 그렇다면 애초에 우리는 왜
+강제(coercion)에 관심을 갖는가? 그 하나의 이유는 책임(responsibility)과
+관련되어 있다. 위협(threat)에 의해 어떤 일을 하게 된 사람은 일반적으로
+그 행위에 대해 책임을 지지 않는다. 그 의지가 억압(overborne)되었기
+때문이다. 물론 대부분의 법적 제재는 그렇게 극단적으로 가혹하지
+않다(지속적인 불이행을 제외하면). 그럼에도 여전히 그것은 사람들의
+유인구조(incentives)에 영향을 미치며, 이는 권한 부여 규칙에도 해당된다.
+강제(coercion)는 법 권한의 날카로운 측면(hard edge)이고,
+유인(incentivizing)과 표현(expressive) 기능은 법 규범의 부드러운
+측면(soft edge)에 속한다.
+
+다시 한 번, 혼인의 권한을 부여하는 규칙들을 떠올려보자. 이 규칙들은
+일정한 조건 하에서만 해당 권한을 부여한다. 예전에는(그리고 어떤
+지역에서는 여전히) 누구와 결혼할 수 있는지에 대해 인종이나 성별에 따른
+제한이 존재했다. 인종이 다른 사람 사이의 결혼이나 동성 간의 결혼은
+법적으로 무효였다. 하트가 제시한 이유들에 비추어 볼 때, 이것을 이성애적
+또는 동인종적 관계를 `강요'한 강제라고 보는 것은 잘못일 것이다. 아무도
+결혼을 반드시 해야 하는 것은 아니기 때문이다. 따라서 이런 법은 동성애
+행위에 대한 형벌이나 도망 노예 법(fugitive slave laws)과는 다르다.
+그러나 이러한 권한 부여 규칙(또는 그것들과 해석 규칙의 결합)에 의해
+그러한 혼인이 무효가 된 것은 결코 우연한 결과나 의도하지 않은 부산물은
+아니었다. 그것이 바로 해당 법의 목적이었다. 이러한 법은 명령이나 제재와
+같은 조악한 수단에 의존하지 않고도 개인의 삶과 공동체의 문화를
+형성하고자 했다. 그리고 실제로 어느 정도 성공했다. 따라서 하트가
+호의적으로 `편의(facilities)'를 제공한다고 표현한 규칙들의 기능을 생각할
+때, 우리는 이 점을 잊지 말아야 한다. 모든 법이 강제적인 것은 아니지만,
+비강제적인 법 역시 강제적인 법과 동일한 기능을 수행할 수 있다. 즉, 사회
+권한을 표현하고 그것을 유도하는 것이다. 이러한 기능은 법 규범의
+내용(content)을 통해서도, 보다 일반적인 구조적 특징을 통해서도 작용한다.
+예를 들어 자발적 권한(voluntary powers)은 자신의 의지를 행사할 수 있는
+자에게 법적 통제권을 분배하고(individual powers), 개인적 권한은 그것을
+개별 개인에게 분배한다. 이는 누구에게 무언가를 `강제'하지는 않지만,
+그러한 법을 만들고 적용하는 이들이 의도했으며 예측 가능한 방식으로 사회
+세계(social world)를 형성한다.
+
+\subsection{\texorpdfstring{\textbf{4. 법과 도덕 (LAW AND
+MORALITY)}}{4. 법과 도덕 (LAW AND MORALITY)}}\label{uxbc95uxacfc-uxb3c4uxb355-law-and-morality}
+
+이 책의 중심 문제 중 하나는 법과 도덕 간의 다형적(pluriform) 관계---즉
+관습적 또는 `사회적 도덕'(social morality)과 이상적 또는 `비판적
+도덕'(critical morality)---에 관한 것이다. 하트는 법과 도덕 사이에
+일정한 \emph{분리(disjunction)}가 존재한다고 강하게 주장한 것으로
+유명하다. 그의 이론에 대해 아는 바가 거의 없는 사람조차도, 그가 역사적인
+홀름스 강연에서 다음과 같이 말했음을 알고 있다: ``법과 도덕 사이에는
+필연적 연결이 없다(no necessary connection between law and
+morals).''\footnote{H. L. A. Hart, `Positivism and the Separation of Law
+  and Morals' (1958) 71 \emph{Harvard Law Review} 593, at 601 n.~25.}
+우리는 이미 위의 3 (i)에서, 법이 반드시 지배받는 인구가 실제로 승인하는
+도덕적 가치들을 반영할 필요는 없다는 이유를 살펴보았다. 하지만 그들이
+\emph{마땅히} 따라야 할 도덕적 가치들과는 어떠한가? 하트는 이 경우에도
+필연적 연결이 없다고 말하고자 하는가? 『법의 개념(The Concept of
+Law)』에서 그는 때때로 이 생각을 다른 방식으로 서술한다. 한 지점에서
+그는 실증주의의 핵심 명제를 다음과 같이 묘사한다: ``법이 도덕의 특정
+요구들을 재현하거나 충족시킨다는 것은 결코 필연적 진리가
+아니다''(185--6쪽). 이는 더 협소한 주장처럼 보인다: 모든 법이 건전한
+도덕 기준을 `재현하거나 충족시켜야 한다'는 것을 요구하지 않으면서도,
+법과 도덕 사이에 필연적 관계가 존재할 수 있는 것이다.
+
+하트의 첫 번째이자 보다 광범위한 서술은, 그의 견해(즉, 법이 사회적
+구성물이라는 견해)를 공유하는 이들 사이에서도 거의 지지를 얻지
+못했다.\footnote{See John Gardner, `Legal Positivism: 5½ Myths', chap.~2
+  of his \emph{Law as a Leap of Faith} (Oxford University Press, 2012);
+  and Leslie Green, `Positivism and the Inseparability of Law and
+  Morals' (2008) 83 \emph{New York University Law Review} 1035.} 법과
+도덕이 모두 인간 행위를 규율한다는 것이 단순한 우연일 뿐이라고 보기는
+어렵다. 인간이 어떻게 살아야 하는가에 대해 전혀 언급하지 않는 규범
+체계는 법적 규범도 아니고, 도덕적 규범도 아니다. 이는 법과 도덕 사이의
+필연적 연결 하나를 암시한다. 그리고 또 다른 연결들도 있다. 실제로 하트의
+성숙한 이론은 법과 도덕 사이의 두 가지 흥미로운 필연적 연결을 더
+승인한다. 하나는 법의 목적을 경유하며, 다른 하나는 법과 정의 간의 추정적
+연결을 경유한다. 또한 하트의 이론은, 많은 다른 실증주의자들이 인정하기를
+꺼리는, 법과 도덕 간의 우연적 연결도 허용한다. 이 세 가지 주장은 분리
+명제의 어떤 버전 못지않게 하트 이론에서 중요하다. 그러나 이 중 명확하게
+타당한 것은 첫 번째 주장뿐이다.
+
+\subsubsection{\texorpdfstring{(i) \emph{법의 목적 (Law's
+Purpose)}}{(i) 법의 목적 (Law's Purpose)}}\label{i-uxbc95uxc758-uxbaa9uxc801-laws-purpose}
+
+법은 단순한 규칙의 체계가 아니라, 다양한 목적을 수행하는 체계이다.
+토마스 아퀴나스는 법이 \emph{총체적} 목적(\emph{overall} purpose)을
+가진다고 보았는데, 그는 이를 ``공공선을 위한 이성적 명령(an ordinance of
+reason made for the common good)''이라고 정의하였다.\footnote{\emph{Summa
+  Theologica} II-I, q. 90 a. 4.} 현대적 접근으로는, 법이 행위를 지도하기
+위해, 공공선을 위한 활동을 조정하기 위해, 정의를 실현하기 위해, 혹은
+강제력을 허용하기 위해 제정된다는 견해들이 있다.\footnote{Guiding
+  conduct: Lon L. Fuller, \emph{The Morality of Law} (rev. edn., Yale
+  University Press, 1969); coordinating activity: John Finnis,
+  \emph{Natural Law And Natural Rights} (Oxford University Press, 1980);
+  doing justice: Michael Moore, `Law as a Functional Kind,' in R. P.
+  George ed., \emph{Natural Law Theory: Contemporary Essays} (Oxford
+  University Press, 1992) 221; licensing coercion: Ronald Dworkin,
+  \emph{Law's Empire} 93.} 이러한 주장은 법에 대한 이상적 제안이 아니라,
+\emph{구성적 목적(constitutive aims)}에 대한 주장으로 이해되어야 한다.
+핵심 아이디어는 다음과 같다: 이러한 목적을 지니지 않은 사회적 통제
+체계는 법체계라고 할 수 없으며, 이는 지식 추구를 목적으로 하지 않는
+기관이 대학이 아닌 것과 같다. 구성적 목적을 갖는다는 것만으로는
+도덕성과의 연결을 확립하지 않는다. 이는 그 목적이 무엇이냐에 달려 있다.
+식기세척기가 설거지를 위해 존재하지 않는다면 식기세척기가 아니며, 설거지
+능력은 식기세척기의 품질을 판단하는 주요 기준 중 하나다. 그러나 설거지는
+일반적으로 도덕적으로 중요한 활동이 아니므로, 좋은 식기세척기가 곧
+도덕적으로 좋은 식기세척기인 것은 아니다. 법의 구성적 목적에 대한 위의
+제안들은 도덕적으로 중요한 것에서 도덕적으로 중립적인 것까지 다양하다.
+정의 실현은 도덕적으로 선한 것이고, 행위 지도는 도덕적으로 중립적이며,
+강제력 허용은 도덕적으로 모호하다.\footnote{강제(coercion)를 허용한다는
+  것은, `현재 진행 중인 강제 행위에 대해 정당화(justification)를
+  제공한다'는 의미인가? 아니면 `정당화될 수 없는 강제가 발생하지 않도록
+  보장한다'는 의미인가? 혹은 `정당화될 경우에만 사람들에게 강제를
+  가한다'는 의미인가?}
+
+도덕성과의 연결은 또한 구성적 목적이 어느 정도 달성되는가에 달려 있다.
+제9장에서 하트는, 인간 생존이 도덕적으로 선한 것이며, 생존을 지향하지
+않는 규범 체계는 법체계가 될 수 없다고 전제한다. 또한 어떤 체계가
+법체계로 존재하려면, 반드시 전 인구에게 항상은 아니더라도, 상당수에게
+상당 시간 성과를 제공해야 한다(deliver the goods)고 본다. 일반적으로,
+구성적 목적을 지닌 것들은 그 종류에 속할 자격을 박탈당하기 전까지 상당한
+여지를 가진다. 고장이 났거나 결함이 있는 식기세척기도, 수정되거나 수리될
+경우 설거지를 수행할 수 있는 능력이 있다면 여전히 식기세척기이다.
+법체계도 마찬가지다. 법이 수행해야 할 기능을 제대로 수행하지 못하는
+통합된 법률 체계라도 여전히 법체계로 간주될 수 있다. 이는 \emph{어떤
+것을 지향한다(aim)}는 것이 반드시 그것을 \emph{성취한다(succeeding)}는
+것을 요구하지 않는다는 사실에서 비롯된다.
+
+이 문제에 대한 하트의 마지막 성찰에서는, 법이 생존을 지향할 필요조차
+없다는 입장으로 선회한 듯하다. 그는 법이 어떤 흥미로운 구성적 목적도
+지니지 않는다고 본 막스 베버(Max Weber)와 한스 켈젠(Hans Kelsen)의
+입장에 동참한다. (켈젠은 ``법은 목적이 아니라, 특정한 사회적
+수단이다(Law is a means, a specific social means, not an end)''라고
+말했다.\footnote{Hans Kelsen, \emph{General Theory of Law and State} (A.
+  Wedberg tr., Harvard University Press, 1949) 20.}) 하트는 이렇게 쓴다:
+``나는 법이 인간 행위를 지도하고, 그 행위에 대한 비판 기준을 제공하는 것
+외에, 그 자체로 수행하는 보다 구체적인 목적을 찾는 것은 매우 헛된
+일이라고 본다''(249쪽). 여기에는 생존에 대한 언급이 없다. 그러나 하트가
+이전의 `법은 생존을 촉진하는 목적을 가진다'는 주장을 철회한 것일 수도
+있고, 혹은 법이 그러한 목적들에 의해 \emph{식별될 수 있다}(identified)는
+주장 자체를 부정하는 것일 수도 있다. 즉, 법체계들 사이에서 보편적이며
+동시에 고유한 목적은 없다는 것이다. 법은 생존을 촉진하려는 목적을 가질
+수 있고, 행위를 지도하거나 평가하려는 목적을 가질 수 있다. 그러나 이들
+모두는 관습, 종교, 도덕 등과 법을 구분해 주지는 못한다. 오히려 이들은
+상호 중첩되는 지점이다. 법과 도덕은 유사한 과업에 주목하며, 유사한
+이유로 그러한 과업에 접근하고, 일부 유사한 기법을 사용한다.
+
+\subsubsection{\texorpdfstring{(ii) \emph{법과 정의 (Law and
+Justice)}}{(ii) 법과 정의 (Law and Justice)}}\label{ii-uxbc95uxacfc-uxc815uxc758-law-and-justice}
+
+제8장에서 하트는 법과 도덕 사이의 놀라운 연결을 옹호한다. 그의 논증은
+규칙 준수(rule-following)를 정의(justice)와 연결시키는데, 이때 둘 다
+유사한 사례는 유사하게 대우되어야 한다는 생각을 공유한다. 실천
+이론(practice theory)에 따르면, 일반 규칙(general rules)은 일정한
+방식으로 그것에 부합하거나(conform) 반복적으로 적용되지 않으면 존재할 수
+없다. 그런데 하트는 이 일관성(constancy) \emph{자체가(itself)} 일종의
+정의라고 말한다. 그는 이렇게 쓴다: ``{[}가장 혐오스러운 법조차도
+정의롭게 적용될 수 있지만{]}, 일반 법규칙을 적용한다는 개념 자체 안에는
+적어도 정의의 씨앗(germ of justice)이 담겨 있다''(206쪽, cf.~160쪽).
+이로부터, 모든 존재하는 법체계는 어떤 식으로든 정의를 실현한다고
+결론지을 수 있다. 물론 이는 `실질적 정의(substantive justice)'가 아니다.
+혐오스러운 법을 일관되게 적용하는 것이 그것의 혐오스러움을 보완하거나
+완화하지는 못한다. 하지만 그러한 적용은 여전히 법
+\emph{적용(application)}에 있어서의 정의---즉 어떤 이들이 말하듯 `형식적
+정의(formal justice)'---를 산출한다.\footnote{David Lyons criticizes it
+  under that label in `On Formal Justice' (1973) 58 \emph{Cornell Law
+  Review} 833. Matthew Kramer defends it under the better label of
+  `constancy': Matthew Kramer, `Justice as Constancy' (1997) 16
+  \emph{Law and Philosophy} 561.} 이는 하나의 법이, 그 법이 스스로(그
+판단이 옳든 그르든) 관련성 있다고 간주하는 방식으로 유사한 자들에게만,
+그리고 전적으로 적용되어야 함을 요구한다. 그리고 이 요건은 `극도로
+억압적인(hideously oppressive)' 법이나, `권리를 박탈당한 노예(rightless
+slaves)'에게 어떤 작동 가능한 법체계의 최소한의 혜택조차도 부정하는 법에
+대해서도 동일하게 적용된다.\footnote{H. L. A. Hart, `Positivism and the
+  Separation of Law and Morals' 593, at 626.}
+
+나는 `혐오스러운(odious)', `극도로 억압적인(hideously oppressive)' 등의
+하트의 표현을 인용한 바 있는데, 이는 그의 `정의의 씨앗(germ of
+justice)'이라는 논제가 얼마나 대담한지를 분명히 하기 위함이다. 적용에
+있어서의 일관성은, 그 법이 단지 약간 부정의한 수준일 때는 납득 가능하게
+느껴질 수도 있다. 예컨대, 정당화 목적에 비추어 과포괄적이거나
+과소포괄적인 법---17세 미만 모두에게 운전을 금지하는 규범이 몇몇에게는
+과도하게 금지하고, 또 다른 이들에게는 과도하게 허용하는 경우 등---이
+그러하다. 완벽한 법은 없으며, 작지만 명백한 결함이 있는 법을 일관되게
+적용할 이유는 여럿 있을 수 있다. 하지만 이것만으로는 하트의 주장을
+정당화할 수 없다. 그는 이 논지가 혐오스러운 법에도 적용된다고 말하며,
+우리가 실질적 정의, 형평성(equity), 자비(mercy), 혹은 제정신(sanity)을
+허용하는 경우조차도, 우리는 그 과정에서 무언가 귀중한 것을 상실했음을
+인식한다는 것이다: 우리는 적어도 하나의 측면에서는 부정의(injustice)를
+저지른 셈이 된다.
+
+그러나 이 `형식적(formal)' 정의 개념에는 어딘가 이상한 구석이 있다.
+결국, 정의\emph{의 형식}(\emph{the form of} justice)을 가진 모든 것이
+반드시 정의의 \emph{한} 형식(\emph{a} form of justice)인 것은 아니다.
+이는 낙타의 형식(the form of a camel)을 가진 것이 반드시 한 낙타(a
+camel)인 것이 아닌 것과 마찬가지다. 더 나아가, 정의 규범(norms of
+justice)과 부정의 규범(norms of injustice)은 그 형식에서 반드시 다르지
+않다.\footnote{Following John Gardner, `The Virtue of Justice and the
+  Character of Law', chap.~10 of his \emph{Law as a Leap of Faith}.}
+예를 들어, ``남성과 여성은 동등한 가치의 노동에 대해 동일한 보수를
+받아야 한다''는 규범은 정의 규범이다. 반면, ``남성과 여성은 동등한
+가치의 노동에 대해 서로 다른 보수를 받아야 한다''는 규범은 \emph{부정의
+규범}이다. 두 규범은 동일한 형식을 가진다. 그렇다면 ``모든 규칙을 그것의
+적용대상에게만, 그리고 전원에게 적용하라''는 규범은 어떠한가? 이것은
+``이미 친구로 삼기로 한 사람들에게만 친구로 대해라''는 규범과 동일한
+형식을 갖는다. 후자의 규범은 정의의 규범인가? 이 경우, 한 규범이
+정의인지, 부정의인지, 또는 둘 다 아닌지 여부를 \emph{형식}만으로는
+판단할 수 없다는 점이 분명해진다.
+
+간통죄에 대해 유죄 판결을 받은 여성을 돌로 쳐죽이는 법이 존재하는
+법체계에서 일하는 판사를 상상해 보자. 이 법을 그 적용대상 모두에게
+적용해야 할 이유가 있는가? 특별한 경우에는 가능할지도 모른다: 그가
+그러지 않으면 생명의 위협을 받을 수 있고, 거부할 경우 폭동이나 더 많은
+여성들의 희생이 야기될 수 있으며, 그는 이 법을 한 번 적용함으로써 신뢰를
+확보해 이후 더 효과적으로 그것을 공격할 수 있을지도 모른다. 그러나 이런
+법을 \emph{모든(all)} 경우들에 일관되게 적용해야 할 이유가 있는가?
+여기서는 \emph{법률 없이는 형벌 없다(nulla poena sine lege)}라는 원칙
+이상의 것이 필요하다. 그 원칙은 법을 위반\emph{하지 않은(have not)}
+사람을 처벌하지 말라는 것이지, 법을 위반한 모든 사람을 반드시 처벌하라는
+것이 \emph{아니다(not)}. 이 조건은 우리의 가설적 사례에서 충족된다.
+하지만 그 원칙은 법을 위반\emph{한(has)} 모든 사람을 처벌하라고 말하지
+않는다. 그렇게 하지 않는 것이 \emph{부정의}인가? 만약 그렇다면, 누구에게
+부정의란 말인가? 다른 유죄 여성들(돌로 맞아 죽게 될), 또는 이미 그렇게
+처형당한 여성들의 가족들이, 모든 다른 유죄 여성들도 똑같이 혐오스럽게
+대우받아야 한다고 요구할 자격이 있다는 주장은 납득하기 어렵다.
+
+하트는 아마도 `형식적(formal)' 정의를 두 가지 건전하지만 서로 관련 없는
+아이디어와 혼동하고 있을 수 있다. 하나는, 정의와 부정의는 결과뿐 아니라
+\emph{절차(procedures)}에서도 나타날 수 있다는 것이다. 예컨대, 법적
+분쟁에서 양 당사자의 의견을 청취해야 한다는 것은 자연법상 정의(natural
+justice)의 요건이다. 이러한 절차를 허용하지 않는 절차는 부정의하다.
+하지만 부정의한 규칙 \emph{자체(itself)}가 자연법상 정의를 침해할 수도
+있다: 예컨대 법이 부자에게 가난한 사람보다 두 배의 변론 시간을
+허용한다면, 그 법을 엄격히 적용하는 것은 자연법적 정의를 진전시키는 것이
+아니라 후퇴시키는 것이다. 이와 관련된 또 다른 아이디어는, 규칙의 적용에
+있어 우리는 \emph{불편부당(impartial)}해야 하며, 판단자는 `편견,
+이해관계, 또는 변덕(prejudice, interest or caprice)'에 따라 행동해서는
+안 된다는 것이다(161쪽). 이 주장 또한 옳지만, 부정의한 법을 해당 규정에
+따라 적용하지 않으려는 사람에게 반드시 그러한 동기가 있다고 보기는
+어렵다. 실제로 혐오스러운 법 자체가 편향적이거나 변덕스러울 수 있으며,
+그러한 법의 선택적 비적용은 오히려 가장 선한 동기에서 비롯된 것일 수
+있다.
+
+그렇다면 하트의 `정의의 씨앗(germ of justice)' 논제로부터 우리가 구제할
+수 있는 것은 있는가? 어쩌면 다음과 같은 점일 수 있다: 우리가 규칙
+적용(rule-application)에 주목하게 될 때, 우리는 필연적으로 \emph{특정
+사례들에 있어(in particular cases)} 규칙이 어떻게 적용되어야 하는지를
+고민하게 된다---즉, 사람들이 그러한 규칙 아래에서 실제로 어떻게 대우받고
+있는지, 또는 대우받아야 하는지를 성찰하게 된다. 이는 단순한 총량적
+물음(aggregative questions)이 아니라 분배적(distributive) 물음에
+주목하게 만든다. 이는 오늘날 얼마나 많은 처벌이 이루어지고 있는지를 묻는
+데 그치지 않고, 누가 어떤 잘못에 대해 어떻게 처벌받고 있는지를 묻도록
+요구한다. 사람들 사이의 혜택과 부담이 어떻게 배분되어야 하는가를
+고민한다는 것은 정의에 대한 질문을 던지는 것이다. A가 마땅히 받아야 할
+대우를 받았는지, 혹은 A와 B 사이의 대우 차이가 정당화될 수 있는지를 주의
+깊게 고민하는 것은 정의에 대한 관심이다. 우리가 그러한 질문을 고려하고
+결정할 수 있는 권한을 가진 법원과 같은 제도를 갖추고 있다면, 우리는
+정의를 수행할 수 있는 제도를 갖춘 것이다. (물론, 부정의를 수행할 수도
+있다.) 어쩌면, 크고 복잡한 사회에서는 정의를 실현하기 위해 그런 제도가
+필수적일지도 모른다.
+
+\subsubsection{\texorpdfstring{(iii) \emph{법적 유효성과 도덕 원칙
+(Legal Validity and Moral
+Principles)}}{(iii) 법적 유효성과 도덕 원칙 (Legal Validity and Moral Principles)}}\label{iii-uxbc95uxc801-uxc720uxd6a8uxc131uxacfc-uxb3c4uxb355-uxc6d0uxce59-legal-validity-and-moral-principles}
+
+법과 도덕 사이의 세 번째 접점은 다른 성격을 가진다. 하트는 도덕
+원칙(moral principles)이 반드시 법의 근원이 되는 것은 아니지만, 법의
+근원이 \emph{되는(are)} 요소들에 의해 승인(authorized)된다면 법의 근원이
+\emph{될 수 있다(could)}는 점을 인정한다. 이를 다르게 표현하면, 하트는
+인식규칙(rule of recognition)이 필연적으로 사회적 구성물(social
+construction)이라는 점은 인정하지만, 그 인식규칙이 사용하는
+기준(criteria) 자체가 사회적 구성물일 필요는 없다고 본다는 것이다. 그는
+도덕 원칙들이 가치 있는 원칙이기 때문에 혹은 기존의 법을 정당화하기
+때문에 법이 된다고 생각하지는 않는다. 하지만 어떤 방식으로든 법 안에
+포함된다면, 그것들은 법이 될 수 있다.
+
+이 지점에서 하트는 구성주의 논제(constructivist thesis)의 두 해석 가운데
+하나에 입장을 명확히 하는데, 그것은 흔히 `포괄적 법실증주의(inclusive
+legal positivism)'로 불리는 입장이다. 이 입장에 따르면 법의 근원(source
+of law)은 이상적 도덕(ideal morality)의 원칙을 포함할 수 있다. 하트는
+반대로, 이를 허용하지 않는 `배타적 법실증주의(exclusive legal
+positivism)'에는 반대한다.\footnote{Hart calls his position `soft'
+  positivism, but `inclusive' positivism is more perspicuous since it
+  holds that law \emph{includes} anything to which law refers.} 그가 이
+결론에 이르는 경로는 명확하게 되짚기 어렵다. 이는 그가 본문을 쓸
+당시에는 이러한 대안들이 아직 명확히 구분되어 있지 않았기 때문이다.
+하지만 후기(Postscript)에서 하트는 다음과 같은 결론에 도달한다: 법적
+유효성(legal validity)은 어떤 규범(norm)의 `족보(pedigree)'---즉, `법이
+법제 기관(legal institutions)에 의해 채택되거나 창출되는 방식에만 관련된
+특성으로, 그 내용(content)과는 무관한 특성'---만으로 결정될 필요는
+없다(247쪽).\footnote{The metaphor is first used by Ronald Dworkin,
+  \emph{Taking Rights Seriously} 17.} 대신, 법적 유효성은 도덕적
+적절성(moral propriety)에 의해 결정될 수 있다.
+
+이 자리에서는 포괄적 법실증주의 논제 자체를 평가할 수 없다.\footnote{The
+  theory is defended by W. J. Waluchow, \emph{Inclusive Legal
+  Positivism} (Oxford University Press, 1994), and by Jules Coleman,
+  \emph{The Practice of Principle}: \emph{In Defence of a Pragmatist
+  Approach to Legal Theory} (Oxford University Press, 2001). It is
+  criticized by Joseph Raz, \emph{Ethics in the Public Domain: Essays in
+  the Morality of Law and Politics} (Oxford University Press, 1994),
+  chaps. 9, 10; and Scott Shapiro, `On Hart's Way Out' (1998) 4
+  \emph{Legal Theory} 469.} 그러나 하트가 이 논의에 끌고 들어온 혼동
+하나를 제거하는 것은 의미 있다. 인식규칙의 기준(criteria)이 도덕 원칙을
+포함할 수 있는가라는 질문은, 이 기준들이 족보 기준(pedigree
+test)인가라는 질문과 동일하지 않다. `족보(pedigree)'와 대비되는 두
+가지는 다음과 같다. 하나는 \emph{내용(substance)}과의 대비이고, 다른
+하나는 \emph{도덕성(morality)}과의 대비다. 이 혼동은 `실질적
+정의(substantive justice)' 개념에서 보았듯이,
+`실질적(substantive)'이라는 표현이 `정당화된(justified)' 혹은
+`도덕적인(moral)'이라는 뜻으로 자주 사용되는 데서 비롯된다. 하트는
+이러한 문제들을, 오스틴(Austin)의 견해---모든 법체계는 법적으로 무제한의
+권력을 가진다는 주장---를 비판하면서 본문에서 제기한다. 오스틴주의자는,
+입법자가 법을 제정하는 형식과 방식(manner and form)에 한해서는 제약을
+받을 수 있다고 인정할 수 있을 것이다. 예컨대 고지와 토론의 요건, 또는
+특별다수제 요건 등이 그것이다. 그러나 많은 성문헌법들은 그런 식으로는
+설명할 수 없는 제약을 포함한다. 이들은 ``입법권의 범위에서 특정 사안을
+완전히 제외함으로써 실질적 제약(substantive limitations)을
+부과한다''(68쪽). 이러한 제약은 `단지 도덕적(moral) 또는
+관습적(conventional)' 제약이 아니라 `법적' 무능력(legal
+disabilities)이다(69쪽).\footnote{여기서 하트는 `도덕적 또는
+  관습적(moral or conventional)'이라는 표현으로, 오스틴(Austin)이 법적
+  권한에 대한 `실정적 도덕(positive morality)'의 비법적(non-legal)
+  제약이라 부른 것과, 다이시(Dicey)가 말한 헌법적 `관례(conventions)'를
+  모두 포괄하고자 한다.} 하트는 그 예로 미국 헌법 제16차 수정조항을
+드는데, 이는 일부 내용으로 다음을 요구한다: ``개인 인두세(capitation
+tax) 또는 기타 직접세(direct tax)는, 이 조항에 명시된 인구 조사 결과에
+비례하지 않는 한, 부과될 수 없다.'' 이는 분명히 형식 요건이 아니므로, 한
+측면에서 보면 실질적이다(substantive). 하지만 하트는 또한 다음과 같이
+말한다: ``일부 법체계, 예컨대 미국에서는, 유효성의 궁극적 기준이
+족보(pedigree)뿐 아니라 정의의 원칙이나 실질적 도덕 가치(substantive
+moral values)를 명시적으로 포함할 수 있으며, 이러한 것들이 법적 헌법
+제약의 내용을 구성할 수 있다''(247쪽). 이것은 앞서 언급한 `실질적'
+개념과는 다소 다른 의미의 것이다. 다음은 가능한 인식규칙의 조항들을
+비교한 것이다:
+
+(S1) 의회는 국교를 설립하는 어떤 법률도 제정할 수 없다.
+
+(S2) 의회는 불공정한 법률을 제정할 수 없다.
+
+(P1) 의회는 은밀하게 법률을 제정할 수 없다.
+
+(P2) 의회는 불공정한 방식으로 법률을 제정할 수 없다.
+
+규칙 (S1)과 (S2)는 유효성의 실질적 기준(substantive criteria of
+validity)을 설정하고, (P1)과 (P2)는 절차적 기준(procedural criteria)을
+설정한다. 하지만 다른 방식으로도 짝지을 수 있다: (S2)와 (P2)는 도덕적
+기준(moral criteria)을 설정하고, (S1)과 (P1)은 사실적 기준(factual
+criteria)을 설정한다. (이것이 반드시 명확히 결정가능한 기준을 설정한다는
+뜻은 아니지만, 법률이 종교를 설립하는지 혹은 비밀리에 제정되었는지는
+각각의 행위가 도덕적으로 타당한지 여부를 판단하지 않고도 확인할 수
+있다.) 하지만 여기서 물어야 한다: (P2)는 또한 \emph{족보}의 테스트(a
+test of \emph{pedigree})를 진술하는가? 그것은, 해당 기준을 적용하려면
+제정된 법의 내용이 아니라, 제정 방식을 살펴보아야 한다는 의미에서는 족보
+기준이다. 하지만 그것(P2)이 충족되었는지 \emph{여부(whether)}를 알기
+위해서는 제정 과정의 \emph{도덕적 적정성(moral propriety)}에 대한 판단이
+필요하다는 점에서는 족보 기준이 아니다. 따라서 `족보(pedigree)'라는
+은유는 오해를 불러올 가능성이 크며, 우리는 이 개념을 버리고 사회적
+사실(social fact)과 도덕 판단이 필요한 사안(moral judgement) 사이의
+구분을 택해야 한다.
+
+이 문제는 다음의 세 가지로 인해 더 복잡해진다. 첫 번째는
+동음이의(homonymy) 문제다. 헌법이나 기타 문서에서 도덕적으로 들리는
+\emph{용어들(terms)}이 있다고 해서, 그것이 곧 법에 대한 도덕적 기준이
+존재한다는 것을 시사하지는 않는다. 어떤 용어들은 법적 맥락에서, 관습적
+도덕(customary morality)과 사법적 결정들(judicial decisions), 그리고
+법적 해석의 전통에 의해 특수한 의미를 지니게 되거나 이미 그러한 의미를
+가진다.\footnote{언제나 그렇듯, `통제됨(controlled)'이란 `완전히
+  통제됨'을 의미하지는 않는다.} 예를 들어 ``모든 개인은 법 앞에
+평등하다''라는 헌법 조항이 도덕적 평등이라는 이상을 지향하고 있는지
+여부는 법원이 그것을 어떻게 해석하고 적용하는지를 보아야 알 수 있다.
+그리고 헌법 조항이 애초에 도덕적 이상을 표방했다 하더라도, 이후의 사법적
+결정들은 그것에 사실적 불평등의 전형(factual paradigms)이나 복합적
+기준(multi-prong doctrinal tests)을 덧붙이면서 점점 그것과 멀어질 수
+있다. 이는 통상적인 법적 근거(source-based)의 유효성 판단이며, 그 원래의
+추상적 도덕 이상이 여전히 작동하고 있는지조차 불분명할 수 있다.
+
+두 번째 복잡성은 속존(supervenience)의 문제다. 예컨대 어떤 것이
+`불공정하다(unfair)'고 말할 수 있다면, 그것이 불공정한 \emph{근거가
+되는(in virtue of which)} 사실들이 있을 것이며, 두 사건이 하나는
+불공정하고 다른 하나는 공정할 수 있으려면, 양자 사이에 사실적 차이가
+반드시 존재해야 한다는 것은 타당한 주장이다. 이제 어떤 헌법이 차별적인
+법률을 금지한다고 하자. 여기서 `차별(discrimination)'이 도덕적으로
+잘못된 것으로 이해된다면, 그것이 잘못된 이유가 일반적인 사회적
+사실들---예컨대 결정을 내릴 당시의 의도, 결정이 다양한 사람들에게 미치는
+상대적 영향 등---이라면, 이러한 사실들은 어떤 입장에서도 법 판단 기준의
+일부가 될 수 있다. 배타적 법실증주의는 법 판단의 최종 기준에, 어떤 것이
+공정하거나 불공정하다고 판단하는 데 사용되는 사실들이 포함될 수 없다고
+주장하지 않는다. 그것은 오히려, 해당 사실들을 판단하기 위해 도덕적
+속성에 대한 견해에 의존하지 않고도 해당 사실을 인지할 수 있어야 한다는
+것만을 요구한다.
+
+세 번째 복잡성은 불확실성(uncertainty)이다. 하트는 입법자가 어떤 산업에
+대해 `공정한 요금(fair rate)'만을 부과하도록 요구하는 사례를
+고려한다(131--2쪽). 물론, 입법자가 명확히 고려한 극단적인 불공정
+사례---예컨대 ``공공에게 필수 서비스를 인질로 잡고 과도한 요금을
+부과하는 경우''(131쪽)---는 분명히 포함될 수 있다. 하지만 사전에
+구체적으로 명시하기 어렵고, 명시하는 것이 바람직하지도 않은 수많은
+사례들이 존재한다:
+
+\begin{quote}
+이 경우들에서, 규칙을 제정하는 권한은 반드시 재량(discretion)을 행사해야
+하며, 다양한 사례에서 제기되는 문제를 단 하나의 고유한 정답이 존재하는
+것처럼 다룰 수는 없다. 오히려 그 해답은 많은 상충하는 이해관계들
+사이에서의 합리적인 타협일 것이다(131--2쪽).
+\end{quote}
+
+적어도 `공정성(fairness)'이 불확실한 한, 해당 용어가 법률에 언급될 경우
+법원은 재량(discretion)을 행사해야 한다. `공정한 요금(fair rate)'을
+요구하는 입법자는 이러한 점을 인지하고 있을 것이며, 따라서 법원에
+무제한적 권한이 아니라, 무엇이 불공정한지를 판단할 권한, 그리고 그
+판단이 구속력(binding)을 가지도록 하는 권한을 부여한 것으로 이해되어야
+한다. 그러나 Postscript에서는 상황이 다르게 묘사된다. 이곳에서
+`적법절차(due process)'나 `평등(equality)' 등의 헌법 조항은 도덕
+원칙(moral principles)이 법에 편입된 사례로 제시된다. 그런데 이러한
+조항들이 재량을 부여하는지 여부는, 이제는 그 불확정성의 정도가 아니라,
+해당 조항과 관련된 분쟁을 해결하는 데 필요한 도덕적 판단이 `객관적
+지위를 갖는지(objective standing)' 여부에 따라 달려 있다고
+설명된다(253--4쪽). 도덕적 판단이 객관적이라면, 불확실성을 해소하는
+판결은 도덕 기준에 근거한 기존의 법(pre-existing law)을 적용하는 것에
+불과하다. 반면 도덕적 판단이 객관적이지 않다면, 그러한 조항은 ``법원에게
+도덕에 따라 법을 \emph{창출하라}(\emph{make} law)는 지시를 내리는 것일
+뿐이다''(254쪽). 하트는 법철학이 논쟁적인 형이상학적
+윤리이론(meta-ethical theories)에 대한 입장을 가지는 것을 꺼려하므로, 이
+문제는 열어둔 채로 남겨둔다.
+
+만약 이 설명이 헌법 내 도덕적 언어가 일반 법률 내 도덕적 언어와 다르게
+기능한다고 암시한다면, 이는 설득력이 떨어진다. 성문헌법(written
+constitution)은 결국 특수한 형태의 법률일 뿐이다. 왜 일반 법률에서는
+`공정성(fairness)'이라는 용어가 요구사항이 불확실할 경우 적어도 재량권을
+부여한다고 보면서, 헌법에서는 예컨대 `근본적 정의(fundamental
+justice)'라는 용어가 재량권을 부여하는 것은 단지 그 요구사항이 불확실할
+뿐 아니라, \emph{또한(and)} 그 불확실성에 대한 도덕적 판단이
+`객관적이지(objective)' 않을 때에만 해당된다고 보는가? 해당 문제에 대한
+해명이 필요하다는 사실만으로 충분하지 않은가? 해당 판단의 기준이
+무엇이든 간에 말이다. 헌법적 기본 원칙에 관한 문제에서는 단순 법률의
+경우보다 재량이 더 문제적으로 보일 수는 있겠지만, 그렇다고 재량이
+부재한다(absent)는 것을 의미하지는 않는다. 게다가 재량은 이분법적 개념이
+아니다. 사실 기반 기준(fact-based criteria)은 재량적 판단에 대해
+부분적으로(partial) 영향을 미칠 수 있다. 이는 켈젠(Kelsen)의 은유처럼,
+단지 판단이 적합해야 하는 `틀(frame)'을 제공하는 데 그치지 않고, 특정한
+종류의 결정에 대해 비결정적(non-conclusive) 이유를 제공하는 방식으로도
+작용할 수 있다.\footnote{Hans Kelsen, \emph{Pure Theory of Law} 350--1.}
+
+하트가 자신의 입장을 옹호하는 가장 근접한 논변은 다음과 같다. 그는
+`도덕적 정당성(moral propriety)'을 법의 판단 기준으로 삼는 가상의 헌법을
+상정한다. 즉, 어떤 것이 잘못되었거나 부정의하거나 불공정한 경우, 그것은
+결코 법으로 간주될 수 없다는 것이다. 그는 이러한 헌법 구조에 대해
+`논리적으로 불가능할 것은 없다'고 말한다. ``이러한 비범한 장치에 대한
+반대는 `논리(logic)' 때문이 아니라, 그러한 법적 유효성(validity)
+기준들의 지나친 불명확성(gross indeterminacy) 때문일 것이다. 실제 헌법은
+이런 형태로 문제를 자초하지는 않는다.''\footnote{H. L. A. Hart,
+  \emph{Essays in Jurisprudence and Philosophy} 361.} 그러나
+`논리(logic)'에 개념적 논변(conceptual argument)이 포함된다면, 이러한
+구조에 대해 반대할 논변이 존재할 수 있다. 조셉 라즈(Joseph Raz)는, 이는
+단순히 문제를 자초하는 정도가 아니라, 법이 그 스스로 주장하는 유형의
+권위(authority)를 가질 수 없게 된다고 주장한다.\footnote{Joseph Raz,
+  \emph{The Morality of Freedom} (Oxford University Press, 1986),
+  chap.~2; \emph{Ethics in the Public Domain}, chap.~10; and
+  \emph{Between Authority and Interpretation: On the Theory of Law and
+  Practical Reason} (Oxford University Press, 2009), chap.~5.} 모든 법은
+정당한 권위를 주장하고 있으며, 그것이 정당한 권위를 가질 수 있는 종류의
+것일 때에만 그 주장은 일관성을 가질 수 있다. 법의 주장은
+공허하거나(hollow), 불성실하거나, 부정의하거나, 지혜롭지 못할 수는
+있지만, 이해가능한(intelligible) 것이어야 한다. 실천적 권위(practical
+authorities)---법체계 역시 포함된다---의 역할은 사람들이 그들이 마땅히
+해야 할 일을 따르도록 돕는 것이다.\footnote{이는 단지 그들이
+  \emph{이기적(selfish)} 이익에 부합하는 행동이거나, 자신이
+  \emph{이유(reason)} 있다고 \emph{생각(think)} 하는 행동이 아니라,
+  그들이 `객관적으로(objective)' 이유가 있는 행위를 의미한다.} 권위는
+오직 그들의 명령(directives)이 그 이유(reason)에 기초할 때, 그리고
+사람들이 그 명령을 따르려는 시도를 통해 그들에게 적용되는 이유(reason)에
+더 잘 부합할 가능성이 있을 때만 그런 기능을 수행할 수 있다. 그리고 이는
+오직 해당 명령이 그 이유 자체를 참조하지 않고도 식별될 수 있어야 가능한
+일이다. 즉, 어떤 사람이 법이 무엇을 요구하는지를 알기 위해 먼저 자기가
+무엇을 해야 하는지를 \emph{파악(figure out)}해야만 한다면, 법은 그에게
+어떤 도움도 줄 수 없다. 법률이 ``서로 공정하게 대하라''고 명령하는
+것만으로는 더 공정한 결과를 확보할 수 없고, 헌법이 ``모든 사람은
+평등하다''고 선언하는 것만으로 더 평등한 사회를 실현할 수 없다. 권위
+있는 지침(authoritative direction)을 제공하려면, 법률과 헌법은 실제로
+해당 개념들이 무엇을 요구하는지를 사람들에게 명시해야 한다. 이것이
+라즈의 논변이다. 이는 분석법철학(analytical jurisprudence)에서 가장 많이
+논의된 주장 중 하나이다. 이 논증에는 여러 단계가 있으며, 그 중 일부는
+논쟁적이다. 그러나 이것은 하트가 `존재하지 않는다'고 선언한 유형의
+논증이며, 우리가 하트의 견해를 받아들이기 전에 반드시 평가되어야 할
+것이다.\footnote{게다가 이후의 한 논문에서 하트 자신도 이 입장의 몇 가지
+  핵심 개념을 수용한다. 참고: H. L. A. Hart, 「Commands and
+  Authoritative Legal Reasons」, \emph{Essays on Bentham} (Oxford
+  University Press, 1982).}
+
+포괄적 법실증주의(inclusive legal positivism)는 도덕성(morality)이 법적
+논증에서 적절한 역할을 하려면, 초대받아야 한다(invited)는 점을 시사하는
+것으로 보인다. 하트는 유효성의 궁극적 기준(ultimate criteria of
+validity)을 통해 그러한 초대(invitation)를 발행한다.\footnote{토니
+  오노레(Tony Honoré)는 법이 제기하는 도덕적 주장(moral claims)을 통해
+  그러한 요청(invitation)이 이루어진다고 본다. 참고: 「The Necessary
+  Connection between Law and Morality」, (2002) \emph{Oxford Journal of
+  Legal Studies} 22:489.} 그러나 과연 초대가 정말 필요한가?\footnote{See
+  Joseph Raz, \emph{Between Authority and Interpretation}, chap.~7.}
+누구도 법률이 논리적 추론(logical inference)이나 산술(arithmetic)의
+원리에 의존할 수 있는 것은 법이 그러한 원리를 특별히 인정했기 때문이라고
+생각하지 않는다. 누구도 영어 문법의 규칙이 영국 법의 인식규칙(rule of
+recognition)에 포함되어야 한다고 주장하지 않는다. 그렇다면 어쩌면 초대는
+필요하지 않은지도 모른다. 그리고 도덕 원칙 역시 이러한 다른 기준들처럼
+이미 법원에 자연스럽게 자리 잡고 있을 수 있다. 만약 그렇다면, 하트는
+존재하지 않는 문제에 대한 해법을 제안하고 있는 것일지도 모른다.
+
+\subsection{\texorpdfstring{\textbf{5. 사실(fact), 가치(value),
+방법(method)}}{5. 사실(fact), 가치(value), 방법(method)}}\label{uxc0acuxc2e4fact-uxac00uxce58value-uxbc29uxbc95method}
+
+하트(Hart)는 (Preface)에서 이 책의 목적이 ``법(law), 강제(coercion),
+도덕(morality)을 서로 다른 것이지만 관련된 사회적 현상(social
+phenomena)으로 이해하는 데 기여''하는 것이라 말한다. 그는 법학자들이 이
+책을 ``법철학의 분석적 접근(analytical jurisprudence)''으로 간주할
+것이라 예측하면서, 이는 ``법이나 법정책에 대한 비판이 아니라 법사고의
+일반적 틀을 명료화(clarification)하는 데 관심이 있기 때문''이라고 한다.
+그는 또한 이 책을 ``기술적 사회학(descriptive sociology)에 대한
+에세이로도 생각할 수 있다''고 말한다 (vi). 우리는 이 발언들을 어떻게
+해석해야 할까?
+
+\subsubsection{\texorpdfstring{(i) \emph{법철학(jurisprudence)과
+사회학(sociology)}}{(i) 법철학(jurisprudence)과 사회학(sociology)}}\label{i-uxbc95uxcca0uxd559jurisprudenceuxacfc-uxc0acuxd68cuxd559sociology}
+
+현장조사도, 통계모형도, 심지어 법 사례조차 거의 제시하지 않는 이 책을
+사회학이라 부르기는 어렵다. 하트는 훗날 되돌아보며 이 책이 사회학의 한
+\emph{종류(kind)} 라기보다는, 사회학을 위한 일종의
+준비작업(preparatory)이라 말했어야 했다고 한다\footnote{David Sugarman,
+  `Hart Interviewed: H. L. A. Hart in Conversation with David Sugarman'
+  (2005) 32 \emph{Journal of Law and Society} 267, 291.}. 이 다섯 단어는
+불필요한 논란을 일으켜왔다. 그러나 그의 요지는 단순하다. 하트의 방법론은
+기술적 사회학의 방법들과 \emph{마찬가지로(like)}, 사실(facts)에 대해
+책임을 지되, 그것들에 대해 도덕적이거나 정치적인 입장을 취하지 않는다는
+점을 강조하는 것이다. 그는 법철학의 주장을 검토할 때, 법 세계에 대한
+지식 있는 사람의 이해에 의거해 살펴보라고 독자에게 거듭 요청한다. 정말
+법규칙(legal rules)이라는 것이 존재하는가? 직접 보라(136). 모든 법체계가
+무제한 권력을 가진 주권자(sovereign)를 전제하는가? 직접 보라.
+\emph{선험적(a priori)} 이론과 법에 대한 보통의 지식 사이에 충돌이
+있다면, 후자를 따라야 한다. 그것은 수정이 필요할 수도 있고, 일정한
+규율이 필요할 수도 있지만, 출발점으로 삼아야 한다. 이 책의 경험적
+기반(empirical basis)은 그보다 정교하지 않지만, 기술적 사회학처럼 경험적
+기반을 갖는다. 정의(definitions)나 공리(axioms)로부터 시작하여 법에 대한
+필연적 진리들을 도출하려 하지 않는다. 법이 어떻게 되어야 하는가에 대한
+도덕적 명제에서 출발하여 법이 실제로 어떠한가에 대한 결론을 이끌어내려
+하지도 않는다.
+
+기술적 사회학은 양적, 질적 측면에서 일상적 지식을 넘어선
+관찰(observations)을 시도한다. 그것은 종종 이 관찰들을 일반화하거나 더
+야심차게는 예측으로 통합하려 한다. 하지만 하트는 그러지 않는다. 그는
+우리가 이미 알고 있는 기본적인 것들만을 다룬다. 그는 법의 본성을
+설명하는 이론을 제시하는데, 그것은 기존의 영향력 있는 이론들과 달리
+이러한 사실들과 일관된 방식으로 작동한다고 주장한다. 그의 이론은
+법사회학적 데이터를 대규모로 수집하여 얻어진 일반화 집합이 아니며,
+어떠한 예측도 시도하지 않는다. 그렇다면 그것이 우리가 이미 알고 있는
+것에 어떤 가치를 더하는가? 그것을 더 깊이 이해하게 함으로써이다. 그것은
+보통의 사실들 사이의 놀라운 관계들, 그 사실들이 전제하는 미처 인식되지
+않은 조건들, 그리고 특히 특정 사실들이 지니는 더 넓은 함의를 보여준다.
+물론 설명(explanation)과 이해(understanding) 사이에는 명확한 경계가
+없다. 법사회학과 법철학의 풍부한 연구들은 둘 다를 수행한다. 이해란 법에
+대한 설명적 혹은 예측적 탐구의 경쟁물이 아니다. 또한 그것은 누가 무엇을
+어떻게 연구해야 하는지를 규율하는 허가제도도 아니다. 그것은 그 자체의
+고유한 활동이다.
+
+이것은 분석적 법철학(analytic jurisprudence)과 법사회학이 대체로
+병행적으로 운영될 수 있음을 시사한다. 그렇다면 하트가 언급한, 전자가
+때로는 후자에 대한 준비작업이 될 수 있다는 주장은 어떤 근거를 가질 수
+있을까? 켈젠(Kelsen)은 ``사회학적 법학(sociological jurisprudence)은 법
+개념을 전제로 한다. 그 법 개념은 규범적 법학(normative jurisprudence)에
+의해 정의된다''고 말했다\footnote{Hans Kelsen, \emph{General Theory of
+  Law and State} 178. `Normative' here means `having to do with norms',
+  \emph{not} `morally appraisive'.}. 그의 기본 생각은, 사회학이 법
+제도나 실천을 연구하고 일반화하려면 \emph{그것들을 확보하고(with them)}
+시작해야 한다는 것이다. 권한 부여 규칙(power-conferring rules)이
+사회적으로 어떤 영향을 미치는지에 관심이 있다면, 무엇이 그러한 규칙인지
+먼저 판단할 수 있어야 한다. 이를 위해서는 `규범적 법철학'이 필요하다. 또
+다른 예로, 사회학자들이 법의 지배(rule of law)의 실증적 지표(empirical
+measures)를 개발하고자 한다면, 그것들이 유효한(valid) 측정치인지
+판단하려면 법의 지배란 무엇인지부터 알아야 한다. 내가 보기엔, 주요
+지표들 중 어느 것도 특정 관할권의 법이 소급적이지 않거나, 모호하지
+않거나, 상호 충돌하지 않는 정도를 측정하려 하지 않는다---그러나 이것들은
+모두 법의 지배의 핵심 요건들이다\footnote{For a review some attempts at
+  an index, and the problems in constructing one, see Tom Ginsburg,
+  `Pitfalls of Measuring the Rule of Law' (2011) 3 \emph{Hague Journal
+  on the Rule of Law} 269.}. 그럼에도 몇몇 지표들은 다양한 국가에서 사유
+재산의 보장이나 계약 자유의 정도를 측정하고, 그것이 클수록 법의 지배
+점수를 높게 준다. 이는 명백한 정치적 편향을 드러내며, 동시에 개념적
+혼란을 의미한다. 법의 지배 개념에는 논쟁의 여지가 있지만, 그것을
+`자본주의의 전제 조건'으로 여긴다면 해당 개념에 대한 이해는 매우 빈약한
+것이다. 이에 대해 적어도 이러한 실증 지표들이 신뢰할 수 있으며, 관련
+변수들과 상관관계가 있고, 법과 사회에 대한 다른 지식들과 연속선상에
+있다는 반론이 있을 수 있다\footnote{For a spirited defence of a
+  social-scientific approach to jurisprudence see Brian Leiter,
+  \emph{Naturalizing Jurisprudence: Essays on American Legal Realism and
+  Naturalism in Legal Philosophy} (Oxford University Press, 2007).}.
+그럼에도 법사회학이 관련 개념이 가리키는 핵심에서 너무 멀어진다면,
+그것은 주제를 바꾼 셈이다. 어떤 경우에는 주제를 바꿔야 할 수도
+있다---자연과학의 진보는 때때로 존재론을 폐기하고 새로 시작하는 방식으로
+이루어졌다. 그러나 사회과학의 진보가 우리가 익숙한 법의 존재론(규칙,
+의무, 권한, 법원 등)을 폐기해야 한다면, 그것은 더 이상 `법'의 사회학이
+아닐 것이다. 그렇다면 법철학(jurisprudence)은 여전히 우선성을 가진다.
+
+우리가 `법의 법리학적 개념(juristic concept of law)'과 그 관련 개념들을
+계속 유지하고자 한다면, 하트가 약속한 깊은 이해는 어떻게 도달할 수
+있는가? 어디서 시작해야 하는가? 하트는 종종 우리에게 특정 사례를 어떻게
+판단하거나 분류할 것인지 질문함으로써 우리 자신의 일상적 지식을
+이끌어내려 하고, 때때로 그는 우리가 무엇이라고 \emph{말할(say)} 것인지를
+묻는 방식으로 \emph{그 작업을(that)} 수행한다. 이것이 하트의 법철학을
+의미론(semantics)의 한 분야로 만든다고 볼 수 있을까? 하트는 철학의
+`언어적 전환(linguistic turn)'에 영향을 받았고, 스스로 그 옹호자라
+여겼다\footnote{See Richard Rorty ed., \emph{The Linguistic Turn: Recent
+  Essays in Philosophical Method} (University of Chicago Press, 1967).}.
+특히 그는 옥스퍼드에서 J. L. 오스틴(J. L. Austin)과 길버트 라일(Gilbert
+Ryle)이 전개한 일상 언어철학에 영향을 받았다\footnote{그리고 후기
+  비트겐슈타인(later Wittgenstein), 특히 그의 제자 프리드리히
+  바이스만(Friedrich Waismann)을 통해 수용된 견해도 참고할 수 있다.
+  하트와 그 당시 옥스퍼드 철학자들과의 개인적·지적 관계에 대한 통찰력
+  있는 논의는 니콜라 레이시(Nicola Lacey), \emph{A Life of H. L. A.
+  Hart: The Nightmare and the Noble Dream} (Oxford University Press,
+  2004)을 참조하라.}. 그럼에도 이 책의 연대기적 위치와 철학적 계보를
+고려할 때 가장 눈에 띄는 점은 『법의 개념(The Concept of Law)』에
+언어분석이 \emph{거의 없다(little)}는 것이다. 언어는 다양한 기능을
+가지며, 문장은 맥락을 가지며, 일부 이론들은 개념의 사용기준(criteria)을
+제시한다고 말할 수 있다는 점이 언급된다. 몇몇 지점에서 언어적 구별이
+강조되긴 한다. (하트는 `강요당하다(be obliged)'와 `의무를 지다(be
+obligated)' 사이에는 차이가 있으며, `규칙에 따라 행위한다'는 것과
+`규칙을 가지고 있다'는 것 사이에도 차이가 있다고 주장한다.) 하지만
+그것뿐이다. 언어철학자들의 이론 구성에 대한 적대감은 보이지 않는다.
+`법체계(legal system)'라는 개념이 가족 유사성(family resemblance)
+개념이라는 식의 주장도 없다. 오히려 하트는 법체계가 되기 위한
+필요충분조건(necessary and sufficient conditions)까지 제시한다! 그는 이
+문제나 법철학의 다른 핵심 문제를 단어의 의미에 호소하는 방식으로
+접근하지 않는다. 하트는 반복적으로 언어적 접근 방식의 무용함을 경고한다.
+```법이란 무엇인가?'라는 질문에 대해 `법'이나 `법체계'라는 단어의 사용에
+관한 기존 관습을 상기시키는 것으로 답하는 것은,'' 그는 말한다,
+``\,`쓸모없다'\,'' (5). 더 넓은 개념과 좁은 개념 중 어느 것을 택할
+것인지를 판단하려면 의미론(semantics) 이상의 것이 필요하다. ``이 문제를
+단지 언어 사용의 적절성 문제로 본다면 우리는 이 문제를 충분히 다룰 수
+없다''(209). 만약 누군가가 법철학의 방법론(methodology)에 관한 책을
+쓰고자 한다면, 이 경고들과 동시에 책 전체에 드러나는 언어철학에 대한
+호의적 태도를 조화롭게 해석할 필요가 있을 것이다. 그러나 하트는 어떤
+방법론에 관한 책도 쓰고 있지 않다.
+
+이 책의 제목을 포함하여 책 전반에 드러나는 수사적 표현은 언어철학의
+색채를 띠고 있음은 부인할 수 없다. 그러나 좋은 사상사가는 표현 형식보다
+내용에 주목해야 한다. 철학자가 자신이 무엇을 하고 있다고 생각했는지,
+말했는지, 실제로 무엇을 했는지는 서로 다를 수 있다. (데이비드 흄(David
+Hume)은 정치학이 과학이 될 수 있다고 말했지만, \emph{논고(Treatise)}나
+\emph{탐구(Enquiry)} 어느 곳에서도 단 하나의 실험이나 증명을 제시하지
+않았다.) 현대 철학의 수사적 스타일은 하트의 것과 매우 다르며, 하트의
+스타일은 다시 벤담(Bentham)의 것과 매우 달랐다. 이러한 차이가 실제
+기법의 차이를 얼마나 반영하는지는 분명하지 않다.
+
+\subsubsection{\texorpdfstring{(ii) \emph{명료화(clarification)와
+비판(criticism)}}{(ii) 명료화(clarification)와 비판(criticism)}}\label{ii-uxba85uxb8ccuxd654clarificationuxc640-uxbe44uxd310criticism}
+
+이 책은 하트(Hart)가 `일반적이고 기술적인(general and descriptive)'
+법이론(legal theory)이라 부르는 유형을 옹호한다 (239--240). 그는 이것이
+영국법(English law), 관습법(common law), 자본주의적 법(capitalist law)에
+대한 이론이 아니라, \emph{법 그 자체(as such)} 에 대한 이론이라고
+말한다. 이 이론은 ``도덕적으로 중립(morally neutral)이며 정당화
+목적(justificatory aims)을 지니지 않는다. 즉, 내가 법에 대해 일반적으로
+설명하는 형태나 구조에 대해 도덕적 혹은 기타의 근거에서 이를
+정당화하거나 칭찬하려는 목적은 없다''고 밝히며, 낙관적으로 다음과 같이
+덧붙인다. ``다만 나는 이러한 구조들에 대한 명확한 이해가 법에 대한
+유익한 도덕적 비판의 중요한 전제라고 생각한다''(240).
+
+이 책이 정당화의 목적을 결여한다고 해서, 그것이 곧 도덕적으로
+중립적이라는 의미는 아니다. 어쩌면 도덕적 편향이 무의식적으로 스며들 수
+있다. 일부 사람들은 묘사(description)라는 것이 단순히 해당 대상에 관한
+사실(facts)의 목록 이상일 수밖에 없다고 보고, 이런 점에서 이 책에도
+도덕적 요소가 개입되었다고 본다. 관찰(observation)은 이론을 전제하며,
+관찰에 기반한 묘사는 가치를 전제한다; 따라서 기술적 법철학(descriptive
+legal philosophy)은 불가능하다는 것이다. 그러나 이는 성급한 일반화이다.
+사실의 명제(statement of fact)는 참(true) 혹은 거짓(false)으로 평가될 수
+있다. 반면 묘사는 일반적으로 참이나 거짓으로 평가되지 않고, 유익하거나
+무익한(helpful or unhelpful), 통찰력 있는지 여부(illuminating or
+unilluminating) 등으로 판단된다. 어떤 대상이나 사태(state of affairs)에
+대해서도 가능한 묘사는 무한하다. 왜냐하면 각각에 관한 사실이 무한하기
+때문이다. 실제의 묘사는 그에 관한 \emph{모든} 사실의 목록이 아니라, 어떤
+이유에서 중요하거나, 두드러지거나, 관련 있거나, 흥미롭다고 여겨지는
+사실들의 선별(selection)과 배열(arrangement)이다. 모든 묘사는 특정한
+가치들에 의해 전제되거나, 그 가치들의 관점에서 이루어진다. 그러나
+이로부터 묘사를 제시하는 사람이 그러한 가치들을 승인하거나, 그것들이
+도덕적 가치(moral values)라는 결론이 반드시 도출되지는 않는다. 예컨대
+사건관리시스템(case-management system)을 `비효율적(inefficient)'이라
+묘사하는 것은 가치중립적이지 않다. 이는 해당 시스템의 어떤 특징에
+주목하게 만든다. 그러나 이러한 선별(selection)의 이유가 반드시 화자가
+효율성(efficiency)을 가치 있다고 보거나, 더 나아가 가장 중요한 가치라고
+보거나, 도덕적 가치라고 생각해서일 필요는 없다. 그는 청중이 그것을
+중요한 것으로 본다고 생각하거나, 일반 사람들이 그러하다고 보거나, 해당
+시스템을 사용하는 판사들이 그렇게 본다고 추측해서 그렇게 말할 수도 있다.
+가능한 경우는 다양하다.
+
+비판자들이 하트의 기술적 기획에 도덕적 요소의 스며듦을 감지한다고 여기는
+지점을 하나 살펴보는 것도 유익할 수 있다. 그는 자신의 주된 논증을 허구의
+사회발전사(fictional history of social development)를 통해 전개하는
+것으로 잘 알려져 있다(91--99). 우리는 `원시적(primitive)' 사회에서
+출발한다. 이 사회에서는 사회질서(social order)가 무엇을 해야 하는지에
+대한 합의(consensus)를 통해 유지된다. 그러나 사회 변화와 함께 이
+합의들은 불확실하게 되고(static), 정태적이며, 비효율적으로 된다. 이
+결함들(defects)은 법이 등장하면서 보완되며, 법은 인정규칙(rule of
+recognition), 변경규칙(rule of change), 재판규칙(rule of adjudication)과
+같은 이차적 규칙들(secondary rules)을 통해 확실성(certainty),
+역동성(dynamism), 효율성(efficiency)을 부여한다. 이렇게
+`발전된(developed)' 혹은 `복잡한(complex)' 사회에서 우리는 더 나은
+조건을 누리게 된다. 이 지점에서 비판자들이 반박에 나선다\footnote{Among
+  many pouncers, see Stephen Guest, `Two Strands in Hart's Concept of
+  Law' in Stephen Guest ed., \emph{Positivism Today} (Dartmouth, 1996)
+  29.}: 하트는 어떻게 법이 `결함'을 치유한다고 말하면서도, 법의 정당성에
+대해서는 중립적이라고 할 수 있는가? 그는 어떻게 전(前)법적(pre-legal)
+사회를 `원시적'이라고 부르면서도, 그것을 암묵적으로 비난하지 않는다고
+말할 수 있는가?
+
+이 문맥에서 `원시적(primitive)'이라는 말은 명백히 단순(simple)하다는
+의미이며, 어리석거나 야만적(barbaric)이라는 뜻은 아니다. 그리고 단순한
+사회들이 법을 가지지 않는 이유는 그들이 문명화되지 않아서가 아니라, 법이
+\emph{필요하지(need)} 않기 때문이다. 인간 본성이나 사회라는 것의 구조
+속에 법이 필수라는 요소는 없다; 실제로 많은 사회가 법 없이도 잘
+작동해왔다(91). 국제 영역에서도 볼 수 있듯, 고도로 체계화된 규칙 체계는
+``필수품이 아니라 사치품''이다(235). 단순한 형태의 사회질서는 실제로 잘
+작동한다. 예컨대 사회가 작고 안정적이며, 사회적·이념적으로 통합되어 있을
+때 그러하다(91). 그러나 ``이 외의 조건에서는 그러한 단순한 사회통제의
+형태는 결함을 드러내며, 다양한 방식으로 보완될 필요가 있다''(92). 여기서
+주목할 점은, 첫째로, 문제 삼는 `결함(defect)'은 \emph{도덕적}
+악(\emph{moral} vice)이 아니라, 사회 통제 메커니즘의 기능적
+결함(functional deficit)이라는 것이다. 이러한 결함이 도덕적으로
+유감스러운 것인지 여부는, 그 통제 메커니즘이 선(good)을 향하는가,
+악(evil)을 향하는가에 달려 있다. 더 효율적인 사회 통제가 도덕적으로 나쁜
+것일 수도 있다. 둘째로, 결함이 있는 것은 단순한 사회 자체라기보다는,
+통치 방식과 사회 복잡성 사이의 불일치이다. 결함은 낯선 사람들로 구성된
+큰 사회를, 친구들로 이루어진 작은 사회처럼 다스리려 할 때
+나타난다---일부 현대 공동체주의(communitarian) 정치이론의 오류처럼.
+여기에는 단순한 사회(법이 없는)와 복잡한 사회(법이 있는) 사이에서 후자를
+반드시 선호해야 한다는 어떠한 제안도 존재하지 않는다.
+
+그러므로 이 논변은 하트가 추구한 중립성을 포기한 것으로 비난될 수 없다.
+물론 하트는 이차적 규칙들의 등장에 주목하지만, 그것은 그가 그것이
+중요하고 핵심적인 사실이라고 보기 때문이다. 그러나 그것이 바람직하다고
+생각하기 때문은 아니다. 오히려 그는 위에서 본 것처럼, 그것이 도덕적으로
+위험하다고 생각한다. 아이러니하게도, 편향은 오히려 하트의 논변을 일종의
+근대주의적 승리론(modernist triumphalism)으로 해석하는 사람들 쪽에서
+나타난다. 그들은 어떤 사회가 법체계를 결여하고 있다면, 그것은 근대의
+성취 중 하나를 결여한 것이라고 본다. 따라서 `원시적' 사회가 문명화되지
+않았다고 보는 것은 편협하고 모욕적인 생각이므로, \emph{후건부정법(modus
+tollens)}에 따라, 모든 사회는 법체계를 가져야 한다. 그리고 어떠한
+법철학이든 이러한 사회들을 법체계들\emph{로써(as)} 간주하지 않는다면,
+그것은 근대적 또는 서구적 법에 편향된 것이다. 이러한 논변의 구조는
+놀랍다. 그것은 모든 사회가 법을 가져야 한다는 명제로부터 시작하여, 모든
+사회가 실제로 법을 가지고 있다는 결론을 도출한다. 이 추론은 명백히
+타당하지 않다(invalid). 또한 이는 하트가 거부한 전제를 바탕으로 한다.
+그는 법에 대해 특별한 열정을 공유하지 않기 때문에, 그것이 어디에나
+존재한다고 믿어야 할 필요를 느끼지 않는다.
+
+이와 유사한 논점은 제10장에서 하트가 국제법(international law)을
+체계(system)가 아니라 규칙들의 \emph{집합}(\emph{set} of rules)으로
+규정하는 데에도 적용된다. 그는 국제법이 단순한 사회질서와 유사한 점이
+있다고 본다. 국제법학자들은 분개한다. 하트는 국제법에 대해 `낮은 점수'를
+주며, 그것을 특별한 것으로 대우하기보다는 `이단(outcast)'처럼 취급한다고
+본다\footnote{Ian Brownlie, `The Reality and Efficacy of International
+  Law' (1981) 52 \emph{British Yearbook of International Law} 1, 7--8.}.
+그들은 자신들의 학문분야의 지위에 대해 걱정하는 나머지, 이 장의 핵심이
+오히려 국제법을 \emph{옹호하고(defend)} 있다는 점은 거의 눈치채지
+못한다---즉, 중앙 주권자나 강제적 관할권이 없다는 이유로 국제법이 법이
+아니라고 보는 잘못된 주장으로부터 국제법을 방어하고자 한 것이다. 하트는
+국제법이 매우 체계적이라고는 보기 어렵다고 본다. 그는 국제법에서
+전체적인 인정규칙(rule of recognition) 같은 것을 발견하지 못한다. 그러나
+그가 다른 이차적 규칙들이 존재할 가능성을 배제하는 것은 아니다. 예컨대
+어떤 실체(entity)가 국가(state)인지 여부나 조약(treaty)을 채택하기 위한
+요건 등에 관한 규칙들이 그것이다. 흥미롭게도, 국제법 자체에 관해 기술할
+때(즉, 국제법 이론에 대해 논하지 않고 실제 국제질서에 대해 기술할 때),
+국제법학자들 스스로도 그 핵심 규칙들 중 많은 것이 적용
+유효성(effectiveness)이 부분적이며, 중요한 규범들에 대한 기준이
+불안정하고, 재판제도들이 목적별로 분산되어 있으며, 국제법의 여러 영역이
+여전히 이상적 수준에 머물러 있다는 것을 기꺼이 인정한다. 그러나 법의
+체계성(systematization)은 본질적으로 정도의 문제(matter of degree)이며,
+오늘날 국제법이 1961년보다 더 체계화되어 있다고 보는 것이 타당할 수
+있다\footnote{For a review of some of the issues see the editors'
+  introduction to Samantha Besson and John Tasioulas eds., \emph{The
+  Philosophy of International Law} (Oxford University Press, 2010)
+  1--13, and sources therein cited.}. 그렇다고 해서 그것이 국내
+법체계(domestic legal systems)와 동등하다고 보기는 어렵다. 하트가 이
+점을 지적한다고 해서, 그가 국제법을 비판하거나 베스트팔렌식
+국가주의(Westphalian statism)를 찬양하는 것은 아니다. 그는 국제법이
+국내법과 유사한 점, 그리고 그렇지 않은 점을 이해하려는 것이다.
+
+이 모든 것이 『법의 개념(The Concept of Law)』이라는 책이 정치적
+도덕성(political morality)에 대한 일정한 관점을 전제로 구성되어 있다는
+사실을 부인하는 것은 아니다. 이 책에는 하트의 밀적 자유주의(Millian
+liberalism)나 민주적 사회주의(democratic socialism)에 대한 직접적인
+논의는 많지 않다. 그러나 그의 또 다른 도덕적 신념, 즉 가치
+다원주의(value pluralism 의 뚜렷한 흔적이 있다. 그의 친구 아이제이아
+벌린(Isaiah Berlin)처럼\footnote{Isaiah Berlin, \emph{Four Essays on
+  Liberty} (Oxford University Press, 1969), and also his `On Value
+  Pluralism' (1998) \emph{New York Review of Books}, vol.~XLV No.~8.},
+하트는 선(good)은 본질적으로 다원적(plural)이며, 실제 세계는 정당한
+가치들 사이에서도 충돌이 자주 발생한다고 본다. 하나의 정당한 이익이 또
+다른 이익의 희생을 통해 얻어질 수 있다는 것이다. 하트는 따라서
+공리주의(utilitarianism)나 복지경제학(welfare economics)에서 나타나는
+축소적 일원론(reductive monism), 즉 궁극적으로 추구해야 할 가치는 오직
+하나뿐이라는 입장에 반대한다. 동시에, 다양한 가치를 인정하되 이들이
+`적절히 해석되면' 결코 충돌하지 않는다고 주장하는 비축소적
+일원론(nonreductive monism)에도 반대한다\footnote{이 입장에 대한 가장
+  지속적인 옹호는 로널드 드워킨(Ronald Dworkin), \emph{Justice for
+  Hedgehogs} (Harvard University Press, 2011)을 보라.}. 그는 ``법과 법의
+집행에는 다양한 종류의 탁월성(excellences)이 있을 수도, 없을 수도
+있다''고 하며(157), 정의(justice)조차도 그러한 탁월성들 중 하나일
+뿐이라고 말한다. 그의 가치 다원주의는 법적 추론에 대한 언급에서도 분명히
+드러난다. ``특히 중요한 헌법적 문제에 관한 사법적 판단(judicial
+decision)은 종종 도덕적 가치들 간의 선택을 포함하며, 단 하나의 뛰어난
+도덕 원칙의 적용만으로 설명되지 않는다''(204). 이 점은 사법적
+추론(judicial reasoning)에 깊은 함의를 지닌다. ``이러한 원칙들이 다수
+존재할 수 있기 때문에, 특정한 {[}사법적{]} 판단이 유일하게 정당하다는
+것을 \emph{입증(demonstrate)}할 수는 없다\ldots{}'' (205).
+
+\subsection{\texorpdfstring{\textbf{6. 요점(THE
+POINT)}}{6. 요점(THE POINT)}}\label{uxc694uxc810the-point}
+
+하트(Hart)의 구상에 따라 하나의 일반 법이론(general jurisprudence)이
+성공적으로 전개될 수 있다고 가정해 보자. 그렇다면 왜 그런 수고를 들여야
+하는가? 이 책의 사상들과 씨름하는 일은 현대 법철학의 방대한 문헌에
+입장하기 위한 일종의 입장료가 되어버렸다. 이 책은 과거 철학 저작들에
+대한 유익한 논의를 포함하고 있다. 하지만 우리는
+법이론서(jurisprudence)를 \emph{다른(other)} 법이론서에 대해 알기 위해
+주로 읽어야 한다는 생각에 대해, 그 누구보다 강력히 반대한 인물이 바로
+하트 자신이다. 『법의 개념(The Concept of Law)』에는 학술 주석(scholarly
+notes)이 거의 없으며, 그나마도 책의 맨 뒤로 밀려 있으며, 그것들은 차라리
+나중에 읽으라고 권고한다:
+
+\begin{quote}
+나는 이러한 배열이, 법이론에 관한 책이란 기본적으로 다른 책들에 무엇이
+들어 있는지를 배우기 위한 책이라는 믿음을 약화시키기를 바란다. 이 믿음을
+저술하는 사람이 갖고 있다면, 그 학문은 거의 진전을 이루지 못할 것이며,
+독자가 그 믿음을 갖고 있다면, 그 학문의 교육적 가치는 극히 제한된 수준에
+머물 것이다 (vii쪽).
+\end{quote}
+
+그러나 그러한 장애물을 제거하는 것이 의미 있으려면, 그 학문 영역 자체의
+진보가 그 자체로 의미가 있을 경우에만 그렇다. 하트식의 분석적
+법철학(analytic legal philosophy)은 특정 목적에 국한되지 않는 일반적
+가치(non-specific value)를 지닌다: 그것은 면밀한 독해(close reading),
+명료한 사고(clear thinking), 정밀한 논증(careful argument)을 중시하고
+증진시킨다. 이러한 능력들은 유용한 기술이며, 교육적으로도 가치가 있다.
+그러나 이를 습득할 방법은 많고, 굳이 법이론 연구가 그 가장 빠르거나 쉬운
+길이라고 볼 이유는 없다.
+
+일반 법이론에 대한 진정한 변론(apology)은 다음과 같은 주장이다: 법은
+중요한 사회 제도(social institution)이며, 이와 같은 제도에 대한 심층적
+이해는 그 자체로 가치가 있다. 우리는 법의 본성을 이해하고자 한다. 그것은
+시장(market)이나 가족(family)의 본성을 이해하고자 하는 이유와 같다.
+그렇다고 해서 우리가 시장이나 가족보다 법에 집중해야 한다는 주장이
+성립하는 것은 아니며, 더 나아가 법을 더 깊이 이해하는 일이 법 관련
+행동을 예측하거나 법과 제도를 개혁하는 일보다 더 중요하다는 것을
+입증하는 것도 아니다. 그러나 이러한 대안들 중 어떤 것도 법이론만의
+고유한 가치를 약화시키지는 않는다.
+
+어떤 사람들은 법이론서를 읽으며 삶과 법에 대한 지침을 기대한다. 어떤
+사람들은 그 지침을 제공하고자 법이론서를 쓴다. (마키아벨리처럼, 군주의
+귀를 사로잡기 위해 쓰는 경우도 포함해서.) 만약 이것이 독자의 목적이라면,
+일반 법이론은 실망을 안겨줄 수도 있다. 그것이 일종의 고급 `법정
+조언서(high-brow \emph{amicus curiae} brief)'로서 영향력을 행사한 예는
+거의 없다. 물론 하나의 법정 판결(court case)이 법이론적
+명제(jurisprudential theses)를 제기하거나 의존하는 경우는 있을 수 있다.
+실제로 어떤 판결에서는 판사들이 법의 유효성(validity)과 실효성(efficacy)
+사이의 관계, 벌금(penalty)과 세금(tax)의 차이, 혹은 법과 관습(custom)의
+차이 등에 대해 의견을 제시한다. 그러나 그런 경우에도 법원은 지역적
+교의적 제약(local doctrinal constraints) 내에서 해답을 모색하려 하며, 이
+제약은 법철학이 반드시 따라야 할 것은 아니다. 우리는 사회
+관습질서(customary social order)와 법체계(legal system)를 구별할 수 있는
+충분한 이론적 근거를 가지고 있다. 그러나 특정한 법체계가 원주민
+관습(aboriginal custom)을 하나의 독립된 법체계로 간주할 수도 있다.
+그렇다면 그것이 하트의 이론을 반박하는가? 전혀 그렇지 않다.
+「어업법(Fisheries Act)」이 포경(whaling)을 규제한다고 해서
+고래(whale)가 물고기(fish)가 아니라는 확신이 흔들릴 이유는 없다.
+(그렇다고 해서 어업법에 잘못이 있다는 뜻도 아니다.)
+
+역사적으로 볼 때, 『법의 개념』은 영미권에서 정치철학(political
+philosophy)이 부흥하던 전환기에 위치한 저작이다. 초판 출간 이후, 학계의
+관심은 비교적 빠르게 가치 문제(value questions)로 옮겨갔다. 다음 세대의
+주요 저작들은 정의(justice), 자유(liberty), 평등(equality)과 같은
+개념들에 초점을 맞추었고, 법 제도나 구조에 대한 관심은
+줄어들었다\footnote{이 주제가 응용 도덕철학(applied moral philosophy)의
+  방향으로 지나치게 나아갔다는 제안은 제레미 월드론(Jeremy Waldron),
+  「\emph{Political} Political Theory: An Oxford Inaugural Lecture」,
+  \url{http://ssrn.com/abstract=2060344}에서 제시된다.}. 하트의 책은
+평가적 문제들(evaluative issues)을 곁눈질하듯 살펴보긴 하지만---실제로
+정의에 관해서도 일정한 논의가 있다---전반적으로 그것은 제도와 구조에
+대한 책이다. 그리고 이러한 이유 때문에, 또 기술적 접근방식을 일관되게
+유지하려는 태도 때문에, 이 책은 흔히 논변가들(advocates)의 단골 비난을
+받는다: ``불모적이다(sterile)'' 혹은 ``지루하다(boring)''는 것이다.
+이러한 비난은 어떻게 이해해야 할까? 그것은 지적 편협성(intellectual
+narrowness)을 드러낼 뿐 아니라, 자기 성찰의 부족도 나타낸다. 법이
+\emph{의심의 여지 없이(unquestionably)} 흥미롭다고 생각하고, 다른
+사안들도 어떤 소송의 가능성과 관련된 방식으로 설명되어야만 흥미롭게
+여겨진다는 것은, 일종의 법률가적 자만이다---(이는 어떤 질문이
+\emph{진정(really)} 흥미로운 질문이 되기 위해서는 고객이 그 해답에 돈을
+지불할 의사가 있어야 한다는 생각과 크게 다르지 않다.)
+
+로널드 드워킨(Ronald Dworkin)은 ``법철학(jurisprudence)은 중요하다.
+왜냐하면 판사들이 어떻게 판결을 내리는지가 중요하기 때문이다''라고
+썼다\footnote{Ronald Dworkin, \emph{Law's Empire} 1.}. 그는 훨씬
+이전에도 다음과 같이 썼다: ``법원이 내리는 결정에 대해 일반적으로 좋은
+이유란 무엇인가? 이것이야말로 법철학의 \emph{그(the)}
+질문이다\ldots{}''\footnote{Ronald Dworkin, `Does Law Have a Function? A
+  Comment on the Two-Level Theory of Decision' (1965) 74 \emph{Yale Law
+  Journal} 640.}. 하트는 단지 가치 다원주의자(value pluralist)일 뿐
+아니라, 지적 다원주의자(intellectual pluralist)이기도 하다. 그는 결론을
+향해 직행하는 경쟁에 참여하지 않는다. 이 책의 제1장은 `지속되는
+질문들(Persistent Questions)'이라는 제목이며, 복수형이다. 그 질문들은
+다음과 같다: 법은 강제적 위협(coercive threats)과 어떤 관계에 있는가?
+법의 의무적 강제력(obligatory force)은 어떤 의미를 가지며, 그것은 도덕적
+의무(moral obligation)와 어떤 관계를 가지는가? 사회 규칙(social
+rules)이란 무엇이며, 법은 어떤 방식으로 규칙에 관한 것인가? 그러나 이들
+중 어느 것도 법철학의 \emph{그(the)} 질문이 아니다. 이들은 모두 법철학의
+\emph{질문들(questions)}일 뿐이다. 그렇다면 이 질문들은 흥미로운가? 물론
+흥미롭다. 그러나 단순한 진실은, 사람들은 서로 다른 것에 흥미를 느낀다는
+것이다. 데이비드 흄(David Hume)은 자신의 삶을 회고하며 이렇게 적었다:
+``나의 학구적 성향, 절제된 생활, 근면한 태도 때문에 가족은 법률이 내게
+적합한 직업이라고 생각했다. 그러나 나는 철학과 일반 학문 외에는 도저히
+흥미를 느끼지 못했다\ldots{}''\footnote{David Hume, `My Own Life' in his
+  \emph{Essays}, \emph{Moral, Political and Literary}, E. F. Miller,
+  ed.~(Liberty Press, 1987).}. 흄은 법을 도저히 견딜 수 없을 만큼
+지루하게 여겼다. 그는 혼자가 아니다. 분명 그 반대의 기호를 가진 이들도
+있다. 그러나 지적 취향이 어떻든 간에, 누구나 깨달을 수 있는 점은 다음과
+같다---그리고 흄도 분명히 깨달았던 점이다: `흥미롭다'는 것은 대상 그
+자체의 성질이 아니라, 대상과 한 개인 사이의 관계 속에서 발생하는
+성질이다. 하트의 법철학은 소송과의 관련성은 제한적일 수 있지만, 그 문제
+자체의 본질적 중요성을 인식하는 사람들, 혹은 더 넓은 정치적 관심을 지닌
+사람들에게는 분명 흥미를 유발할 수 있다. 법정에서는 `\emph{당해 사안의
+법(the law)}이 무엇인가'를 아는 것이 `\emph{법(law)}이 무엇인가'를 아는
+것보다 중요하다. 그러나 법정 밖에서는, 하트가 상기시키듯이 실제의 법적
+실천(law-in-action)의 대부분이 이루어지는 곳이며, 이때 법의 본질에 대한
+질문이 제자리를 찾는다. 우리는 법을 통치 수단(governance)으로 삼아
+무엇을 기대할 수 있는가? 그것의 이점은 무엇이며 위험은 무엇인가? 법의
+지배(rule of law)를 왜 가치 있게 여겨야 하는가? 우리는 법에 복종해야
+하는가? 만약 그렇다면, 어디까지 복종해야 하는가? 그리고 물론, 우리는 왜
+법을 가져야 하는가? 이런 질문을 던지는 사람, 혹은 더 이상 이런 질문을
+피할 수 없다고 느끼는 사람이라면 누구든, 그 해답을 찾기 위해 일반
+법이론의 도움을 필요로 하게 된다. 하트가 그 작업을 이렇게 훌륭하게
+시작해 두었다는 것은 우리에게 정말로 행운이다.  % For Pandoc
+
+\end{document}
