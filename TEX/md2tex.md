@@ -17,3 +17,13 @@ cd /Users/jeyounson/HartConcept/TEX/trans-chapters/sections
 ### Md 파일을 tex 파일로 변환 (hartbook-template.tex 템플릿 이용)
 
 pandoc /Users/jeyounson/HartConcept/TRANSLATIONS/CHAPTERS/chapter_1-translation.md -o /Users/jeyounson/HartConcept/TEX/trans-chapters/sections/chapter_1-translation.tex --template=hartbook-template.tex
+
+
+pandoc /Users/jeyounson/HartConcept/TRANSLATIONS/CHAPTERS/FRONTMATTER/forTex.md -o /Users/jeyounson/HartConcept/TEX/trans-chapters/forTex.tex --template=hartbook-template.tex
+
+### 마지막 FOOTNOTE 헤더 삭제
+
+### 따옴표 앞부분 변환
+`  
+
+### 주석부분 \newpage
