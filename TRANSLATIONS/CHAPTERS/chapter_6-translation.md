@@ -114,7 +114,7 @@ permalink: /book-translation/chapter_06
 
 *Page* 111. *관행적 범주와 헌정 구조(Conventional categories and constitutional structures).* ‘법(law)’과 ‘관행(convention)’의 완전한 구분이라는 주장에 대해서는 Dicey, *Law of the Constitution*, 10판, pp. 23 이하; Wheare, *Modern Constitutions*, 제1장 참조.
 
-*Page* 111. *승인 규칙(rule of recognition): 법인가 사실인가?* 정치적 사실로 분류할 것인지에 대한 찬반 논의는 Wade, 'The Basis of Legal Sovereignty', *Cambridge Law Journal* (1955), 특히 p. 189, 그리고 Marshall, *Parliamentary Sovereignty and the Commonwealth*, pp. 43–46을 참조하라.
+*Page* 111. *승인 규칙(rule of recognition): 법인가 사실인가?* 정치적 사실로 분류할 것인지에 대한 찬반 논증은 Wade, 'The Basis of Legal Sovereignty', *Cambridge Law Journal* (1955), 특히 p. 189, 그리고 Marshall, *Parliamentary Sovereignty and the Commonwealth*, pp. 43–46을 참조하라.
 
 *Page* 112. *법체계의 존재, 습관적 복종, 승인 규칙의 수용(The existence of a legal system, habitual obedience, and the acceptance of the rule of recognition).* 일반 시민의 복종과 공무원의 헌정 규칙 수용이라는 복합적 사회 현상을 지나치게 단순화할 위험에 대해서는 제4장 제1절, pp. 60–61 및 Hughes, 'The Existence of a Legal System', *35 New York University LR* (1960), p. 1010 참조. 특히 본서의 Hart가 'Legal and Moral Obligation' (*Essays in Moral Philosophy*, Melden 편, 1958)에서 사용한 용어에 대해 정당하게 비판한다.
 
