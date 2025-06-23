@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1750695009.39908 "/Users/jeyounson/HartConcept/TEX/trans-chapters/main-b5-small.tex" "main-b5-small.pdf" "main-b5-small" 1750695009.63643 2
+["pdflatex"] 1750695815.73496 "/Users/jeyounson/HartConcept/TEX/trans-chapters/main-b5-small.tex" "main-b5-small.pdf" "main-b5-small" 1750695815.9406 2
   "/Users/jeyounson/HartConcept/TEX/trans-chapters/main-b5-small.tex" 1750694326.12875 3371 e2e132ec713cb3a9fe0a1f54105bd6ec ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -17,7 +17,7 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1731916346 8221433 b7e86e76b68688b1af45b501dbdda9ad ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main-b5-small.aux" 1750695009.39861 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main-b5-small.aux" 1750695815.73436 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main-b5-small.tex" 1750694326.12875 3371 e2e132ec713cb3a9fe0a1f54105bd6ec ""
   (generated)
   "main-b5-small.aux"

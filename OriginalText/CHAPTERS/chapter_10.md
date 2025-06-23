@@ -138,18 +138,6 @@ Again once we emancipate ourselves from the assumption that international law *m
 
 *Page* 237. *Analogy of content between international law and municipal law.* See Campbell, op. cit. in *35 Grotius Society Proceedings* (1950), p. 121 *ad fin.,* and the discussion of treaties and the rules governing acquisition of territory, prescriptions, leases, mandates, servitudes, &c., in Lauterpacht, *Private Law Sources and Analogies of International Law* (1927).
 
-*Page* 272. [An alternative beginning to this section is included here, as it was not discarded.]
-
-Throughout the long sequence of his writings on adjudication Dworkin has unswervingly maintained his denial that the courts have discretion in the sense of a law-creating power to decide cases left incompletely regulated by the existing law. Indeed he has argued that apart from some trivial exceptions there are no such cases, since as he has famously said, there is always a single 'right answer' to any meaningful question as to what the law is on any point of law arising in any case. [^306-1]
-
-But notwithstanding this appearance of an unchanging doctrine, Dworkin's later introduction of interpretive ideas into his legal theory and his claim that all propositions of law are 'interpretive' in the special sense which he has given to this expression, has (as Raz was the first to make clear[^307-2] brought the substance of this position very close to my own in recognizing that the courts in fact have and frequently exercise a law-creating discretion. Arguably before the introduction of interpretive ideas into his theory there seemed to be a great difference between our respective accounts of adjudication, because Dworkin's earlier denial of judicial discretion in the strong sense and his insistence that there is always a right answer were associated with the idea that the judge's role in deciding cases was to *discern* and *enforce existing law.* But this earlier conception which of course conflicted very sharply with my claim that the courts in deciding cases often exercise a law-creating discretion does not figure at all in
-
-[The text of the alternative beginning to Section 6 ends at this point.]
-
-[^306-1]: [See his 'No Right Answer?' in P. M. S. Hacker and J. Raz (eds.), *Law, Morality and Society* (1977), pp. 58–84; reprinted with revisions as 'Is There Really No Right Answer in Hard Cases?' *AMP*, chap. 5.] 
-
-[^307-2]: [See J. Raz. 'Dworkin: A New Link in the Chain', 74 *California Law Review,* 1103 (1986) at 1110, 1115–16.]
-
 ## CHAPTER X 3rd ed. NOTES
 
 *Pages* 220–6. *Sovereign states and international law*. On the compatibility of sovereignty and the constraints of international law see Timothy Endicott, 'The Logic of Freedom and Power' in Samantha Besson and John Tasioulas eds., *The Philosophy of International Law* (Oxford University Press, 2010). For the relationship between state sovereignty and the rule of law see Jeremy Waldron, 'The Rule of International Law' (2006) 30 *Harvard Journal of Law and Public Policy* 15. There have been attempts to reconstrue sovereignty in light of various emerging forms of transnational authority: see Neil MacCormick, *Questioning Sovereignty*. For doubts about the de facto power of 'sovereign' states in the contemporary world see Saskia Sassen, *Losing Control? Sovereignty in an Age of Globalization* (Columbia University Press, 1996).

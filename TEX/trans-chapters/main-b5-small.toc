@@ -84,7 +84,7 @@
 \contentsline {subsection}{4. 국제법과 도덕(INTERNATIONAL LAW AND MORALITY)}{292}{subsection*.84}%
 \contentsline {subsection}{5. 형식 및 내용의 유사성(Analogies of Form and Content)}{297}{subsection*.85}%
 \contentsline {subsection}{CHAPTER X 주석}{304}{subsection*.86}%
-\contentsline {subsection}{CHAPTER X 제3판 주석}{307}{subsection*.87}%
+\contentsline {subsection}{CHAPTER X 제3판 주석}{306}{subsection*.87}%
 \contentsline {section}{후기(POSTSCRIPT)}{308}{section*.88}%
 \contentsline {subsection}{서론(INTRODUCTORY)}{308}{subsection*.89}%
 \contentsline {subsection}{1. 법이론의 본성(THE NATURE OF LEGAL THEORY)}{309}{subsection*.90}%
@@ -101,4 +101,5 @@
 \contentsline {subsubsection}{(i) {\kopubhangul \kopublatin \textsl {권리와 의무 (Rights and Duties)}}}{341}{subsubsection*.101}%
 \contentsline {subsubsection}{(ii) {\kopubhangul \kopublatin \textsl {법의 식별 (The Identification of the Law)}}}{342}{subsubsection*.102}%
 \contentsline {subsection}{6. 사법적 재량(Judicial Discretion)}{345}{subsection*.103}%
-\contentsline {subsection}{POSTSCRIPT 제3판 주석}{350}{subsection*.104}%
+\contentsline {subsection}{POSTSCRIPT 주석}{350}{subsection*.104}%
+\contentsline {subsection}{POSTSCRIPT 제3판 주석}{350}{subsection*.105}%

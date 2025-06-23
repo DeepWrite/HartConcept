@@ -138,18 +138,6 @@ permalink: /book-translation/chapter_10
 
 *Page* 237. *국제법과 국내법 간의 내용상의 유사성(analogy of content).* — 이에 대해서는 Campbell, 앞서 인용, *35 Grotius Society Proceedings* (1950), p. 121 *ad fin.*, 그리고 조약(treaties), 영토취득(acquisition of territory), 시효(prescriptions), 임대(leases), 위임(mandates), 용익권(servitudes) 등에 관한 규칙들을 논의한 Lauterpacht, *Private Law Sources and Analogies of International Law* (1927)을 참조하라.
 
-*Page* 272. [이 절의 대체 시작문이 여기에 포함되어 있으며, 폐기되지 않음.]
-
-드워킨(Dworkin)은 오랜 시간에 걸친 판결(adjudication)에 관한 저술 전반에서, 법원이 기존의 법에 의해 불완전하게 규율된 사안을 결정할 법 창출적 권한(law-creating power)을 가지는 재량(discretion)을 갖고 있다는 것을 부인하는 입장을 한결같이 견지해 왔다. 실제로 그는, 사소한 예외를 제외하면 그러한 사안은 존재하지 않으며, 모든 실질적인 법적 문제에는 항상 단 하나의 ‘정답(right answer)’이 존재한다고 주장하였다. [^306-1]
-
-그러나 이러한 불변하는 듯한 입장에도 불구하고, 드워킨이 후기에 해석적 개념(interpretive ideas)을 자신의 법이론에 도입하고, 모든 법적 명제(propositions of law)가 그가 특수한 의미로 정의한 ‘해석적’이라는 주장에 따라, 이 입장은 실질적으로는 나의 입장과 매우 가까워졌다고 볼 수 있다. 이는 법원이 실제로 법 창출적 재량(law-creating discretion)을 갖고 있으며 자주 이를 행사한다는 점을 인정하게 된 것이기 때문이다. 라즈(Raz)는 이 점을 최초로 명확히 하였다[^307-2]. 해석 개념이 도입되기 이전에는, 드워킨의 재량 부정과 ‘정답’ 존재에 대한 주장이 판사의 역할을 *기존법을 식별*하고 *집행하는* 것(*discern* and *enforce existing law*)으로 제한한 바, 나의 입장(법원이 법 창출적 재량을 행사함)과 날카롭게 충돌했다. 그러나 이러한 초기 구상은, 물론 나의 주장과 명확히 대립하지만, 더 이상 이 절에서 등장하지 않는다.
-
-[섹션 6의 대체 시작문의 텍스트는 여기에서 끝난다.]
-
-[^306-1]: [그의 글 ‘No Right Answer?’ in P. M. S. Hacker and J. Raz (eds.), *Law, Morality and Society* (1977), pp. 58–84. 개정 후 재수록: ‘Is There Really No Right Answer in Hard Cases?’ *AMP*, 제5장 참조.]
-
-[^307-2]: [J. Raz, ‘Dworkin: A New Link in the Chain’, *74 California Law Review*, 1103 (1986), pp. 1110, 1115–16 참조.]
-
 ## CHAPTER X 제3판 주석
 
 *Pages* 220–226. *주권국가와 국제법(Sovereign states and international law)* 국제법의 제약과 주권(sovereignty)의 양립 가능성에 관해서는 Timothy Endicott, 「The Logic of Freedom and Power」, Samantha Besson 및 John Tasioulas 편, *The Philosophy of International Law* (Oxford University Press, 2010)을 참조하라. 국가의 주권(state sovereignty)과 법의 지배(rule of law) 간의 관계에 대해서는 Jeremy Waldron, 「The Rule of International Law」, (2006) *Harvard Journal of Law and Public Policy* 제30권, 15쪽을 참조하라. 초국가적 권위(transnational authority)의 다양한 등장 형태에 비추어 주권 개념을 재해석하려는 시도에 대해서는 Neil MacCormick, *Questioning Sovereignty*를 참조하라. 현대 세계에서 ‘주권국가’의 사실상의 권력(de facto power)에 대한 회의적 견해는 Saskia Sassen, *Losing Control? Sovereignty in an Age of Globalization* (Columbia University Press, 1996)을 참조하라.
