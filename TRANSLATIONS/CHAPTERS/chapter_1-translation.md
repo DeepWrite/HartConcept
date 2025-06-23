@@ -99,7 +99,7 @@ permalink: /book-translation/chapter_01
 
 이 페이지들에 인용된 다섯 개의 주장 속에 담긴 이론들은 다음에서 분석된다: 제7장 제2·3절 (Holmes, Gray, Llewellyn), 제4장 제3·4절 (Austin), 제3장 제1절 35–42쪽 (Kelsen).
 
-**4쪽.** *표준 사례와 경계 사례.* 여기서 언급된 언어적 특징은 일반적으로 제7장 제1절 '법의 개방적 구조(The Open Texture of Law)'에서 논의된다. 이 특징은 '법', '국가', '범죄' 등의 일반 용어에 대한 정의가 명시적으로 요구될 때뿐만 아니라, 일반적 용어로 구성된 규칙을 특정 사례에 적용할 때 사용되는 추론의 성격을 규정하려는 시도에서도 염두에 두어야 한다. 이 언어적 특징의 중요성을 강조한 법학자들로는 다음이 있다: Austin, *The Province*, Lecture VI, 202–207쪽, 및 *Lectures in Jurisprudence* (5판, 1885), 997쪽 (‘Note on Interpretation’); Glanville Williams, ‘International Law and the Controversy Concerning the Word “Law”’, *22 BYBIL* (1945); ‘Language in the Law’ (5편의 논문), *61* 및 *62 LQR* (1945–6). 단, 후자의 경우 J. Wisdom이 *Philosophy and Psycho-Analysis* (1953) 수록 논문 ‘Gods’ 및 ‘Philosophy, Metaphysics and Psycho-Analysis’에서 제시한 비평 참조.
+**4쪽.** *표준 사례와 경계 사례.* 여기서 언급된 언어적 특징은 일반적으로 제7장 제1절 '법의 개방적 직조(The Open Texture of Law)'에서 논의된다. 이 특징은 '법', '국가', '범죄' 등의 일반 용어에 대한 정의가 명시적으로 요구될 때뿐만 아니라, 일반적 용어로 구성된 규칙을 특정 사례에 적용할 때 사용되는 추론의 성격을 규정하려는 시도에서도 염두에 두어야 한다. 이 언어적 특징의 중요성을 강조한 법학자들로는 다음이 있다: Austin, *The Province*, Lecture VI, 202–207쪽, 및 *Lectures in Jurisprudence* (5판, 1885), 997쪽 (‘Note on Interpretation’); Glanville Williams, ‘International Law and the Controversy Concerning the Word “Law”’, *22 BYBIL* (1945); ‘Language in the Law’ (5편의 논문), *61* 및 *62 LQR* (1945–6). 단, 후자의 경우 J. Wisdom이 *Philosophy and Psycho-Analysis* (1953) 수록 논문 ‘Gods’ 및 ‘Philosophy, Metaphysics and Psycho-Analysis’에서 제시한 비평 참조.
 
 **6쪽.** *Austin의 의무 개념.* *The Province*, Lecture I, 14–18쪽; *The Lectures*, Lecture 22, 23 참조. 의무 개념과, ‘의무를 가진 것(having an obligation)’과 ‘강제에 의해 강요받는 것(being obliged)’ 사이의 차이는 제5장 제2절에서 자세히 분석된다. Austin의 분석에 대한 주석은 제2장 아래, 282쪽 참조.
 
