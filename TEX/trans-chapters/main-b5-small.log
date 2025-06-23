@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.18)  24 JUN 2025 02:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.18)  24 JUN 2025 02:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3201,7 +3201,7 @@ Requested font "[./KoPubWorldBatang Light.ttf]/OT:script=latn;language=dflt;map
 ping=tex-text;" at 9.6pt
  -> ./KoPubWorldBatang Light.ttf
  [344] [345]
-[346] [347] [348] [349]) [350] (./main-b5-small.aux)
+[346] [347] [348] [349] [350]) [351] (./main-b5-small.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -3232,4 +3232,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  116i,12n,152p,1158b,4449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-b5-small.pdf (412 pages).
+Output written on main-b5-small.pdf (413 pages).
