@@ -1,83 +1,10 @@
-\documentclass[12pt, oneside]{book}  % 13pt는 직접 설정함
+\section{I. 지속되는
+질문들}\label{i.-uxc9c0uxc18duxb418uxb294-uxc9c8uxbb38uxb4e4}
 
-% --- Language and Font Settings ---
-\usepackage[english]{babel}
-\usepackage{fontspec}
-\usepackage{kotex}  % Korean typesetting
+\setcounter{footnote}{0}
 
-% --- Font Configuration (Main + Korean) ---
-\usepackage{libertinus}
-\setmainhangulfont[
-  Path = ./,
-  UprightFont = *Batang Light.ttf,
-  BoldFont    = *Batang Medium.ttf
-]{KoPubWorld}
-
-% --- Page Geometry: A4 with wide margins for print readability ---
-\usepackage[a4paper, margin=1in]{geometry}
-
-% --- Line Spacing ---
-\usepackage{setspace}
-\setstretch{1.45}
-
-% --- Section Formatting: Disable numbering ---
-\usepackage{titlesec}
-\setcounter{secnumdepth}{0}
-
-\titleformat{\chapter}[display]
-  {\normalfont\Huge\bfseries}
-  {}{0pt}{\Huge}\titleformat{\section}
-  {\normalfont\Large\bfseries}
-  {}{0pt}{\Large}
-\titleformat{\subsection}
-  {\normalfont\large\bfseries}
-  {}{0pt}{\large}
-
-% --- Math and Tables ---
-\usepackage{amsmath, amssymb, amsthm, mathtools}
-\usepackage{graphicx}
-\usepackage{enumitem}
-\usepackage{tabularx, booktabs}
-\usepackage{footmisc}
-
-% --- Quotes, Hyperlink, Header/Footer ---
-\usepackage{csquotes}
-\usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyfoot[C]{\thepage}
-\setlength{\headheight}{15pt}
-
-% --- Bibliography (biblatex) ---
-\usepackage[style=verbose-note, backend=biber, maxbibnames=99]{biblatex}
-\addbibresource{references.bib}
-\AtEveryBibitem{\clearfield{pages}}
-
-% --- Title Info ---
-\title{\Huge\textsc{The Concept of Law} \\[2ex] \Large Third Edition}
-\author{\Large H. L. A. Hart}
-\date{}
-
-\begin{document}
-
-% --- Title Page ---
-\begin{titlepage}
-  \centering
-  \vspace*{3cm}
-  {\Huge\textsc{The Concept of Law}}\\[1.5ex]
-  {\Large Third Edition}\\[4ex]
-  \textsc{H. L. A. Hart}\\[6ex]
-  {\small 2025 SUMMER 강의용 한국어판\\
-  강좌 외의 사용을 불허함}
-  \vfill
-\end{titlepage}
-
-\section{\texorpdfstring{\textbf{I. 지속되는
-질문들}}{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb294-uxc9c8uxbb38uxb4e4}
-
-\subsection{\texorpdfstring{\textbf{1. 법이론의
-난제들}}{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-uxb09cuxc81cuxb4e4}
+\subsection{1. 법이론의
+난제들}\label{uxbc95uxc774uxb860uxc758-uxb09cuxc81cuxb4e4}
 
 `법(law)이란 무엇인가?'라는 질문만큼 오랫동안 제기되어 왔고, 진지한
 사상가들에 의해 이렇게 다양하고 기묘하며 때로는 역설적인 방식으로
@@ -97,26 +24,26 @@
 계시하는 것인 양 열정적으로, 또 때로는 웅변적으로 주장되기도 했다.
 
 `공직자들이 분쟁에 대해 하는 일이 곧 \ldots{} 법이다';\footnote{Llewellyn,
-  \emph{The Bramble Bush} (2nd edn., 1951), p.~9.} `법이란 법원이 무엇을
+  \emphksans{The Bramble Bush} (2nd edn., 1951), p.~9.} `법이란 법원이 무엇을
 할 것인지에 대한 예언이다 \ldots{} 그것이 내가 말하는
-법이다';\footnote{O. W. Holmes, `The Path of the Law' in \emph{Collected
+법이다';\footnote{O. W. Holmes, `The Path of the Law' in \emphksans{Collected
   Papers} (1920), p.~173.} 제정법(statutes)은 `법의 부분이 아니라
-\ldots{} 법의 원천(sources of Law)이다';\footnote{J. C. Gray, \emph{The
+\ldots{} 법의 원천(sources of Law)이다';\footnote{J. C. Gray, \emphksans{The
   Nature and Sources of the Law} (1902), s. 276.} `헌법법(constitutional
 law)은 단지 실정적 도덕(positive morality)일 뿐이다';\footnote{Austin,
-  \emph{The Province of Jurisprudence Determined} (1832), Lecture VI
+  \emphksans{The Province of Jurisprudence Determined} (1832), Lecture VI
   (1954 edn., p.~259).} `도둑질하지 말라; 누군가가 도둑질을 하면 그는
 처벌받을 것이다. \textbf{(p.~2)} \ldots{} 만약 어떤 규범이 존재한다면,
 첫 번째 규범은 두 번째 규범에 포함되어 있으며, 두 번째 규범이야말로
 유일한 진정한 규범이다 \ldots{} 법이란 제재(sanction)를 규정하는 1차
-규범(primary norm)이다.'\footnote{Kelsen, \emph{General Theory of Law
+규범(primary norm)이다.'\footnote{Kelsen, \emphksans{General Theory of Law
   and State} (1949), p.~61.}
 
 이들은 법의 본성에 관해 제기된 수많은 주장(assertions)과 부정(denials)
 중 일부일 뿐이며, 적어도 처음 보았을 때는 낯설고 역설적으로 보인다. 이들
 중 일부는 우리의 깊은 신념과 충돌하는 듯하며 쉽게 반박될 수 있는 것처럼
 보인다. 그래서 우리는 다음과 같이 말하고 싶은 유혹을 느낀다. `제정법은
-분명히 법\emph{이다}. 적어도 법의 한 종류이며, 다른 종류들도 있을 수
+분명히 법\emphksans{이다}. 적어도 법의 한 종류이며, 다른 종류들도 있을 수
 있다': `공직자나 법원이 무엇을 하는지가 곧 법이라는 것은 말이 안 된다.
 왜냐하면 공직자나 법원을 만들기 위해서는 법이 먼저 존재해야 하기
 때문이다'.
@@ -127,7 +54,7 @@ law)은 단지 실정적 도덕(positive morality)일 뿐이다';\footnote{Austi
 다루거나, 때로는 판사로서 법을 집행하는 것을 직업으로 삼은
 법률가들(lawyers)의 성찰의 산물이다. 더 나아가, 그들이 말한 것들은
 실제로 그들의 시대와 맥락에서 법에 대한 우리의 이해를 심화시켰다. 이와
-같은 주장들은 그 문맥 안에서 이해될 때, 계몽적이면서도 \emph{동시에}
+같은 주장들은 그 문맥 안에서 이해될 때, 계몽적이면서도 \emphksans{동시에}
 당혹스럽다: 그것들은 차가운 정의(definition)라기보다는, 법에 대한 어떤
 진리를 지나치게 과장한 표현이며, 그 진리는 오랫동안 간과되어 왔던
 것이다. 이러한 주장은 우리가 이전에는 보지 못했던 법의 측면을 보게 하는
@@ -241,9 +168,9 @@ law)은 그러한 의심스러운 사례들 중 대표적이며, 이들에 대�
 무의미하다. 분명히 가장 바람직한 접근은, `법이란 무엇인가?'라는 질문에
 섣불리 답변하기보다는, 그 질문을 제기하거나 답하려 했던 사람들이, 비록
 법에 대한 친숙함이나 사례를 식별하는 능력은 의심할 여지 없이 충분함에도
-불구하고, 실제로 \emph{무엇}에 대해 당혹감을 느껴왔는지를 먼저 파악하는
+불구하고, 실제로 \emphksans{무엇}에 대해 당혹감을 느껴왔는지를 먼저 파악하는
 것이다. 그들은 무엇을 더 알고 싶어 하며, 왜 그것을 알고 싶어 하는가?
-\emph{이 질문}에 대해서는 일반적 수준에서의 답변이 가능하다. 왜냐하면
+\emphksans{이 질문}에 대해서는 일반적 수준에서의 답변이 가능하다. 왜냐하면
 법의 본성에 관해 논박과 반론의 지속적 중심이 되어 온 몇 가지 반복되는
 주요 주제들이 존재하며, \textbf{(p.~6)} 이것들이 앞서 언급한 바와 같은
 과장되고 역설적인 주장들을 촉발시켜 왔기 때문이다. 법의 본성에 대한
@@ -255,18 +182,18 @@ law)은 그러한 의심스러운 사례들 중 대표적이며, 이들에 대�
 갖춘 사려 깊은 사람의 마음속에서도 혼란과 그에 따른 명확성에 대한 요구가
 공존할 수밖에 없는 지점들이기 때문이다.
 
-\subsection{\texorpdfstring{\textbf{2. 세 가지 반복되는
-쟁점들}}{2. 세 가지 반복되는 쟁점들}}\label{uxc138-uxac00uxc9c0-uxbc18uxbcf5uxb418uxb294-uxc7c1uxc810uxb4e4}
+\subsection{2. 세 가지 반복되는
+쟁점들}\label{uxc138-uxac00uxc9c0-uxbc18uxbcf5uxb418uxb294-uxc7c1uxc810uxb4e4}
 
 여기에서는 그러한 주요 반복 쟁점들 중 세 가지를 구분하고, 왜 그것들이
-결국 \emph{법의 정의(definition)}에 대한 요구나 `법이란 무엇인가?'라는
+결국 \emphksans{법의 정의(definition)}에 대한 요구나 `법이란 무엇인가?'라는
 질문의 형태로, 혹은 더 모호한 방식의 질문인 `법의 본성(nature) 또는
 본질(essence)이 무엇인가?'라는 형태로 통합되어 나타나는지를 이후에
 설명할 것이다.
 
 이 세 가지 쟁점 중 두 가지는 다음과 같은 방식으로 제기된다. 언제,
 어디서나 법의 가장 두드러진 일반적 특징은, 법이 존재한다는 것은 어떤
-종류의 인간 행위가 더 이상 선택 사항이 아니라, \emph{어떤} 의미에서는
+종류의 인간 행위가 더 이상 선택 사항이 아니라, \emphksans{어떤} 의미에서는
 의무적(obligatory)이라는 것이다. 그러나 이처럼 겉보기에는 단순한 법의
 특징은 실제로는 단순하지 않다. 왜냐하면, 선택 불가능하고 의무적인 행위의
 영역 내에서도 우리는 서로 다른 형식을 구분할 수 있기 때문이다. 가장
@@ -274,11 +201,11 @@ law)은 그러한 의심스러운 사례들 중 대표적이며, 이들에 대�
 사람이 다른 사람에게 어떤 행동을 하도록 강요하는 상황이다. 이때 신체가
 실제로 밀리거나 당겨지는 식의 물리적 강제가 있는 것이 아니라, 거부할
 경우 불쾌한 결과가 따를 것이라는 협박(threat)에 의해 강요되는 경우이다.
-예컨대, 권총강도가 희생자에게 지갑을 건네라고 명령하고, 거부할 경우
-총을 쏘겠다고 위협하는 경우, 희생자가 순응한다면 우리는 그가
-\emph{강요(obliged)} 되었다고 말한다. 어떤 이들에게는, 이러한 상황 ---
+예컨대, 권총강도가 희생자에게 지갑을 건네라고 명령하고, 거부할 경우 총을
+쏘겠다고 위협하는 경우, 희생자가 순응한다면 우리는 그가
+\emphksans{강요(obliged)} 되었다고 말한다. 어떤 이들에게는, 이러한 상황 ---
 한 사람이 위협을 수반하는 명령(order)을 내리고, 이 의미에서 타인을
-\emph{강요}하여 따르게 하는 상황 --- 에서야말로 법의 본질(essence), 또는
+\emphksans{강요}하여 따르게 하는 상황 --- 에서야말로 법의 본질(essence), 또는
 최소한 `법학(jurisprudence)의 열쇠'가 있다고 보이기도 한다. \footnote{Austin,
   op. cit., Lecture I, p.~13. He adds `and morals'.} 이는
 \textbf{(p.~7)} 영국의 법철학에 지대한 영향을 끼친 오스틴(Austin)의
@@ -287,7 +214,7 @@ law)은 그러한 의심스러운 사례들 중 대표적이며, 이들에 대�
 물론, 법체계가 이러한 측면을 포함하는 경우가 자주 있다는 점에는 의심의
 여지가 없다. 특정한 행위를 범죄로 선언하고, 그 행위에 대해 어떤 처벌이
 부과되는지를 명시하는 형벌 제정법(penal statute)은 일종의 확대된 `총 든
-강도' 상황처럼 보일 수도 있으며, 유일한 차이점은 그 명령이 특정한
+권총강도' 상황처럼 보일 수도 있으며, 유일한 차이점은 그 명령이 특정한
 개인에게가 아니라, 그러한 명령을 관습적으로 따르는 집단 전체를 향하고
 있다는 점뿐일 수도 있다. 그러나 법의 복잡한 현상을 이처럼 단순한 요소로
 환원하려는 시도는 매력적으로 보일 수 있음에도, 면밀히 살펴보면, 그러한
@@ -311,8 +238,8 @@ law)은 그러한 의심스러운 사례들 중 대표적이며, 이들에 대�
 금지가 일치하는 가장 명백한 예에 불과하다. 게다가, `정의(justice)'라는
 하나의 개념은 두 영역을 연결해주는 것으로 보인다. 정의는 법에 특히
 적합한 덕목일 뿐만 아니라, 가장 `법적인' 덕목이기도 하다. 우리는 `법에
-따른 정의(justice \emph{according to} law)'를 생각하고 말하면서도, 법
-자체의 정의로움 혹은 부정의(justice or injustice \emph{of} the laws)
+따른 정의(justice \emphksans{according to} law)'를 생각하고 말하면서도, 법
+자체의 정의로움 혹은 부정의(justice or injustice \emphksans{of} the laws)
 역시 논한다.
 
 이러한 사실들은, 법은 도덕(morality)이나 정의(justice)의 한
@@ -327,8 +254,8 @@ law)뿐 아니라 오스틴으로부터 계승된 법실증주의(legal positivi
 차이와 그 요구사항의 차이를 충분히 설명하지 못하는 경향이 있다. 이러한
 차이들은 유사성과 수렴만큼이나 중요하다. 따라서 `부정의한 법은 법이
 아니다(an unjust law is not a law)'\footnote{`Nam mihi lex esse non
-  videtur quae justa non fuerit': St.~Augustine I, \emph{De Libero
-  Arbitrio}; Aquinas, \emph{Summa Theologica}, 1--11, Qu. 95 Art. 2; Qu.
+  videtur quae justa non fuerit': St.~Augustine I, \emphksans{De Libero
+  Arbitrio}; Aquinas, \emphksans{Summa Theologica}, 1--11, Qu. 95 Art. 2; Qu.
   96 Art. 4.}라는 주장은, `제정법은 법이 아니다' 또는 `헌법법은 법이
 아니다'라는 주장 못지않게 과장되고 역설적인 울림을 가진다. 법이론의
 역사는 이러한 극단 사이의 진동을 보여주는 특징을 갖는다. 도덕과 법이
@@ -340,15 +267,15 @@ law)뿐 아니라 오스틴으로부터 계승된 법실증주의(legal positivi
 
 세 번째 주요 쟁점은 `법이란 무엇인가?'라는 질문을 끊임없이 자극하는 보다
 일반적인 문제이다. 언뜻 보기에는, 법체계(legal system)가
-\emph{규칙들(rules)}로 구성되어 있다는 주장은 거의 의심받을 일도,
+\emphksans{규칙들(rules)}로 구성되어 있다는 주장은 거의 의심받을 일도,
 이해하기 어려운 일도 없어 보인다. 위협을 수반한 명령의 개념에서 법
 이해의 열쇠를 찾는 이들이든, 혹은 도덕(morality)이나 정의(justice)와의
 관계에서 그것을 찾는 이들이든 모두, 법이 규칙을 포함하거나, 아니면 상당
 부분 규칙으로 구성된다고 말한다. 그러나 이처럼 별 문제가 없어 보이는
 개념에 대한 불만, 혼란, 불확실성이야말로 법의 본질(nature)에 대한
-당혹감의 핵심을 이루고 있다. 규칙이란 \emph{무엇}인가? 규칙이
-\emph{존재한다}고 말하는 것은 무슨 의미인가? 법원은 정말로 규칙을
-\emph{적용}하는가, 아니면 단지 그런 척을 하는 것인가? 이 개념에 대해
+당혹감의 핵심을 이루고 있다. 규칙이란 \emphksans{무엇}인가? 규칙이
+\emphksans{존재한다}고 말하는 것은 무슨 의미인가? 법원은 정말로 규칙을
+\emphksans{적용}하는가, 아니면 단지 그런 척을 하는 것인가? 이 개념에 대해
 질문이 제기되기 시작하면---특히 20세기 법철학에서 그러하였듯이---의견의
 심각한 분열이 나타난다. 우리는 여기서 그것들을 간략히 개요만 제시할
 것이다.
@@ -368,36 +295,36 @@ law)뿐 아니라 오스틴으로부터 계승된 법실증주의(legal positivi
 반칙(foul play)이나 심판에 대한 욕설을 금지하는 규칙과, 점수를 얻거나
 승리하기 위해 무엇을 해야 하는지를 명시하는 규칙이 그것이다. 그러나
 이러한 복잡성을 잠시 제쳐두고, 형사법(criminal law)의 전형적 사례인 첫
-번째 유형의 규칙만 고려하더라도, 이 단순한 강제 규칙이 \emph{존재한다}는
+번째 유형의 규칙만 고려하더라도, 이 단순한 강제 규칙이 \emphksans{존재한다}는
 진술의 의미에 대해서는 현대의 많은 학자들 사이에서도 견해가 크게 갈린다.
 어떤 이들은 이 개념을 극히 불가해한 것으로 간주한다.
 
 처음에 우리는 이 단순한 강제 규칙 개념에 대해 아마도 자연스럽게 다음과
 같은 설명을 하고 싶어질 것이다: 규칙이 존재한다는 것은 단지 어떤 집단의
 사람들, 혹은 그들 대부분이 특정한 상황에서 `규칙으로서(as a rule)' 즉,
-\emph{일반적으로(generally)} 유사한 방식으로 행동한다는 것을 의미한다.
+\emphksans{일반적으로(generally)} 유사한 방식으로 행동한다는 것을 의미한다.
 예컨대, 영국에 교회 안에서 모자가 금지되거나, `God Save the Queen'이
 연주될 때 일어서는 규칙이 존재한다고 말하는 것은, 이 설명에 따르면, 단지
 대부분의 사람들이 그러한 행동을 일반적으로 수행한다는 의미일 뿐이다.
 하지만 분명 이것만으로는 부족하다. 이런 설명은 부분적으로는 의미를 담고
 있지만, 사회 집단 내의 단순한 행동 수렴만으로는 `규칙'이 존재한다고 할
 수 없다. 예컨대 모든 이들이 아침마다 차를 마시거나 매주 영화관에 간다고
-해도, 그것을 \emph{요구하는(requiring)}는 규칙이 있는 것은 아니다.
+해도, 그것을 \emphksans{요구하는(requiring)}는 규칙이 있는 것은 아니다.
 단순한 행동 수렴과 \textbf{(p.~10)} 사회 규칙의 존재는 언어적으로도
 차이를 드러낸다. 후자를 묘사할 때 우리는 (꼭 사용해야 하는 것은
 아니지만) `must', `should', `ought to' 같은 표현을 사용하게 되며, 이는
 전자의 경우 사용하면 오해를 불러일으킬 수 있다. 예컨대 영국에서는 매주
 영화관에 가야 한다(must)거나 가야만 마땅하다(ought to or should)는
 규칙은 없다. 단지 사람들이 정기적으로 영화관을 찾는 것뿐이다. 그러나
-교회에서는 남자가 모자를 벗어야 한다는 규칙은 \emph{존재한다(is)}.
+교회에서는 남자가 모자를 벗어야 한다는 규칙은 \emphksans{존재한다(is)}.
 
 그렇다면 단순한 행동 수렴과, `must', `should', `ought to' 같은 단어로
 표현되는 규칙의 존재 사이의 핵심적 차이는 무엇인가? 이 점에 대해
 법이론가들은 특히 오늘날 들어 의견이 크게 나뉘고 있다. 이 쟁점이
 전면화된 데에는 여러 요인이 작용했다. 법적 규칙의 경우, 이 핵심적
 차이---즉 `must'나 `ought' 요소---는 특정한 행위로부터의 일탈이 적대적
-반응을 초래할 \emph{가능성}, 그리고 법적 규칙의 경우에는 공직자에 의해
-\emph{처벌}될 가능성에 있다고 종종 여겨진다. 반면 매주 영화관에 가는
+반응을 초래할 \emphksans{가능성}, 그리고 법적 규칙의 경우에는 공직자에 의해
+\emphksans{처벌}될 가능성에 있다고 종종 여겨진다. 반면 매주 영화관에 가는
 것과 같은 단순한 집단 습관(group habits)의 경우, 이러한 일탈은 처벌은
 물론 질책조차 유발하지 않는다. 그러나 특정한 행동을 요구하는 규칙이
 존재하는 경우, 그것이 법적이지 않더라도(예: 교회에서 모자를 벗어야 하는
@@ -417,8 +344,8 @@ law)뿐 아니라 오스틴으로부터 계승된 법실증주의(legal positivi
 사인(private person)의) 행위를 면밀히 살펴보면, \textbf{(p.~11)} 이
 행위들 속에서 규범(rule)은 예측적 설명이 전혀 설명하지 못하는 방식으로
 작동하고 있다는 것이다. 즉, 판사는 처벌을 내릴 때 그 규범을 자신의
-\emph{지침(guide)}으로 삼고, 규범의 위반을 자신의
-\emph{이유(reason)}이며 \emph{정당화(justification)}의 근거로 삼는다.
+\emphksans{지침(guide)}으로 삼고, 규범의 위반을 자신의
+\emphksans{이유(reason)}이며 \emphksans{정당화(justification)}의 근거로 삼는다.
 그는 그 규범을 `자신과 다른 이들이 그러한 일탈을 처벌할 가능성이 있다'는
 진술(statement)로 보지 않는다. 물론 제3자의 관찰자(spectator)는 규범을
 그러한 방식으로 볼 수는 있겠지만, 판사에게는 그러한 예측 가능성은 자신의
@@ -427,7 +354,7 @@ law)뿐 아니라 오스틴으로부터 계승된 법실증주의(legal positivi
 질책(informal reproofs)에서도 마찬가지로 나타난다. 이러한 질책들 또한
 단지 예측 가능한 반응(predicted reactions)에 그치지 않으며, 오히려
 규범의 존재가 그 반응을 지도(guide)하고 정당화(justify)한다고 여겨지는
-것이다. 따라서 우리는 어떤 사람이 규범을 위반했기 \emph{때문에(because)}
+것이다. 따라서 우리는 어떤 사람이 규범을 위반했기 \emphksans{때문에(because)}
 그를 질책하거나 처벌한다고 말한다. 이는 단순히 우리가 그를 질책하거나
 처벌할 가능성(probability)이 있었음을 말하는 것이 아니다.
 
@@ -437,7 +364,7 @@ law)뿐 아니라 오스틴으로부터 계승된 법실증주의(legal positivi
 존재한다는 것이다. 규칙(rule)이라는 것이, 반복적이고 따라서 예측 가능한
 처벌(punishment)이나 질책(reproof)을 동반하는 일탈 행위에 대한 반응
 외에, 단순한 집단 습관(group habit)과는 구별되는 무엇을 내포하고
-\emph{있을 수(can)} 있는가? 분명히 파악 가능한 이러한 사실들 이외에,
+\emphksans{있을 수(can)} 있는가? 분명히 파악 가능한 이러한 사실들 이외에,
 판사가 스스로 처벌을 정당화하거나 그 이유(reason)를 제공받는 어떤
 추가적인 요소가 정말 존재하는가? 바로 이 추가 요소를 명확히 설명하기
 어려운 점 때문에, 이러한 비판자들은 이 지점에서 모든 규칙에 관한 논의와
@@ -445,7 +372,7 @@ law)뿐 아니라 오스틴으로부터 계승된 법실증주의(legal positivi
 아마도 그것이 사람들의 눈에 중요해 보이게 만들지만, 실제로는 합리적
 근거가 없다고 주장하게 된다. 이러한 비판자들의 입장에 따르면, 우리는
 단지 어떤 규칙 속에 특정한 행위를 해야만 한다(binds us)는 무엇인가가
-존재한다고 \emph{생각할(think)} 뿐이며, 그 행위를 수행함에 있어 자신을
+존재한다고 \emphksans{생각할(think)} 뿐이며, 그 행위를 수행함에 있어 자신을
 지도(guide)하거나 정당화(justify)해주는 무언가가 있다고 믿는 것은 일종의
 착각에 불과하다. 비록 유용한 착각일 수는 있겠지만, 그럼에도 그것은
 환상이라는 것이다. 이들이 주장하기로는, 집단행동(group behaviour)의
@@ -467,8 +394,8 @@ laws not men)'는 진지한 진술을 할 수 있는 것이다. 이러한 유형
 그러나 법규범의 성격에 대한 회의(scepticism)가 항상, 구속력 있는
 규칙(binding rule)이라는 개념 자체를 혼란스럽거나 허구적이라 비판하는
 극단적 형태로만 나타나는 것은 아니다. 오히려 영국과 미국에서 가장 널리
-퍼져 있는 회의적 시각은, 법체계(legal system)가 \emph{전적으로}(wholly),
-혹은 심지어 \emph{주로}(primarily) 규칙들로 구성되어 있다는 관점을
+퍼져 있는 회의적 시각은, 법체계(legal system)가 \emphksans{전적으로}(wholly),
+혹은 심지어 \emphksans{주로}(primarily) 규칙들로 구성되어 있다는 관점을
 재검토하라고 요청한다. 물론 법원(courts)은 그들의 판결(judgments)을, 그
 결정이 고정되고 명확한 의미를 가진 사전 규칙(predetermined rules)의
 필연적 귀결인 것처럼 보이도록 구성한다. 아주 단순한 사건에서는 그럴 수도
@@ -503,11 +430,11 @@ law) 없이 생명, 자유 또는 재산을 박탈당해서는 안 된다''고 �
 연방헌법(Federal Constitution)의 제5조 및 제14조 수정조항(Fifth and
 Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에서는
 훨씬 더 큰 불확실성이 존재하지 않겠는가? 이에 대해 한 저자\footnote{J.
-  D. March, `Sociological Jurisprudence Revisited', 8 \emph{Stanford Law
+  D. March, `Sociological Jurisprudence Revisited', 8 \emphksans{Stanford Law
   Review} (1956), p.~518.}는 다음과 같이 말한 바 있다. 이 표현의 진정한
-의미는 실은 매우 분명하다는 것이다. 즉, ``어떤 \emph{w}는 \emph{x} 또는
-\emph{y} 없이 \emph{z}의 조건 하에서만 가능하다''는 의미이며, 여기서
-\emph{w, x, y,} 그리고 \emph{z}는 매우 넓은 범위 내의 어떤 값이든 가질
+의미는 실은 매우 분명하다는 것이다. 즉, ``어떤 \emphksans{w}는 \emphksans{x} 또는
+\emphksans{y} 없이 \emphksans{z}의 조건 하에서만 가능하다''는 의미이며, 여기서
+\emphksans{w, x, y,} 그리고 \emphksans{z}는 매우 넓은 범위 내의 어떤 값이든 가질
 수 있다. 이야기의 끝을 장식하듯, 회의론자들은 우리에게 다음 사실을
 상기시킨다. 규칙들이 불확실할 뿐만 아니라, 법원의 해석은
 권위적(authoritative)일 뿐 아니라 최종적(final)일 수도 있다는 것이다.
@@ -517,8 +444,7 @@ Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에�
 즉, ``성문법(statutes)은 법의 근원(sources)이지, 그 자체가 법의 일부는
 아니다.''\footnote{Gray, loc. cit.}
 
-\subsection{\texorpdfstring{\textbf{3.
-정의(Definition)}}{3. 정의(Definition)}}\label{uxc815uxc758definition}
+\subsection{3. 정의(Definition)}\label{uxc815uxc758definition}
 
 여기 이제 세 가지 반복되는 쟁점이 있다. 첫째, 법은 위협을 수반한 명령과
 어떻게 구별되며 어떤 관계에 있는가? 둘째, 법적 의무(legal obligation)는
@@ -535,7 +461,7 @@ Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에�
 \textbf{(p.~14)} 설명하지 못할 때 자주 나타난다. 우리 모두는 때때로
 이러한 곤경에 빠진다. `코끼리는 보면 알겠는데 설명은 못하겠다'는 사람의
 상황이 그것이다. 성 아우구스티누스(St.~Augustine)의 시간 개념에 대한
-유명한 말\footnote{\emph{Confessiones}, xiv. 17.}도 같은 곤경을 표현한
+유명한 말\footnote{\emphksans{Confessiones}, xiv. 17.}도 같은 곤경을 표현한
 것이다. ``그렇다면 시간은 무엇인가? 아무도 묻지 않으면 나는 안다. 그러나
 누군가 그것을 설명하라 하면 나는 모른다.'' 많은 숙련된 법률가들도 이와
 같은 방식으로 느껴 왔다. 즉, 그들은 법을 알고 있지만, 법과 다른 사물과의
@@ -562,10 +488,10 @@ Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에�
 `우리가 단어로 지칭하고자 하는 실재를 함께 바라보게 된다. 단어에 대한
 감각을 날카롭게 함으로써, 우리가 말하는 현상에 대한 인식 역시 날카롭게
 되는 것이다.'\footnote{J. L. Austin, `A Plea for Excuses',
-  \emph{Proceedings of the Aristotelian Society}, vol.~57 (1956--7),
+  \emphksans{Proceedings of the Aristotelian Society}, vol.~57 (1956--7),
   p.~8.}
 
-\textbf{(p.~15)} 이러한 정의 형식은 (\emph{per genus et differentiam},
+\textbf{(p.~15)} 이러한 정의 형식은 (\emphksans{per genus et differentiam},
 즉 속(genus)과 종차(differentia)를 통한 정의) 삼각형이나 코끼리 같은
 단순한 사례에서 볼 수 있으며, 가장 단순하면서도 어떤 이들에게는 가장
 만족스러운 정의 방식이다. 왜냐하면 그것은 정의된 단어를 언제든 대체할 수
@@ -603,7 +529,7 @@ Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에�
 사용되는 경우처럼, 유추(analogy)를 통해 연결될 수 있다. 또는 각기 다른
 방식으로 중심 요소에 관계된 경우도 있다. 예컨대 `건강하다(healthy)'는
 말은 사람뿐 아니라 피부, 아침 운동에도 쓰이는데, 이 중 피부는 건강함의
-\emph{징후(sign)}이고, 운동은 \emph{원인(cause)}이다. 다시 말해, 이들은
+\emphksans{징후(sign)}이고, 운동은 \emphksans{원인(cause)}이다. 다시 말해, 이들은
 중심 개념을 기준으로 서로 다른 방식으로 관련되어 있다. 또는---아마도
 법체계를 구성하는 다양한 규칙 유형을 통일시키는 원리와 유사한
 방식으로---각 사례가 하나의 복합 활동의 서로 다른 구성 요소들일 수 있다.
@@ -649,7 +575,9 @@ Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에�
 
 \newpage
 
-\section{주석(Notes)}\label{uxc8fcuxc11dnotes}
+\subsection{주석(Notes)}\label{uxc8fcuxc11dnotes}
+
+{\footnotesize
 
 이 책의 본문은 자족적인(self-contained) 구조를 가지고 있으므로, 독자는
 각 장을 처음부터 끝까지 읽은 뒤에 이 주석 부분을 참고하는 것이 가장 좋을
@@ -664,8 +592,8 @@ Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에�
 
 \vspace{1em}
 
-\begin{tabular}{@{}l p{10cm}@{}}
-\textbf{Austin, The Province}   & \textit{오스틴, 『법철학의 관할 범위(The Province of Jurisprudence Determined)』} (하트 편, 런던, 1954) \\
+\begin{tabular}{@{}l p{6.7cm}@{}}
+\textbf{Austin, The Province}   & \textit{오스틴, 『법철학의 관할 범위(The Province of Jurisprudence Determined)』 (하트 편, 런던, 1954)} \\
 \textbf{Austin, The Lectures}   & \textit{오스틴, 『실정법 철학 강의(Lectures on the Philosophy of Positive Law)』} \\
 \textbf{Kelsen, General Theory} & \textit{켈젠, 『법과 국가의 일반이론(General Theory of Law and State)』} \\
 \textbf{BYBIL}                  & \textit{영국 국제법 연보(British Year Book of International Law)} \\
@@ -675,8 +603,7 @@ Fourteenth Amendments)과 같은 장엄한 표현(magniloquent phrases) 속에�
 \textbf{PAS}                    & \textit{아리스토텔레스 학회 발표집(Proceedings of the Aristotelian Society)} \\
 \end{tabular}  % For Pandoc
 
-\subsection{\texorpdfstring{\textbf{CHAPTER I
-주석}}{CHAPTER I 주석}}\label{chapter-i-uxc8fcuxc11d}
+\subsection{CHAPTER I 주석}\label{chapter-i-uxc8fcuxc11d}
 
 \textbf{1--2쪽.} Llewellyn, Holmes, Gray, Austin, Kelsen의 인용문들은
 모두, 저자의 견해에 따르면, 일반적인 법률 용어에 의해 가려졌거나 이전의
@@ -787,14 +714,14 @@ Austin, `A Plea for Excuses', \emph{57 PAS} (1956--7), 15쪽 이하.
 \emph{Philosophical Investigations}, 제1부, 제66--76절 참조. 제8장 제1절
 `정의(just)' 개념 구조에 대한 논의도 비교 참조. Wittgenstein의 조언(op.
 cit., 제66절)은 법적·정치적 용어 분석에서 특히 적절하다. 그는
-`게임(game)'이라는 단어의 정의를 논하면서 이렇게 말했다. ``'게임'이라
+`게임(game)'이라는 단어의 정의를 논하면서 이렇게 말했다. ```게임'이라
 불리는 것들 사이에 \emph{반드시} 공통점이 있어야 한다고 말하지 말고,
 \emph{보라} 그리고 \emph{살펴보라}. 그러면 그 모든 것들에 공통된
 무언가가 있는 것이 아니라, 유사성, 관계, 일련의 연속체들이 있을 뿐임을
 보게 될 것이다.''
 
-\subsection{\texorpdfstring{\textbf{CHAPTER I 3판
-주석}}{CHAPTER I 3판 주석}}\label{chapter-i-3uxd310-uxc8fcuxc11d}
+\subsection{CHAPTER I 제3판
+주석}\label{chapter-i-uxc81c3uxd310-uxc8fcuxc11d}
 
 Hart 자신의 주석은 이 판에서도 변경 없이 유지되었다. 그것들은 여전히
 그의 논증의 미묘한 차이, 본문에서 충분히 다루어지지 않은 사유, 다른
@@ -892,4 +819,4 @@ Empirical Research', in Peter Cane and Herbert Kritzer eds.,
 \emph{Oxford Handbook of Empirical Legal Research} (Oxford University
 Press, 2010).
 
-\end{document}
+}

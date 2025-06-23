@@ -1,0 +1,1778 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.18)  23 JUN 2025 17:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex
+(/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:1: Undefined control sequence.
+l.1 \section
+            {\texorpdfstring{\textbf{I. 지속되는
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:1: Undefined control sequence.
+l.1 \section{\texorpdfstring
+                            {\textbf{I. 지속되는
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 지 (U+C9C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 속 (U+C18D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 되 (U+B418)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 는 (U+B294)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 질 (U+C9C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 문 (U+BB38)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 들 (U+B4E4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}
+              }{I. 지속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no . in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 지 (U+C9C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}}{I. 지
+                      속되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 속 (U+C18D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}}{I. 지속
+                         되는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 되 (U+B418)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}}{I. 지속되
+                            는 질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 는 (U+B294)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}}{I. 지속되는
+                                질문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 질 (U+C9C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}}{I. 지속되는 질
+                                   문들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 문 (U+BB38)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}}{I. 지속되는 질문
+                                      들}}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:2: LaTeX Error: Unicode character 들 (U+B4E4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 질문들}}{I. 지속되는 질문들
+                                         }}\label{i.-uxc9c0uxc18duxb418uxb29...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (27.55551pt too wide) in paragraph at lines 2--3
+[]\OT1/cmr/bx/n/10 I.
+ []
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:4: Undefined control sequence.
+l.4 \subsection
+               {\texorpdfstring{\textbf{1. 법이론의
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:4: Undefined control sequence.
+l.4 \subsection{\texorpdfstring
+                               {\textbf{1. 법이론의
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 법 (U+BC95)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 이 (U+C774)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 론 (U+B860)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 의 (U+C758)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 난 (U+B09C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 제 (U+C81C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 들 (U+B4E4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}
+              }{1. 법이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 법 (U+BC95)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}}{1. 법
+                      이론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 이 (U+C774)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}}{1. 법이
+                         론의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 론 (U+B860)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}}{1. 법이론
+                            의 난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 의 (U+C758)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}}{1. 법이론의
+                                난제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 난 (U+B09C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}}{1. 법이론의 난
+                                   제들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 제 (U+C81C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}}{1. 법이론의 난제
+                                      들}}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:5: LaTeX Error: Unicode character 들 (U+B4E4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 난제들}}{1. 법이론의 난제들
+                                         }}\label{uxbc95uxc774uxb860uxc758-u...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (28.9444pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/bx/n/10 1.
+ []
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `
+     법(law)이란 무엇인가?'라는 질문만큼 오랫동안 제기되...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ` in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 법 (U+BC95)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법
+        (law)이란 무엇인가?'라는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 이 (U+C774)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이
+                란 무엇인가?'라는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 란 (U+B780)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란
+                    무엇인가?'라는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 무 (U+BB34)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무
+                       엇인가?'라는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 엇 (U+C5C7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇
+                          인가?'라는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 인 (U+C778)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇인
+                             가?'라는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 가 (U+AC00)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇인가
+                                ?'라는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no ? in font nullfont!
+Missing character: There is no ' in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 라 (U+B77C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇인가?'라
+                                     는 질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 는 (U+B294)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇인가?'라는
+                                         질문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 질 (U+C9C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇인가?'라는 질
+                                            문만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 문 (U+BB38)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇인가?'라는 질문
+                                               만큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 만 (U+B9CC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 `법(law)이란 무엇인가?'라는 질문만
+                                                  큼 오랫동안 제기되...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 큼 (U+D07C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...aw)이란 무엇인가?'라는 질문만큼
+                                                   오랫동안 제기되어...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 오 (U+C624)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...��란 무엇인가?'라는 질문만큼 오
+                                                  랫동안 제기되어 왔...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 랫 (U+B7AB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�� 무엇인가?'라는 질문만큼 오랫
+                                                  동안 제기되어 왔고...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 동 (U+B3D9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...무엇인가?'라는 질문만큼 오랫동
+                                                  안 제기되어 왔고, �...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 안 (U+C548)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...엇인가?'라는 질문만큼 오랫동안
+                                                   제기되어 왔고, 진�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 제 (U+C81C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...��가?'라는 질문만큼 오랫동안 제
+                                                  기되어 왔고, 진지한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 기 (U+AE30)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...��?'라는 질문만큼 오랫동안 제기
+                                                  되어 왔고, 진지한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 되 (U+B418)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...'라는 질문만큼 오랫동안 제기되
+                                                  어 왔고, 진지한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 어 (U+C5B4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�는 질문만큼 오랫동안 제기되어
+                                                   왔고, 진지한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 왔 (U+C654)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ... 질문만큼 오랫동안 제기되어 왔
+                                                  고, 진지한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 고 (U+ACE0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�문만큼 오랫동안 제기되어 왔고
+                                                  , 진지한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 진 (U+C9C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...��큼 오랫동안 제기되어 왔고, 진
+                                                  지한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 지 (U+C9C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...�� 오랫동안 제기되어 왔고, 진지
+                                                  한
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:7: LaTeX Error: Unicode character 한 (U+D55C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...오랫동안 제기되어 왔고, 진지한
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 사 (U+C0AC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사
+       상가들에 의해 이렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 상 (U+C0C1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상
+          가들에 의해 이렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 가 (U+AC00)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가
+             들에 의해 이렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 들 (U+B4E4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들
+                에 의해 이렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 에 (U+C5D0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에
+                    의해 이렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 의 (U+C758)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의
+                       해 이렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 해 (U+D574)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해
+                           이렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 이 (U+C774)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해 이
+                              렇게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 렇 (U+B807)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해 이렇
+                                 게 다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 게 (U+AC8C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해 이렇게
+                                     다양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 다 (U+B2E4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해 이렇게 다
+                                        양하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 양 (U+C591)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해 이렇게 다양
+                                           하고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 하 (U+D558)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해 이렇게 다양하
+                                              고 기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 고 (U+ACE0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 사상가들에 의해 이렇게 다양하고
+                                                  기묘하며 때로는 역...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 기 (U+AE30)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...가들에 의해 이렇게 다양하고 기
+                                                  묘하며 때로는 역설...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 묘 (U+BB18)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...들에 의해 이렇게 다양하고 기묘
+                                                  하며 때로는 역설적...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 하 (U+D558)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...에 의해 이렇게 다양하고 기묘하
+                                                  며 때로는 역설적인...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 며 (U+BA70)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... 의해 이렇게 다양하고 기묘하며
+                                                   때로는 역설적인 �...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 때 (U+B54C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...해 이렇게 다양하고 기묘하며 때
+                                                  로는 역설적인 방식...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 로 (U+B85C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... 이렇게 다양하고 기묘하며 때로
+                                                  는 역설적인 방식으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 는 (U+B294)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...�렇게 다양하고 기묘하며 때로는
+                                                   역설적인 방식으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 역 (U+C5ED)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...게 다양하고 기묘하며 때로는 역
+                                                  설적인 방식으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 설 (U+C124)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... 다양하고 기묘하며 때로는 역설
+                                                  적인 방식으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 적 (U+C801)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...�양하고 기묘하며 때로는 역설적
+                                                  인 방식으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 인 (U+C778)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...�하고 기묘하며 때로는 역설적인
+                                                   방식으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 방 (U+BC29)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...고 기묘하며 때로는 역설적인 방
+                                                  식으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 식 (U+C2DD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... 기묘하며 때로는 역설적인 방식
+                                                  으로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 으 (U+C73C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...�묘하며 때로는 역설적인 방식으
+                                                  로
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:8: LaTeX Error: Unicode character 로 (U+B85C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...�하며 때로는 역설적인 방식으로
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 답 (U+B2F5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답
+       변되어 온 인간 사회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 변 (U+BCC0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변
+          되어 온 인간 사회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 되 (U+B418)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되
+             어 온 인간 사회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 어 (U+C5B4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어
+                 온 인간 사회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 온 (U+C628)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온
+                     인간 사회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 인 (U+C778)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인
+                        간 사회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 간 (U+AC04)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인간
+                            사회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 사 (U+C0AC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인간 사
+                               회에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 회 (U+D68C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인간 사회
+                                  에 관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 에 (U+C5D0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인간 사회에
+                                      관한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 관 (U+AD00)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인간 사회에 관
+                                         한 질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 한 (U+D55C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인간 사회에 관한
+                                             질문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 질 (U+C9C8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 답변되어 온 인간 사회에 관한 질
+                                                문은 거의 없다. 고전...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 문 (U+BB38)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��되어 온 인간 사회에 관한 질문
+                                                  은 거의 없다. 고전 ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 은 (U+C740)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��어 온 인간 사회에 관한 질문은
+                                                   거의 없다. 고전 및...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 거 (U+AC70)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...� 온 인간 사회에 관한 질문은 거
+                                                  의 없다. 고전 및 중...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 의 (U+C758)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�� 인간 사회에 관한 질문은 거의
+                                                   없다. 고전 및 중세...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 없 (U+C5C6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��간 사회에 관한 질문은 거의 없
+                                                  다. 고전 및 중세의 법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 다 (U+B2E4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�� 사회에 관한 질문은 거의 없다
+                                                  . 고전 및 중세의 법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 고 (U+ACE0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�회에 관한 질문은 거의 없다. 고
+                                                  전 및 중세의 법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 전 (U+C804)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�에 관한 질문은 거의 없다. 고전
+                                                   및 중세의 법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 및 (U+BC0F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... 관한 질문은 거의 없다. 고전 및
+                                                   중세의 법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 중 (U+C911)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...한 질문은 거의 없다. 고전 및 중
+                                                  세의 법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 세 (U+C138)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... 질문은 거의 없다. 고전 및 중세
+                                                  의 법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 의 (U+C758)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�문은 거의 없다. 고전 및 중세의
+                                                   법
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:9: LaTeX Error: Unicode character 법 (U+BC95)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...은 거의 없다. 고전 및 중세의 법
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no ` in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 본 (U+BCF8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본
+         성(nature)'에 관한 사유를 제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 성 (U+C131)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성
+            (nature)'에 관한 사유를 제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ' in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 에 (U+C5D0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에
+                         관한 사유를 제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 관 (U+AD00)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에 관
+                            한 사유를 제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 한 (U+D55C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에 관한
+                                사유를 제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 사 (U+C0AC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에 관한 사
+                                   유를 제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 유 (U+C720)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에 관한 사유
+                                      를 제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 를 (U+B97C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에 관한 사유를
+                                          제쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 제 (U+C81C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에 관한 사유를 제
+                                             쳐두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 쳐 (U+CCD0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 `본성(nature)'에 관한 사유를 제쳐
+                                                두고, 지난 150년 동안...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 두 (U+B450)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...성(nature)'에 관한 사유를 제쳐두
+                                                  고, 지난 150년 동안�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 고 (U+ACE0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...(nature)'에 관한 사유를 제쳐두고
+                                                  , 지난 150년 동안의 ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 지 (U+C9C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...re)'에 관한 사유를 제쳐두고, 지
+                                                  난 150년 동안의 법�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 난 (U+B09C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...'에 관한 사유를 제쳐두고, 지난
+                                                   150년 동안의 법이�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 년 (U+B144)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...�한 사유를 제쳐두고, 지난 150년
+                                                   동안의 법이론만을
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 동 (U+B3D9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ... 사유를 제쳐두고, 지난 150년 동
+                                                  안의 법이론만을
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 안 (U+C548)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...�유를 제쳐두고, 지난 150년 동안
+                                                  의 법이론만을
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10: LaTeX Error: Unicode character 의 (U+C758)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...�를 제쳐두고, 지난 150년 동안의
+                                                   법이론만을
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 91 strings out of 474116
+ 1226 string characters out of 5743681
+ 1925187 words of memory out of 5000000
+ 22548 multiletter control sequences out of 15000+600000
+ 558377 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,1n,20p,215b,81s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+/Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex:10:  ==> Fatal error occurred, no output PDF file produced!

@@ -6,9 +6,9 @@ parent: 강의자료-번역
 permalink: /book-translation/chapter_07
 ---
 
-# **VII. 형식주의(Formalism)와 규칙 회의주의(Rule-Scepticism)**
+# VII. 형식주의(Formalism)와 규칙 회의주의(Rule-Scepticism)
 
-## **1. 법의 개방적 직조(The Open Texture of Law)**
+## 1. 법의 개방적 직조(The Open Texture of Law)
 
 어떤 대규모 집단에서든, 일반 규칙, 기준, 원칙은 사회 통제의 주요 수단이 되어야 하며, 각 개인에게 개별적으로 지시를 내리는 방식은 주요 수단이 될 수 없다. 수많은 개인들이 특정한 상황이 발생했을 때 어떤 행동을 요구받는지를 이해할 수 있도록, 일반적인 행동 기준을 별도의 지시 없이도 전달할 수 없다면, 우리가 현재 법이라고 인식하는 것은 존재할 수 없을 것이다. 따라서 법은 필연적으로, 그러나 결코 전적으로는 아니며, 사람의 *부류들(classes)*, 행위, 사물, 상황의 *부류들(classes)*을 지시하게 되며, 사회생활의 광범위한 영역에서 법이 성공적으로 작동하기 위해서는 사람들이 법이 설정한 일반적 범주에 따라 구체적인 행위, 사물, 상황을 인식할 수 있는 광범위한 능력이 분포되어 있어야 한다.
 
@@ -54,7 +54,7 @@ permalink: /book-translation/chapter_07
 
 법의 개방적 직조(open texture)는, 실제로 많은 경우의 행위 영역에서 구체적인 상황을 고려하여 상충하는 이익들 사이의 균형을 잡기 위한 법원이나 공무원의 판단에 의한 발전이 요구된다는 것을 의미한다. 그럼에도 불구하고, 법의 삶(life of the law)은 상당히 큰 범위에서, 변동 가능한 기준(variable standards)의 적용과는 달리, 매 사건마다 새로운 판단을 요구하지 않고 공무원과 일반 개인 모두를 이끄는 명확한 규칙들에 의해 구성되어 있다. 이러한 사회생활의 현저한 사실은, 어떤 규칙(성문이든, 선례를 통해 전달된 것이든)의 적용 가능성에 대한 불확실성이 발생할 수 있다는 점에도 불구하고 여전히 유효하다. 규칙의 경계 지점에서, 그리고 선례 이론이 열어 놓은 영역에서, 법원은 행정부가 가변적 기준들을 정교화할 때 중앙에서 수행하는 것과 유사한 규칙 생성(rule-producing)의 기능을 수행한다. *선례 존중의 원칙(stare decisis)*이 확고히 인정된 체계에서, 법원의 이 기능은 행정부의 위임된 규칙 제정권(delegated rule-making powers)의 행사와 매우 유사하다. 영국에서는 이 사실이 형식(form)에 의해 종종 가려진다. 왜냐하면 법원은 **(p. 136)** 그러한 창조적 기능을 부인하고, 법령 해석과 선례 사용의 적절한 임무는 각각 ‘입법자의 의도(intention of the legislature)’와 이미 존재하는 법률을 탐색하는 것이라고 주장하기 때문이다.
 
-## **2. 규칙 회의주의(rule-scepticism)의 여러 형태**
+## 2. 규칙 회의주의(rule-scepticism)의 여러 형태
 
 법의 개방적 직조(open texture)에 대해 다소 길게 논의한 이유는, 이 특징을 올바른 관점에서 이해하는 것이 중요하기 때문이다. 이 점을 정당하게 다루지 못하면, 항상 법의 다른 측면을 가리는 과장된 주장들이 유발될 것이다. 모든 법체계에서, 처음에는 모호한 기준을 명확히 하거나, 성문의 불확실성을 해결하거나, 권위 있는 선례(authoritative precedent)를 통해 대략적으로만 전달된 규칙들을 발전시키고 한정하는 데 있어, 법원이나 기타 공무원의 재량(discretion)이 행사될 수 있는 넓고 중요한 영역이 남아 있다. 그러나 이러한 활동들이 아무리 중요하고 충분히 연구되지 않았더라도, 이 활동들이 일어나는 틀(framework)과 그 주된 산출물이 바로 일반 규칙(general rules)이라는 사실을 가려서는 안 된다. 이러한 규칙들은 개인이 각각의 사건에서 그 적용을 스스로 파악할 수 있는 규칙들로, 더 이상의 공적 지시나 재량 판단을 필요로 하지 않는다.
 
@@ -76,7 +76,7 @@ permalink: /book-translation/chapter_07
 
 규칙 회의주의(rule-scepticism)의 마지막이자 가장 흥미로운 형태는, 법적 규칙의 개방성이나 많은 판결의 직관적 성격에 근거하지 않고, 법원의 판결이 ‘권위 있는 것(something authoritative)’이라는 독특한 지위를 갖는다는 사실에 기반한다. 그리고 최고심 법원(supreme tribunals)의 경우에는 그 판결이 ‘최종적(final)’이라는 점에 기반한다. 이 이론 형태는, 우리가 다음 절에서 다룰 것이며, 호들리(Hoadly) 주교의 유명한 구절에 암묵적으로 내포되어 있다. 이 구절은 그레이(Gray)의 저서 *The Nature and Sources of Law*에서 자주 반복된다. “말로 하건 글로 쓰건, 어떤 법을 해석할 절대적 권위(absolute authority)를 지닌 자가 있다면, 그는 모든 면에서 입법자(lawgiver)이지, 그것을 처음 말하거나 쓴 사람이 아니다.”
 
-## **3. 사법적 결정에서의 최종성(Finality)과 무오류성(Infallibility)**
+## 3. 사법적 결정에서의 최종성(Finality)과 무오류성(Infallibility)
 
 최고심 법원(supreme tribunal)은 법이 무엇인지를 말하는 데 있어서 최종적인 발언권(last word)을 가진다. 그리고 그것이 법이 무엇인지 말했다면, 그 법원이 ‘틀렸다(wrong)’고 말하는 진술은 그 체계 내에서는 아무런 결과도 초래하지 않는다. 그로 인해 누구의 권리나 의무도 변경되지 않는다. 물론 그러한 판결은 입법(legislation)을 통해 법적 효력을 박탈당할 수 있다. 그러나 입법이 필요하다는 바로 그 사실 자체가, 법 관점에서 볼 때 ‘그 법원의 판결이 틀렸다’는 진술이 공허하다는 점을 보여준다. 이러한 사실을 고려해보면, 최고심 법원의 판결에 있어 ‘최종성’과 ‘무오류성’ 사이를 구분하는 것이 형식주의적(pedantic)인 것처럼 보이게 된다. 이로부터 다음과 같은 규칙에 구속되는 판결이라는 관념 자체를 부정하는 이론의 또 다른 형태가 도출된다. 곧, “법(또는 헌법)은 법원이 그것이 무엇이라 말하는 것이다(the law (or the constitution) is what the courts say it is).”
 
@@ -98,7 +98,7 @@ permalink: /book-translation/chapter_07
 
 우리가 규칙회의론(rule-scepticism)의 논의를 마무리하기 전에, 법률 규칙이란 법원의 판결을 예측(prediction)하는 것에 불과하다는 이 견해의 긍정적 주장에 대해 마지막으로 언급해야 한다. 이 주장에 진실성이 얼마간 있을 수는 있지만, **(p. 147)** 그것이 적용될 수 있는 것은 어디까지나 민간인(private individuals)이나 그들의 법률 자문인이 제시하는 법률 진술(law statements)의 경우에 한정된다는 점은 명백하며, 자주 지적된 바 있다. 이러한 주장은 법원 자체의 법률 규칙 진술에는 적용되지 않는다. 법원의 법률 진술은, 일부 급진적 현실주의자들(extremer 'Realists')이 주장하듯, 전적으로 자유로운 재량 행사를 은폐하는 말의 외피(verbal covering)이거나, 아니면 법원이 진심으로 올바른 판단의 기준으로 간주하고 있는 규칙을 공식적으로 정식화(formulate)한 것이어야만 한다. 반면, 법원 판결에 대한 예측(prediction)은 법에서 분명히 중요한 자리를 차지한다. 개방적 직조(open texture)의 영역에 이르면, 어떤 사안에 대해 “법이 무엇인가?”라는 질문에 대해 우리가 유용하게 제시할 수 있는 것은 법원이 어떻게 판단할지를 조심스럽게 예측하는 것일 수밖에 없는 경우가 많다. 더욱이, 규칙이 무엇을 요구하는지가 모두에게 명백한 경우조차도, 그것은 종종 법원의 판결을 예측하는 방식으로 표현되곤 한다. 그러나 이 경우, 특히 후자의 경우에 있어서는, 그리고 전자에 있어서는 경우에 따라, 이러한 예측이 가능하다는 것은 법원이 법적 규칙을 예측의 대상(predictions)으로서가 아니라, 판단 시 따라야 할 기준(standards)으로 간주한다는 사실에 기반하고 있다는 점에 유의해야 한다. 이러한 규칙은, 그 개방적 직조에도 불구하고, 법원의 재량을 배제하지는 못하더라도 제한할 만큼은 충분히 명확하다. 따라서, 많은 경우 법원이 어떤 결정을 내릴지를 예측하는 것은, 마치 체스 플레이어가 비숍(bishop)을 대각선으로 움직일 것이라고 예측하는 것과 같다. 그러한 예측은 궁극적으로 규칙의 비예측적(non-predictive) 측면과, 그 규칙이 예측의 대상이 되는 당사자들에 의해 수용되고 있는 기준으로서의 내부적 관점(internal point of view)에 대한 이해에 바탕을 둔다. 이것은 이미 제5장에서 강조한 사실—즉, 어떤 사회 집단에 규칙이 존재한다는 사실은 예측을 가능하고 종종 신뢰할 수 있게 만들지만, 그 존재 자체가 예측으로 환원될 수는 없다는 점—의 또 다른 측면에 불과하다.
 
-## **4. 승인 규칙의 불확실성 (UNCERTAINTY IN THE RULE OF RECOGNITION)**
+## 4. 승인 규칙의 불확실성 (UNCERTAINTY IN THE RULE OF RECOGNITION)
 
 형식주의(Formalism)와 규칙회의론(rule-scepticism)은 법이론(juristic theory)의 스킬라(Scylla)와 카립디스(Charybdis)라 할 수 있다. 이들은 서로를 교정해주는 한에서는 유익하나, 모두 심대한 과장에 해당하며, 진실은 그 사이 어딘가에 있다. 사실 여기에서 시도할 수 없는 많은 작업들이 필요하다. 특히 이 중간 경로를 정보성 있게 특징짓고, 제정법(statute)이나 선례(precedent)의 개방적 직조(open texture)가 법원에게 남겨준 창조적 기능을 수행하는 데 있어 법원이 통상적으로 사용하는 다양한 추론 유형들을 보여줄 필요가 있다. 그러나 우리는 **(p. 148)** 이미 이 장에서 충분히 논의하였기에, 제6장 마지막에서 보류했던 중요한 주제로 이제 유익하게 돌아갈 수 있다. 이 주제는 개별 법규칙의 불확실성에 관한 것이 아니라, 승인 규칙(rule of recognition)의 불확실성, 곧 법원이 유효한 법 규칙을 식별할 때 사용하는 궁극적 기준들의 불확실성과 관련된 것이다. 특정한 규칙의 불확실성과, 그것이 체계 내 규칙으로 식별될 수 있도록 해주는 기준의 불확실성 사이의 구분은, 모든 경우에 명확하지는 않다. 그러나 이러한 구분은 해당 규칙이 권위 있는 문구를 가진 제정법일 때 가장 뚜렷하게 드러난다. 법률의 문구와 그것이 특정 사안에서 요구하는 바는 완전히 명백할 수 있다. 그럼에도 불구하고, 입법부가 이러한 방식으로 입법할 권한이 있는지 여부에 대한 의문이 제기될 수 있다. 때로 이러한 의문을 해결하는 데는 단지 입법 권한을 부여한 또 다른 법규칙의 해석만으로 충분하며, 이 두 번째 규칙의 유효성에는 의심이 존재하지 않을 수 있다. 예를 들어, 하위 입법기관(subordinate authority)에 의해 제정된 법령의 유효성이 문제되는 경우, 모법(parent Act of Parliament)이 그 기관에 부여한 입법권의 의미에 의문이 제기될 수 있다. 이는 단지 특정 제정법이 가지는 불확실성이나 개방적 직조의 사례일 뿐이며, 근본적인 문제를 제기하지는 않는다.
 
@@ -120,7 +120,7 @@ permalink: /book-translation/chapter_07
 
 영국 법원이 선례의 구속력에 관한 규칙들을 조작하는 방식은, **(p. 154)** 아마도 이러한 방식으로—즉, 권력을 주장하고 이를 실행에 옮기는 데 성공한 하나의 성공한 시도(successful bid)로 묘사되는 것이 가장 정직할 것이다. 이 경우, 권력은 *사후적(ex post facto)*으로 권위를 획득한다. 예컨대, 형사항소법원(Court of Criminal Appeal)이 *Rex* 대 *Taylor* 사건 [^154-1]에서, 자신이 과거에 내린 선례를 억제하지 않아도 된다고 판시하기 전에는, 그 법원이 그러한 권한을 갖고 있는지 여부는 전적으로 미결(open)된 문제였을 것이다. 그러나 그 판결은 내려졌고, 지금은 법으로서 따르고 있다. 법원이 항상 그러한 방식으로 판단할 내재적 권한을 가졌다고 말하는 것은, 아마도 사태를 실제보다 더 정연하게 보이게 하려는 표현일 뿐일 것이다. 이처럼 이러한 가장 근본적인 것들의 경계에 있는 지점에서는, 우리는 규칙회의론자(rule-sceptic)를 기꺼이 환영해야 한다. 다만 그는 자신이 가장자리에서만(fringe) 환영받는다는 점을 잊지 않아야 하며, 법원이 가장 기본적인 규칙들을 발전시킬 수 있는 가능성은, 주로 그들이 법의 광대한 중심 영역에서 의심의 여지 없이 규칙지배(rule-governed)된 작용을 해왔다는 데서 얻은 권위(prestige) 덕분이라는 사실을 우리로 하여금 망각하게 만들어서는 안 된다.
 
-## **제7장 주석(CHAPTER VII NOTES)**
+## CHAPTER VII 주석
 
 *125쪽. 규칙의 예시적 전달(Communication of rules by examples).* 이러한 용어로 선례(precedent)의 사용을 특징지은 설명으로는 Levi의 “An Introduction to Legal Reasoning” 제1절, *University of Chicago Law Review* 제15권(1948년)을 보라. Wittgenstein은 *Philosophical Investigations* (특히 제1부 제208–238절)에서 규칙을 가르치고 따르는 개념에 대해 여러 중요한 통찰을 제시한다. Wittgenstein에 대한 논의는 Winch, *The Idea of a Social Science* 제24–33쪽, 91–93쪽 참조.
 
@@ -156,7 +156,7 @@ permalink: /book-translation/chapter_07
 
 *152쪽. 1931년 *웨스트민스터 법령*(Statute of Westminster), 제4조.* 해당 조항의 제정이 도미니언에 대한 입법권을 그들의 동의 없이 되돌릴 수 없는 방식으로 종결시킬 수 없다는 견해가 다수설이다. *British Coal Corporation* v. *The King* (1935), AC 500; Wheare, *The Statute of Westminster and Dominion Status*, 제5판, 제297–298쪽; Marshall, 위 저작 제146–147쪽 참조. 이에 반하여, “한 번 부여된 자유는 철회될 수 없다(Freedom once conferred cannot be revoked)”는 견해는 남아프리카 법원에서 *Ndlwana* v. *Hofmeyr* (1937), AD 229, 제237쪽에서 표현된 바 있다.
 
-## **CHAPTER VII 제3판 주석(3rd ed. NOTES)**
+## CHAPTER VII 제3판 주석
 
 *124–128쪽. 법의 개방적 직조(Open texture of law).* 일반적인 논의로는 Avishai Margalit, “Open Texture” (1979), *Meaning and Use* 제3권 141쪽을 보라. 하트(Hart)가 '개방적 직조(open texture)' 개념을 어떻게 사용하는지에 대해서는 Brian Bix, *Law, Language, and Legal Determinacy* (Oxford University Press, 1993), 제1장을 참조하라. 법의 불확정성(indeterminacy)의 다른 근원들에 대해서는 Kelsen, *Pure Theory of Law*, 제348–356쪽을 참조. 불확정성과 그에 따른 재량(discretion)에 대한 드워킨(Dworkin)의 비판은 *Taking Rights Seriously* 제31–39쪽, 제4장, 제13장과 *A Matter of Principle* (Harvard University Press, 1986), 제5장에서 볼 수 있다. 드워킨의 이러한 비판은 David Brink, “Legal Theory, Legal Interpretation and Judicial Review” (1988), *Philosophy & Public Affairs* 제17권 105쪽 및 Nicos Stavropoulos, “Hart’s Semantics” in Jules Coleman 편, *Hart’s Postscript* 중 특히 제88–98쪽에서 긍정적으로 평가된다. 반면에 Andrei Marmor, *Interpretation and Legal Theory*, 제2판 (Hart Publishing, 2005), 제7장에서는 이 비판을 수용하지 않는다.
 
@@ -173,7 +173,6 @@ permalink: /book-translation/chapter_07
 *134–135쪽. 선례(Precedent).* 이 주제에 관한 문헌은 매우 풍부하다. 참고문헌으로는 다음을 보라: A. W. B. Simpson, “The Common Law and Legal Theory” in A. W. B. Simpson 편, *Oxford Essays in Jurisprudence*; Ronald Dworkin, *Taking Rights Seriously* 제110–123쪽; Neil MacCormick, *Legal Reasoning and Legal Theory* (수정판, Oxford University Press, 1994); Laurence Goldstein 편, *Precedent in Law* (Oxford University Press, 1987); Stephen Perry, “Judicial Obligation, Precedent and the Common Law” (1987) *Oxford Journal of Legal Studies* 제7권 215쪽; Frederick Schauer, “Precedent” (1987) *Stanford Law Review* 제39권 571쪽; Susan Hurley, “Coherence, Hypothetical Cases, and Precedent” (1990) *Oxford Journal of Legal Studies* 제10권 221쪽; Larry Alexander, “Precedent” in Dennis Patterson 편, *A Companion to the Philosophy of Law and Legal Theory* (Blackwell, 1996); Neil Duxbury, *The Nature and Authority of Precedent* (Cambridge University Press, 2008).
 
 *136–141쪽. 규칙회의주의의 다양한 유형들(Varieties of rule scepticism).* 하트의 관련 에세이로는 “American Jurisprudence through English Eyes: The Nightmare and the Noble Dream” (*Essays in Jurisprudence and Philosophy*, 제4장)이 있다. 하트의 저작 이후 등장한 가장 저명한 규칙회의주의자(rule-sceptics)는 미국의 ‘비판법학(Critical Legal Studies, CLS)’ 운동의 법학자들이었다. 철학적으로는 덜 정교하지만 영향력 있는 논의로는 Roberto Unger, *The Critical Legal Studies Movement* (Harvard University Press, 1986), 특히 제1–14쪽, 그리고 Duncan Kennedy, *A Critique of Adjudication [fin de siècle]* (Harvard University Press, 1997)를 들 수 있다. 초기 CLS 문헌에 대한 비판적 논의는 Ken Kress, “Legal Indeterminacy” (1989) *California Law Review* 제77권 283쪽을 참조하라. 또한 John Finnis, “On the Critical Legal Studies Movement”, 그의 *Philosophy of Law* 제13장, Andrew Altman, *Critical Legal Studies: A Liberal Critique* (Princeton University Press, 1990)도 보라. Brian Leiter는 “Legal Realism and Legal Positivism Reconsidered”, 그의 *Naturalizing Jurisprudence* (Oxford University Press, 2007) 제2장에서 하트의 규칙회의주의 유형을 다룬다.
-
 
 ## FOOTNOTES CHAPTER VII
 

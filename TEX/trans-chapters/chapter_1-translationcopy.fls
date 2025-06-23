@@ -1,0 +1,8 @@
+PWD /Users/jeyounson/HartConcept/TEX/trans-chapters
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/jeyounson/HartConcept/TEX/trans-chapters/chapter_1-translationcopy.tex
+OUTPUT chapter_1-translationcopy.log
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

@@ -1,0 +1,104 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{1961년 제1판의 하트의 머리말(PREFACE)}{i}{section*.1}%
+\contentsline {section}{1994년 제2판의 Bulloch와 Raz의 편집자 주(Editors' Note)}{iii}{section*.2}%
+\contentsline {section}{2012년 제3판의 Leslie Green의 머리말(Preface to the Third Edition)}{vi}{section*.3}%
+\contentsline {section}{2012년 제3판의 Leslie Green의 서론(INTRODUCTION)}{viii}{section*.4}%
+\contentsline {subsection}{1. 하트의 메시지(HART'S MESSAGE)}{viii}{subsection*.5}%
+\contentsline {subsection}{2. 사회적 구성물로서의 법(LAW AS A SOCIAL CONSTRUCTION)}{x}{subsection*.6}%
+\contentsline {subsubsection}{(i) \emph {법, 규칙, 관행} (Law, Rules, and Conventions)}{xv}{subsubsection*.7}%
+\contentsline {subsubsection}{(ii) \emph {규칙의 적용 범위(The Reach of Rules)}}{xxi}{subsubsection*.8}%
+\contentsline {subsection}{3. LAW AND POWER (법과 권한)}{xxv}{subsection*.9}%
+\contentsline {subsubsection}{(i) \emph {법에서의 분업(The Division of Labour in Law)}}{xxv}{subsubsection*.10}%
+\contentsline {subsubsection}{(ii) \emph {강제와 권한(Coercion and Power)}}{xxix}{subsubsection*.11}%
+\contentsline {subsection}{4. 법과 도덕 (LAW AND MORALITY)}{xxxiii}{subsection*.12}%
+\contentsline {subsubsection}{(i) \emph {법의 목적 (Law's Purpose)}}{xxxiv}{subsubsection*.13}%
+\contentsline {subsubsection}{(ii) \emph {법과 정의 (Law and Justice)}}{xxxvi}{subsubsection*.14}%
+\contentsline {subsubsection}{(iii) \emph {법적 유효성과 도덕 원칙 (Legal Validity and Moral Principles)}}{xl}{subsubsection*.15}%
+\contentsline {subsection}{5. 사실(fact), 가치(value), 방법(method)}{xlviii}{subsection*.16}%
+\contentsline {subsubsection}{(i) \emph {법철학(jurisprudence)과 사회학(sociology)}}{xlviii}{subsubsection*.17}%
+\contentsline {subsubsection}{(ii) \emph {명료화(clarification)와 비판(criticism)}}{liii}{subsubsection*.18}%
+\contentsline {subsection}{6. 요점(THE POINT)}{lviii}{subsection*.19}%
+\contentsline {section}{I. 지속되는 질문들}{1}{section*.21}%
+\contentsline {subsection}{1. 법이론의 난제들}{1}{subsection*.22}%
+\contentsline {subsection}{2. 세 가지 반복되는 쟁점들}{7}{subsection*.23}%
+\contentsline {subsection}{3. 정의(Definition)}{16}{subsection*.24}%
+\contentsline {subsection}{주석(Notes)}{22}{subsection*.25}%
+\contentsline {subsection}{CHAPTER I 주석}{23}{subsection*.26}%
+\contentsline {subsection}{CHAPTER I 제3판 주석}{26}{subsection*.27}%
+\contentsline {section}{II. 법(Laws), 사령(Commands), 그리고 명령(Orders)}{29}{section*.28}%
+\contentsline {subsection}{1. 명법의 다양성(Varieties of Imperatives)}{29}{subsection*.29}%
+\contentsline {subsection}{2. 법(law)과 강압적 명령(coercive orders)}{32}{subsection*.30}%
+\contentsline {subsection}{CHAPTER II 주석}{39}{subsection*.31}%
+\contentsline {subsection}{CHAPTER II 제3판 주석}{43}{subsection*.32}%
+\contentsline {section}{III. 법의 다양성}{45}{section*.33}%
+\contentsline {subsection}{1. 법의 내용}{46}{subsection*.34}%
+\contentsline {subsubsection}{\emph {제재로서의 무효(Nullity as a sanction)}}{53}{subsubsection*.35}%
+\contentsline {subsubsection}{\emph {법의 일부 조각으로서의 권한부여 규칙(Power-conferring rules)}}{56}{subsubsection*.36}%
+\contentsline {subsubsection}{\emph {통일성의 대가로서의 왜곡}}{59}{subsubsection*.37}%
+\contentsline {subsection}{2. 적용 범위}{63}{subsection*.38}%
+\contentsline {subsection}{3. 기원의 방식}{66}{subsection*.39}%
+\contentsline {subsection}{CHAPTER III 주석}{73}{subsection*.40}%
+\contentsline {subsection}{CHAPTER III 제3판 주석}{78}{subsection*.41}%
+\contentsline {section}{IV. 주권자와 수범자(SOVEREIGN AND SUBJECT)}{80}{section*.42}%
+\contentsline {subsection}{1. 복종의 습관과 법의 연속성}{81}{subsection*.43}%
+\contentsline {subsection}{2. 법의 지속성}{94}{subsection*.44}%
+\contentsline {subsection}{3. 입법권에 대한 법적 한계}{99}{subsection*.45}%
+\contentsline {subsection}{4. 입법기관 뒤의 주권자}{105}{subsection*.46}%
+\contentsline {subsection}{CHAPTER IV 주석}{114}{subsection*.47}%
+\contentsline {subsection}{CHAPTER IV 제3판 주석}{117}{subsection*.48}%
+\contentsline {section}{V. 1차 규칙과 2차 규칙의 결합으로서의 법}{120}{section*.49}%
+\contentsline {subsection}{1. 새로운 출발}{120}{subsection*.50}%
+\contentsline {subsection}{2. 규범적 의무(obligation)의 개념}{123}{subsection*.51}%
+\contentsline {subsection}{3. 법의 구성요소 (The Elements of Law)}{135}{subsection*.52}%
+\contentsline {subsection}{제5장 주석}{146}{subsection*.53}%
+\contentsline {subsection}{제5장 제3판 주석 (CHAPTER V 3rd ed.~NOTES)}{148}{subsection*.54}%
+\contentsline {section}{VI. 법체계의 기초(THE FOUNDATIONS OF A LEGAL SYSTEM)}{151}{section*.55}%
+\contentsline {subsection}{1. 승인 규칙과 법적 유효성(RULE OF RECOGNITION AND LEGAL VALIDITY)}{151}{subsection*.56}%
+\contentsline {subsection}{2. 새로운 질문들(New Questions)}{164}{subsection*.57}%
+\contentsline {subsection}{3. 법체계의 병리학}{174}{subsection*.58}%
+\contentsline {subsection}{제6장 주석 (CHAPTER VI NOTES)}{181}{subsection*.59}%
+\contentsline {subsection}{CHAPTER VI 3rd ed.~NOTES}{187}{subsection*.60}%
+\contentsline {section}{VII. 형식주의(Formalism)와 규칙 회의주의(Rule-Scepticism)}{191}{section*.61}%
+\contentsline {subsection}{1. 법의 개방적 직조(The Open Texture of Law)}{191}{subsection*.62}%
+\contentsline {subsection}{2. 규칙 회의주의(rule-scepticism)의 여러 형태}{205}{subsection*.63}%
+\contentsline {subsection}{3. 사법적 결정에서의 최종성(Finality)과 무오류성(Infallibility)}{212}{subsection*.64}%
+\contentsline {subsection}{4. 승인 규칙의 불확실성 (UNCERTAINTY IN THE RULE OF RECOGNITION)}{221}{subsection*.65}%
+\contentsline {subsection}{CHAPTER VII 주석}{230}{subsection*.66}%
+\contentsline {subsection}{CHAPTER VII 제3판 주석}{233}{subsection*.67}%
+\contentsline {section}{VIII. 정의(Justice)와 도덕성(Morality)}{237}{section*.68}%
+\contentsline {subsection}{1. 정의의 원칙들 (Principles of Justice)}{240}{subsection*.69}%
+\contentsline {subsection}{2. 도덕적 의무(Moral Obligation)와 법적 의무(Legal Obligation)}{252}{subsection*.70}%
+\contentsline {subsection}{3. 도덕 이상(Moral Ideals)과 사회적 비판(Social Criticism)}{269}{subsection*.71}%
+\contentsline {subsection}{CHAPTER VIII 주석}{275}{subsection*.72}%
+\contentsline {subsection}{CHAPTER VIII 제3판 주석}{278}{subsection*.73}%
+\contentsline {section}{IX. 법과 도덕 (Laws and Morals)}{281}{section*.74}%
+\contentsline {subsection}{1. 자연법과 법실증주의 (Natural Law and Legal Positivism)}{281}{subsection*.75}%
+\contentsline {subsection}{2. 자연법의 최소 내용 (The Minimum Content of Natural Law)}{291}{subsection*.76}%
+\contentsline {subsection}{3. 법적 유효성과 도덕적 가치}{299}{subsection*.77}%
+\contentsline {subsection}{CHAPTER IX 주석}{316}{subsection*.78}%
+\contentsline {subsection}{CHAPTER IX 제3판 주석}{319}{subsection*.79}%
+\contentsline {section}{X. 국제법(INTERNATIONAL LAW)}{323}{section*.80}%
+\contentsline {subsection}{1. 의심의 근원(SOURCES OF DOUBT)}{323}{subsection*.81}%
+\contentsline {subsection}{2. 의무와 제재(OBLIGATIONS AND SANCTIONS)}{327}{subsection*.82}%
+\contentsline {subsection}{3. 의무와 국가의 주권(OBLIGATION AND THE SOVEREIGNTY OF STATES)}{332}{subsection*.83}%
+\contentsline {subsection}{4. 국제법과 도덕(INTERNATIONAL LAW AND MORALITY)}{340}{subsection*.84}%
+\contentsline {subsection}{5. 형식 및 내용의 유사성(Analogies of Form and Content)}{347}{subsection*.85}%
+\contentsline {subsection}{CHAPTER X 주석}{354}{subsection*.86}%
+\contentsline {subsection}{CHAPTER X 제3판 주석}{357}{subsection*.87}%
+\contentsline {section}{후기(POSTSCRIPT)}{359}{section*.88}%
+\contentsline {subsection}{서론(INTRODUCTORY)}{359}{subsection*.89}%
+\contentsline {subsection}{1. 법이론의 본성(THE NATURE OF LEGAL THEORY)}{360}{subsection*.90}%
+\contentsline {subsection}{2. 법실증주의의 본성}{367}{subsection*.91}%
+\contentsline {subsubsection}{(i) \emph {의미론적 이론으로서의 실증주의}(Positivism as a Semantic Theory)}{367}{subsubsection*.92}%
+\contentsline {subsubsection}{(ii) \emph {해석적 이론으로서의 실증주의}(Positivism as an Interpretive Theory)}{371}{subsubsection*.93}%
+\contentsline {subsubsection}{(iii) \emph {연성 실증주의}(Soft Positivism)}{374}{subsubsection*.94}%
+\contentsline {subsection}{3. 규칙의 본성(The Nature of Rules)}{380}{subsection*.95}%
+\contentsline {subsubsection}{(i) \emph {규칙에 대한 실천 이론(The Practice Theory of Rules)}}{380}{subsubsection*.96}%
+\contentsline {subsubsection}{(ii) \emph {규칙(rules)과 원칙(principles)}}{385}{subsubsection*.97}%
+\contentsline {subsection}{4. 원칙과 승인 규칙(Rule of Recognition)}{391}{subsection*.98}%
+\contentsline {subsubsection}{\emph {형식적 기원(Pedigree)과 해석(Interpretation)}}{391}{subsubsection*.99}%
+\contentsline {subsection}{5. 법과 도덕 (LAW AND MORALITY)}{397}{subsection*.100}%
+\contentsline {subsubsection}{(i) \emph {권리와 의무 (Rights and Duties)}}{397}{subsubsection*.101}%
+\contentsline {subsubsection}{(ii) \emph {법의 식별 (The Identification of the Law)}}{398}{subsubsection*.102}%
+\contentsline {subsection}{6. 사법적 재량(Judicial Discretion)}{401}{subsection*.103}%
+\contentsline {subsection}{Postscript 제3판 주석}{407}{subsection*.104}%

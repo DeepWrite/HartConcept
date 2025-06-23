@@ -1,0 +1,104 @@
+\documentclass[12pt,oneside]{book}  % 글씨 크기 13pt
+
+% 언어 및 입력
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% 가독성 좋은 단행본용 서체 (Libertinus 또는 Palatino)
+\usepackage{libertinus}  % 또는: \usepackage[sc]{mathpazo}
+
+\linespread{1.25}  % 줄간격: 단행본용
+
+% 여백 설정 (A4, 단행본 스타일)
+\usepackage[b5paper, margin=1in]{geometry}
+
+% 수학 및 기호
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+
+% 표와 배열
+\usepackage{booktabs, tabularx}
+
+% 인용 및 각주
+\usepackage[notes, backend=biber]{biblatex-chicago}
+\addbibresource{attention.bib}
+\usepackage[flushmargin, hang]{footmisc}
+
+% 기타 기능
+\usepackage{csquotes}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\usepackage{etoolbox}
+\pretocmd{\section}{\clearpage}{}{}
+
+\usepackage{chngcntr}
+\counterwithin*{footnote}{section} % 섹션별 footnote 번호 새로 시작
+
+% 헤더와 푸터
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+% 자동 번호매기기 제거: 섹션/장 번호 숨기기
+\makeatletter
+\renewcommand{\@seccntformat}[1]{}
+\makeatother
+
+% 섹션 번호링 없음: chapter, section, subsection 모두 제목만 표시
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{2}
+
+% 문서 시작
+\title{The Concept of Law, Third Edition}
+\author{H. L. A. Hart}
+\date{}
+
+\begin{document}
+
+\begin{titlepage}
+  \centering
+  \vspace*{3cm}
+  {\Huge\textsc{The Concept of Law}}\\[1.5ex]
+  {\Large Third Edition}\\[4ex]
+  \textsc{H. L. A. Hart}\\[6ex]
+  \vfill
+\end{titlepage}
+
+% ==========================
+% 📚 본문 시작
+% ==========================
+\begin{document}
+
+\frontmatter
+\maketitle
+\input{sections/01_1961_PREFACE.tex}
+\input{sections/02_1994_Editors_Note.tex}
+\input{sections/03_2012_Third_Preface.tex}
+\input{sections/04_2012_INTRODUCTION.tex}
+
+\tableofcontents
+
+\clearpage
+
+\mainmatter
+\cleardoublepage
+\markboth{}{}
+
+\input{sections/chapter_1copy.tex}
+\input{sections/chapter_2.tex}
+\input{sections/chapter_3.tex}
+\input{sections/chapter_4.tex}
+\input{sections/chapter_5.tex}
+\input{sections/chapter_6.tex}
+\input{sections/chapter_7.tex}
+\input{sections/chapter_8.tex}
+\input{sections/chapter_9.tex}
+\input{sections/chapter_10.tex}
+\input{sections/chapter_11-POSTCSRIPT.tex}
+
+\clearpage
+\backmatter
+
+\end{document}
