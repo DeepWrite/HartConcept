@@ -1,7 +1,7 @@
 ---
 title: (2차시) 제1장 지속되는 질문들
 layout: home
-nav_order: 3
+nav_order: 4
 parent: 강의내용
 permalink: /lectures/lecture_02
 ---
