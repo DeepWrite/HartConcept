@@ -1,5 +1,5 @@
 ---
-title: 1차시 오리엔테이션
+title: (1차시) 오리엔테이션
 layout: home
 nav_order: 2
 parent: 강의내용
