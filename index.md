@@ -6,6 +6,14 @@ nav_order: 1
 permalink: /
 ---
 
+<div style="
+  background-image: url('/assets/images/hart_cover.png');
+  background-size: cover;
+  background-position: center;
+  padding: 100px;
+  color: white;
+  text-align: center;
+">
 <div style="display: flex; justify-content: center; align-items: center; height: 80vh; padding: 2rem;">
   <div style="max-width: 800px; font-family: 'KoPub Batang', 'KoPub Batang Medium', 'Nanum Myeongjo', serif; position: relative;">
     <div style="font-size: 2.8rem; line-height: 1; color: #aaa; position: absolute; left: -0.7rem; top: -1rem;">❝</div>
@@ -31,7 +39,7 @@ permalink: /
     </div>
   </div>
 </div>
-
+</div>
 
 
 
