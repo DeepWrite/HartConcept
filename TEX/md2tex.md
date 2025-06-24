@@ -58,3 +58,23 @@ pandoc /Users/jeyounson/HartConcept/TRANSLATIONS/CHAPTERS/FRONTMATTER/04_2012_IN
 ### 주석부분 \newpage
 
 
+### 한국어 강조부분 고딕체로 전환
+
+
+#### 또는 한국어만 애초에 변경(시도 안해 봤음)
+
+\\emph\{(?=[\uAC00-\uD7AF])
+
+를
+
+\\emphksans{
+
+로
+
+#### 맨 먼저 숫자가 오는 경우 한국어인지 확인하여 변경
+
+\\emph\{(?=\d)
+
+를
+
+\\emphksans{

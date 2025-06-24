@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.18)  24 JUN 2025 02:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.18)  24 JUN 2025 14:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2950,9 +2950,12 @@ ibertinusSerif-Regular.otf
 Requested font "[./KoPubWorldBatang Light.ttf]/OT:script=latn;language=dflt;map
 ping=tex-text;" at 7.0pt
  -> ./KoPubWorldBatang Light.ttf
-Requested font "[./KoPubWorldDotum Medium.ttf]/OT:script=latn;language=dflt;" a
-t 10.0pt
- -> ./KoPubWorldDotum Medium.ttf
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 99.
+Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+hv-k
+ern;+tnum;+lnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/L
+ibertinusSerif-Italic.otf
  [10] [11] [12] [13]
 
 LaTeX Font Warning: Font shape `TU/KoPubWorld(2)/b/n' undefined
@@ -2978,7 +2981,11 @@ LaTeX Font Warning: Font shape `TU/KoPubWorld(2)/b/sl' undefined
 (Font)              using `TU/KoPubWorld(2)/b/n' instead on input line 217.
 
 [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
+Requested font "[./KoPubWorldDotum Medium.ttf]/OT:script=latn;language=dflt;" a
+t 10.0pt
+ -> ./KoPubWorldDotum Medium.ttf
+ [41] [42] [43]
 [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
 LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
 (Font)              scaled to size 8.66669pt on input line 1564.
@@ -2989,10 +2996,15 @@ ibertinusMono-Regular.otf
 Requested font "[UnDotum.ttf]/OT:language=dflt;" at 10.0pt
  -> /usr/local/texlive/2024/texmf-dist/fonts/truetype/public/unfonts-core/UnDot
 um.ttf
-) [54] [55] [56]
+) [54] [55]
 (./main-b5-small.toc
 Overfull \hbox (2.77032pt too wide) detected at line 10
  \TU/LibertinusSerif(0)/m/n/10.95 xxiii
+ []
+
+
+Overfull \hbox (2.20093pt too wide) detected at line 13
+ \TU/LibertinusSerif(0)/m/n/10.95 xxix
  []
 
 
@@ -3000,13 +3012,13 @@ Overfull \hbox (0.18613pt too wide) detected at line 17
  \TU/LibertinusSerif(0)/m/n/10.95 xliii
  []
 
-[57
+[56
 
-] [58] [59])
+] [57] [58])
 \tf@toc=\write5
 \openout5 = `main-b5-small.toc'.
 
- [60] (./sections/chapter_1-translation.tex [1
+ [59] (./sections/chapter_1-translation.tex [1
 
 
 
@@ -3022,12 +3034,6 @@ ibertinusSerif-Bold.otf
 Requested font "[./KoPubWorldBatang Medium.ttf]/OT:script=latn;language=dflt;ma
 pping=tex-text;" at 10.0pt
  -> ./KoPubWorldBatang Medium.ttf
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 596.
-Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+hv-k
-ern;+tnum;+lnum;mapping=tex-text;" at 10.0pt
- -> /usr/local/texlive/2024/texmf-dist/fonts/opentype/public/libertinus-fonts/L
-ibertinusSerif-Italic.otf
  [19] [20]
 [21] [22] [23]) (./sections/chapter_2-translation.tex [24] [25
 
@@ -3232,4 +3238,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  116i,12n,152p,1158b,4449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main-b5-small.pdf (413 pages).
+Output written on main-b5-small.pdf (412 pages).

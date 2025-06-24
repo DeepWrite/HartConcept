@@ -10,7 +10,7 @@
 \contentsline {subsection}{3. 법과 권한 (LAW AND POWER)}{xxiii}{subsection*.9}%
 \contentsline {subsubsection}{(i) {\kopubhangul \kopublatin \textsl {법에서의 분업(The Division of Labour in Law)}}}{xxiii}{subsubsection*.10}%
 \contentsline {subsubsection}{(ii) {\kopubhangul \kopublatin \textsl {강제와 권한(Coercion and Power)}}}{xxvi}{subsubsection*.11}%
-\contentsline {subsection}{4. 법과 도덕 (LAW AND MORALITY)}{xxx}{subsection*.12}%
+\contentsline {subsection}{4. 법과 도덕 (LAW AND MORALITY)}{xxix}{subsection*.12}%
 \contentsline {subsubsection}{(i) {\kopubhangul \kopublatin \textsl {법의 목적 (Law's Purpose)}}}{xxxi}{subsubsection*.13}%
 \contentsline {subsubsection}{(ii) {\kopubhangul \kopublatin \textsl {법과 정의 (Law and Justice)}}}{xxxiii}{subsubsection*.14}%
 \contentsline {subsubsection}{(iii) {\kopubhangul \kopublatin \textsl {법적 유효성과 도덕 원칙 (Legal Validity and Moral Principles)}}}{xxxvi}{subsubsection*.15}%
