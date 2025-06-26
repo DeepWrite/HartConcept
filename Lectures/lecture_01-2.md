@@ -1,9 +1,9 @@
 ---
 title: (1차시) 오리엔테이션 - POSTSCRIPT 부분
 layout: home
-nav_order: 3
+nav_order: 102
 parent: 강의내용
-permalink: /lectures/lecture_01-2
+permalink: /lectures/lecture_1-02
 ---
 
 # 후기(POSTSCRIPT) 부분 참고

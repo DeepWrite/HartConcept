@@ -1,9 +1,9 @@
 ---
 title: (1차시) 오리엔테이션
 layout: home
-nav_order: 2
+nav_order: 101
 parent: 강의내용
-permalink: /lectures/lecture_01-1
+permalink: /lectures/lecture_1-01
 ---
 
 # 오리엔테이션

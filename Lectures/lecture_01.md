@@ -1,9 +1,9 @@
 ---
 title: Hart의 법철학
 layout: home
-nav_order: 1
+nav_order: 100
 parent: 강의내용
-permalink: /lectures/lecture_01
+permalink: /lectures/lecture_1-0
 ---
 
 # Hart의 법철학: 규범성과 자유의 구조를 찾아서
