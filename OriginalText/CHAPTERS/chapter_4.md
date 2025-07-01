@@ -1,10 +1,10 @@
-
-
-
-
-
-
-
+---
+title: IV. SOVEREIGN AND SUBJECT
+layout: home
+nav_order: 4
+parent: 강의자료-원문
+permalink: /book-original/chapter_04
+---
 
 # **IV SOVEREIGN AND SUBJECT**
 

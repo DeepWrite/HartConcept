@@ -1,10 +1,10 @@
-
-
-
-
-
-
-
+---
+title: III. THE VARIETY OF LAWS
+layout: home
+nav_order: 3
+parent: 강의자료-원문
+permalink: /book-original/chapter_03
+---
 
 # **III THE VARIETY OF LAWS**
 

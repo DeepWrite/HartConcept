@@ -1,10 +1,10 @@
-
-
-
-
-
-
-
+---
+title: II. LAWS, COMMANDS, AND ORDERS
+layout: home
+nav_order: 2
+parent: 강의자료-원문
+permalink: /book-original/chapter_02
+---
 
 # **II LAWS, COMMANDS, AND ORDERS**
 
