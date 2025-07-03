@@ -1,10 +1,10 @@
-
-
-
-
-
-
-
+---
+title: POSTSCRIPT
+layout: home
+nav_order: 11
+parent: 강의자료-원문
+permalink: /book-original/POSTSCRIPT
+---
 
 # **POSTSCRIPT**
 

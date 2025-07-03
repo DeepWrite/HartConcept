@@ -6,7 +6,7 @@ parent: 강의자료-원문
 permalink: /book-original/chapter_07
 ---
 
-# **VII FORMALISM AND RULE-SCEPTICISM**
+# **VII. FORMALISM AND RULE-SCEPTICISM**
 
 ## **1. THE OPEN TEXTURE OF LAW**
 

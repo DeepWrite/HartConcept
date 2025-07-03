@@ -1,12 +1,12 @@
+---
+title: IX. LAWS AND MORALS
+layout: home
+nav_order: 9
+parent: 강의자료-원문
+permalink: /book-original/chapter_09
+---
 
-
-
-
-
-
-
-
-# **IX LAWS AND MORALS**
+# **IX. LAWS AND MORALS**
 
 ## **1. NATURAL LAW AND LEGAL POSITIVISM**
 

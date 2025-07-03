@@ -1,12 +1,12 @@
+---
+title: X. INTERNATIONAL LAW
+layout: home
+nav_order: 10
+parent: 강의자료-원문
+permalink: /book-original/chapter_10
+---
 
-
-
-
-
-
-
-
-# **X INTERNATIONAL LAW**
+# **X. INTERNATIONAL LAW**
 
 ## **1. SOURCES OF DOUBT**
 

@@ -6,7 +6,7 @@ parent: 강의자료-원문
 permalink: /book-original/chapter_08
 ---
 
-# **VIII JUSTICE AND MORALITY**
+# **VIII. JUSTICE AND MORALITY**
 
 We have found it necessary, in order to elucidate features distinctive of law as a means of social control, to introduce elements which cannot be constructed out of the ideas of an order, a threat, obedience, habits, and generality. Too much that is characteristic of law is distorted by the effort to explain it in these simple terms. Thus we found it necessary to distinguish from the idea of a general habit that of a social rule, and to emphasize the internal aspect of rules manifested in their use as guiding and critical standards of conduct. We then distinguished among rules between primary rules of obligation and secondary rules of recognition, change, and adjudication. The main theme of this book is that so many of the distinctive operations of the law, and so many of the ideas which constitute the framework of legal thought, require for their elucidation reference to one or both of these two types of rule, that their union may be justly regarded as the 'essence' of law, though they may not always be found together wherever the word 'law' is correctly used. Our justification for assigning to the union of primary and secondary rules this central place is not that they will there do the work of a dictionary, but that they have great explanatory power.
 
