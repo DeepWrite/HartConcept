@@ -1,12 +1,12 @@
+---
+title: VI. THE FOUNDATIONS OF A LEGAL SYSTEM
+layout: home
+nav_order: 6
+parent: 강의자료-원문
+permalink: /book-original/chapter_06
+---
 
-
-
-
-
-
-
-
-# **VI THE FOUNDATIONS OF A LEGAL SYSTEM**
+# **VI. THE FOUNDATIONS OF A LEGAL SYSTEM**
 
 ## **1. RULE OF RECOGNITION AND LEGAL VALIDITY**
 
