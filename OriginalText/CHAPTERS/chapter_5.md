@@ -1,12 +1,12 @@
+---
+title: V. LAW AS THE UNION OF PRIMARY AND SECONDARY RULES
+layout: home
+nav_order: 5
+parent: 강의자료-원문
+permalink: /book-original/chapter_05
+---
 
-
-
-
-
-
-
-
-# **V LAW AS THE UNION OF PRIMARY AND SECONDARY RULES**
+# **V. LAW AS THE UNION OF PRIMARY AND SECONDARY RULES**
 
 ## **1. A FRESH START**
 

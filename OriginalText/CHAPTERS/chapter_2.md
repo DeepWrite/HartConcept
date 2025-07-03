@@ -6,7 +6,7 @@ parent: 강의자료-원문
 permalink: /book-original/chapter_02
 ---
 
-# **II LAWS, COMMANDS, AND ORDERS**
+# **II. LAWS, COMMANDS, AND ORDERS**
 
 ## **1. VARIETIES OF IMPERATIVES**
 

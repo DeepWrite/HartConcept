@@ -6,7 +6,7 @@ parent: 강의자료-원문
 permalink: /book-original/chapter_04
 ---
 
-# **IV SOVEREIGN AND SUBJECT**
+# **IV. SOVEREIGN AND SUBJECT**
 
 In criticizing the simple model of law as coercive orders we have so far raised no questions concerning the 'sovereign' person or persons whose general orders constitute, according to this conception, the law of any society. Indeed in discussing the adequacy of the idea of an order backed by threats as an account of the different varieties of law, we provisionally assumed that in any society where there is law, there actually is a sovereign, characterized affirmatively and negatively by reference to the habit of obedience: a person or body of persons whose orders the great majority of the society habitually obey and who does not habitually obey any other person or persons.
 
