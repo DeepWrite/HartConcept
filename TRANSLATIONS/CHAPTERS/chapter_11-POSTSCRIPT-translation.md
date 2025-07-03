@@ -1,5 +1,5 @@
 ---
-title: POSTSCRIPT 
+title: 후기(POSTSCRIPT) 
 layout: home
 nav_order: 11
 parent: 강의자료-번역
