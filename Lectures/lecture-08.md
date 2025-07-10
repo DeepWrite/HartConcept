@@ -254,7 +254,7 @@ Hart가 제8장에서 궁극적으로 옹호하고자 하는 **세 가지 핵심
 
 ## III. **논리적 흐름 요약: 상위 결론을 향한 구조**
 
-![논리적 흐름](/assets/images/waldron.png)
+<img src="/assets/images/waldron.png" alt="Site Logo" width="80" height="auto">
 
 ```mermaid
 graph TD
