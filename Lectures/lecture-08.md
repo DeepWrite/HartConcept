@@ -7,6 +7,12 @@ permalink: /lectures/lecture_9-01
 ---
 
 # 제8장 Justice and Morality 예비적 분석
+{: .no_toc }
+
+{: .toc }
+
+* TOC
+{:toc}
 
 ---
 
