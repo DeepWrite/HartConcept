@@ -7,6 +7,12 @@ permalink: /lectures/lecture_8-01
 ---
 
 # 제7장 분석 - 형식주의(formalism)와 규칙 회의주의(rule-scepticism)
+{: .no_toc }
+
+{: .toc }
+
+* TOC
+{:toc}
 
 ## 제7장 전체의 결론과 논리 구조
 
