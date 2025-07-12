@@ -1,12 +1,12 @@
 ---
-title: The Rule of Recognition 절 논증 구조
+title: 요약 (드워킨, TRS-RR, 39-45) The Rule of Recognition 절 논증 구조
 layout: home
-nav_order: 2
-parent: (번역) Model of Rules I 중 sec 5, 6 (in R. Dworkin, Taking Rights Seriously, ch. 2)
-permalink: /references/TRS-ch2-sec5-6-trans/sec6-ruleofrecognition-analysis
+nav_order: 22
+parent: 하트의 승인 규칙 비판 문헌
+permalink: /references/CriticsofRR/Dworkin-TRS-39-45
 ---
 
-# 법실증주의의 인식 규칙 이론과 원칙 개념의 충돌
+# (TRS-RR, 39-45) 법실증주의의 승인 규칙 이론과 원칙 개념의 충돌
 
 ## 요약
 

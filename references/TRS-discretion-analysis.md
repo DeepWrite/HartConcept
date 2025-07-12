@@ -1,12 +1,12 @@
 ---
-title: Discretion 절에 나타난 법실증주의 재량론 비판의 논증 구조
+title: (드워킨, TRS-DiscR, 31-39) TRS, Discretion 절에 나타난 법실증주의 재량론 비판의 논증 구조
 layout: home
-nav_order: 1
-parent: (번역) Model of Rules I 중 sec 5, 6 (in R. Dworkin, Taking Rights Seriously, ch. 2)
-permalink: /references/TRS-ch2-sec5-6-trans/sec5-discretion-analysis
+nav_order: 34
+parent: 주요 참고문헌
+permalink: /references/CriticsofDiscretion
 ---
 
-# 『Discretion』 절에 나타난 법실증주의 재량론 비판의 논증 구조
+# (TRS-DiscR, 31-39) 『Discretion』 절에 나타난 법실증주의 재량론 비판의 논증 구조
 
 ## 요약: 법적 재량 개념에 대한 철저한 해부: 규칙의 부재인가, 기준의 부재인가?
 
