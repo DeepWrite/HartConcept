@@ -1,7 +1,7 @@
 ---
 title: 요약 (드워킨, TRS-RR, 39-45) The Rule of Recognition 절 논증 구조
 layout: home
-nav_order: 22
+nav_order: 2
 parent: 하트의 승인 규칙 비판 문헌
 permalink: /references/CriticsofRR/Dworkin-TRS-39-45
 ---

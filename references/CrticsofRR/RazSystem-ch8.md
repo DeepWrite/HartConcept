@@ -1,7 +1,7 @@
 ---
 title: 요약 및 번역 (라즈) CLS, ch.8 승인규칙 비판 (특히, 197-200)
 layout: home
-nav_order: 20
+nav_order: 1
 parent: 하트의 승인 규칙 비판 문헌
 permalink: /references/CriticsofRR/raz-cls-ch8
 ---

@@ -1,17 +1,17 @@
 ---
-title: 번역 (드워킨, LE, 31-35) 하트의 승인 규칙을 의미론적 교리로 해석한 드워킨의 견해
+title: 번역 (드워킨, LE, 31-35) 하트의 승인 규칙을 의미론적 교리로 해석
 layout: home
-nav_order: 20
+nav_order: 3
 parent: 하트의 승인 규칙 비판 문헌
 permalink: /references/CriticsofRR/Dworkin-LE-31-35
 ---
 
-# 하트의 승인 규칙 개념에 대한 비판: 하트의 승인 규칙을 의미론적 교리로 해석한 드워킨의 견해
+# 하트의 승인 규칙을 의미론적 교리로 해석한 드워킨의 견해
 
 - Dworkin, *Law's Empire*   
 - *(p.31-35)*
 
-## 번역
+# 번역
 
 ## 법의 의미론적 이론들 (Semantic Theories of Law)
 
@@ -35,7 +35,7 @@ permalink: /references/CriticsofRR/Dworkin-LE-31-35
 
 ---
 
-## 원문
+# 원문
 
 ### SEMANTIC THEORIES OF LAW 
 
