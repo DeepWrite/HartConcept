@@ -160,3 +160,4 @@ A concept of law which allows the invalidity of law to be distinguished from its
 [^207-2]: Gray, *The Nature and Sources of the Law*, s. 213. 
 [^207-3]: Kelsen, *General Theory of Law and State*, p. 113. 
 [^208-1]: See the judgment of 27 July 1949, Oberlandesgericht Bamberg, 5 *Süddeutsche Juristen-Zeitung*, 207: discussed at length in H. L. A. Hart, 'Legal Positivism and the Separation of Law and Morals', in 71. *Harvard L. Rev.* (1958), 598, and in L. Fuller, 'Positivism and Fidelity to Law', ibid., p. 630. But note corrected account of this judgment below, pp. 303–4.
+
