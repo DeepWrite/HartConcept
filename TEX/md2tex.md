@@ -78,3 +78,8 @@ pandoc /Users/jeyounson/HartConcept/TRANSLATIONS/CHAPTERS/FRONTMATTER/04_2012_IN
 를
 
 \\emphksans{
+
+
+
+
+xelatex dignity-bio.tex                                                                                                                 
