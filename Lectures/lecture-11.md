@@ -69,7 +69,7 @@ permalink: /lectures/lecture_12-01
 
 ## 5. “법실증주의(legal positivism)도 해석주의(interpretivism)로 환원 가능하다” (O5)
 
-> *Dworkin: “Hart의 이론도 ‘판단(adjudication)의 일반부(general part)’로 재진술될 수 있다.”*
+> *Dworkin: “Hart의 이론도 ‘판단(adjudication)의 일반적 부분(general part)’으로 재진술될 수 있다.”*
 
 ### T5. **법실증주의는 해석주의에 환원될 수 없는 독립된 이론적 구조를 지닌다.**
 
@@ -80,7 +80,7 @@ permalink: /lectures/lecture_12-01
 
 ## Dworkin의 철회와 Hart의 반응
 
-* **Dworkin의 부분 철회**: ‘법이론은 곧 판단의 일반부’라는 주장은 **‘의미 문제(question of sense)’에만 해당**한다고 수정.
+* **Dworkin의 부분 철회**: ‘법이론은 곧 판단의 일반적 부분(general part)’이라는 주장은 **‘의미 문제(question of sense)’에만 해당**한다고 수정.
 * **Hart의 잔여 의문**: 그럼에도 Dworkin이 “의미 문제가 **법이론의 논의에서 매우 광범위하게(pervasive) 작용한다”고 경고한 바의 **구체적 함의가 불분명**하다고 지적.
 
 ---
@@ -122,7 +122,7 @@ Hart는 이 모든 쟁점에서 **법이론의 독립적 기술적 과업(descri
   * **A1-2** ‘개념(concept)’과 **‘개념 적용 기준’(criteria of application)**을 구분하면, 동일 개념 아래에서도 **다양한 ‘개념 구상’(conceptions)**이 존재할 수 있음을 설명할 수 있다. (하트가 *justice* 사례로 명시)
   * **A1-3** ‘법’의 의미 논의와 **‘법 명제’(propositions of law)의 진리 조건** 논의를 혼동한 Dworkin의 논증을 지적.
 
-### O2. “‘법의 근거’(grounds of law)에 대한 이견이 생기면 단어 ‘law’의 의미가 달라져 사람들이 서로 말을 엇갈린다”—이른바 **‘의미적 쏘임’(semantic sting)** 주장.
+### O2. “‘법의 근거’(grounds of law)에 대한 이견이 생기면 단어 ‘law’의 의미가 달라져 사람들이 서로 말을 엇갈린다”—이른바 **‘의미적 쏘임/의미론의 독침’(semantic sting)** 주장.
 
 * **T2.** ‘법’의 의미 불일치는 **필요조건이 아니며**, 개념은 동일하지만 **적용 기준은 논쟁적**일 수 있다.
 
