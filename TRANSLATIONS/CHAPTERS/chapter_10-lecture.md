@@ -7,6 +7,12 @@ permalink: /book-translation/chapter_10/001-Classification
 ---
 
 # 국제법의 유형과 10장에 등장하는 사례들
+{: .no_toc }
+
+{: .toc }
+
+* TOC
+{:toc}
 
 ## I. 국제법의 유형 - 국제법, 국제사법, 국제공법
 
