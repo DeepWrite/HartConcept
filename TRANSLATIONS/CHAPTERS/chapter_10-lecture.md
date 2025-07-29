@@ -6,7 +6,9 @@ parent: X. 국제법(INTERNATIONAL LAW)
 permalink: /book-translation/chapter_10/001-Classification
 ---
 
-# 국제법의 유형 - 국제법, 국제사법, 국제공법
+# I. 국제법의 유형과 10장에 등장하는 사례들
+
+## 국제법의 유형 - 국제법, 국제사법, 국제공법
 
 국제법(international law), 국제공법(public international law), 국제사법(**Conflict of Laws** / private international law)은 모두 국가 간 또는 국가와 개인 간의 법적 관계를 다루지만, 그 적용 범위와 규율 대상은 서로 다릅니다. 다음은 이들 개념의 구체적인 구별입니다:
 
@@ -64,7 +66,7 @@ permalink: /book-translation/chapter_10/001-Classification
 
 ---
 
-# 본문에 나오는 사례들의 유형별 구분
+## II. 본문에 나오는 사례들의 유형별 구분
 
 10장 2. 의무와 제제 절에는 **국제법**, **국제공법**, **국제사법**에 해당할 수 있는 구분적인 사례들이 포함되어 있습니다. 위의 기준에 따라 다음과 같이 구별할 수 있습니다:
 
@@ -114,4 +116,49 @@ permalink: /book-translation/chapter_10/001-Classification
 | 점령된 벨기에에서 어떤 법이 적용되는가                    | 국제공법             | 국가 권위, 점령 하 법 질서      |
 | 국제법이 구속력을 가질 수 있는가?                      | 국제법 일반 (법철학적 문제) | 법적 성격, 규범성에 대한 개념적 의문 |
 | 유엔 헌장의 제재 조항이 실질적이지 않음                   | 국제공법             | 국제기구의 제재력 문제          |
+
+---
+
+## (참고) 용어 **"Conflict of Laws"**
+
+**"Conflict of Laws"**는 영어권(특히 영미법 전통)에서 **국제사법(國際私法, Private International Law)**을 지칭하는 가장 일반적이고 널리 사용되는 표현입니다.
+
+---
+
+### ✅ 비교 정리
+
+| 표현                            | 의미                           | 사용 맥락                                      |
+| ----------------------------- | ---------------------------- | ------------------------------------------ |
+| **Conflict of Laws**          | 관할권 충돌, 준거법 결정 등 **국제사법 전반** | 주로 **영미법권 국가들**에서 사용되는 **일반적 명칭**          |
+| **Private International Law** | 국제적 사법관계에 적용되는 법 영역          | **대륙법계 국가들** (예: 독일, 프랑스, 한국 등)에서 일반적으로 사용 |
+| **Choice of Law**             | 어떤 국가의 법을 적용할 것인지 결정하는 과정    | **Conflict of Laws**의 **하위 개념**            |
+
+---
+
+### 🔍 설명
+
+* **"Conflict of Laws"**는 전통적으로 다음 세 가지 문제를 포함합니다:
+
+  1. **Jurisdiction**: 어느 나라 법원이 이 사건을 다룰 수 있는가?
+  2. **Choice of Law**: 어느 나라의 실체법을 적용할 것인가?
+  3. **Recognition and Enforcement of Foreign Judgments**: 외국 판결을 인정하고 집행할 것인가?
+
+* 이 모든 내용을 포괄하여 영미권에서는 **"Conflict of Laws"**라고 부릅니다.
+
+---
+
+### 📌 예문
+
+* *Conflict of laws is a branch of law that resolves legal disputes involving foreign elements, such as contracts or marriages between parties from different countries.*
+* *In continental Europe, this field is known as private international law, whereas in the common law world, it is usually called conflict of laws.*
+
+---
+
+### 📝 요약
+
+> ✅ **"Conflict of Laws" = 국제사법**
+> (특히 영미권 일반적 명칭)
+>
+> ✅ "Private International Law"도 같은 의미이지만, 대륙법계에서 선호됨.
+
 
