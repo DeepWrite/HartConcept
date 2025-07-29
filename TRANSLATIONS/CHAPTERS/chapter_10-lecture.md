@@ -8,7 +8,7 @@ permalink: /book-translation/chapter_10/001-Classification
 
 # 국제법의 유형 - 국제법, 국제사법, 국제공법
 
-국제법(international law), 국제공법(public international law), 국제사법(private international law)은 모두 국가 간 또는 국가와 개인 간의 법적 관계를 다루지만, 그 적용 범위와 규율 대상은 서로 다릅니다. 다음은 이들 개념의 구체적인 구별입니다:
+국제법(international law), 국제공법(public international law), 국제사법(**Conflict of Laws** / private international law)은 모두 국가 간 또는 국가와 개인 간의 법적 관계를 다루지만, 그 적용 범위와 규율 대상은 서로 다릅니다. 다음은 이들 개념의 구체적인 구별입니다:
 
 ---
 
