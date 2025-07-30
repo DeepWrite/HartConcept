@@ -32,6 +32,10 @@ permalink: /
   </div>
 </div>
 
+<br>
 
+<img src="/assets/images/everybody2.png" width="100%" height="auto">
+
+<br>
 
 
