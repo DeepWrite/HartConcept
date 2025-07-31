@@ -34,7 +34,7 @@ permalink: /
 
 <br>
 
-<img src="/assets/images/everybody2.png" width="100%" height="auto">
+<img src="{{site.baseurl}}/assets/images/everybody2.png" width="100%" height="auto">
 
 <br>
 
