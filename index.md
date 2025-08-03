@@ -8,10 +8,6 @@ permalink: /
 
 <br>
 
-<img src="{{site.baseurl}}/assets/images/everybody2.png" width="100%" height="auto">
-
-<br>
-
 <div style="display: flex; justify-content: center; align-items: center; height: 80vh; padding: 2rem;">
   <div style="max-width: 800px; font-family: 'KoPub Batang', 'KoPub Batang Medium', 'Nanum Myeongjo', serif; position: relative;">
     <div style="font-size: 2.8rem; line-height: 1; color: #aaa; position: absolute; left: -0.7rem; top: -1rem;">❝</div>
@@ -38,5 +34,10 @@ permalink: /
   </div>
 </div>
 
+<br>
+
+<img src="{{site.baseurl}}/assets/images/everybody2.png" width="100%" height="auto">
+
+<br>
 
 
