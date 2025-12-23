@@ -69,7 +69,7 @@
 \contentsline {subsection}{1. 정의의 원칙들 (Principles of Justice)}{221}{subsection*.69}%
 \contentsline {subsection}{2. 도덕적 의무(Moral Obligation)와 법적 의무(Legal Obligation)}{232}{subsection*.70}%
 \contentsline {subsection}{3. 도덕 이상(Moral Ideals)과 사회적 비판(Social Criticism)}{246}{subsection*.71}%
-\contentsline {subsection}{CHAPTER VIII 주석}{251}{subsection*.72}%
+\contentsline {subsection}{CHAPTER VIII 주석}{250}{subsection*.72}%
 \contentsline {subsection}{CHAPTER VIII 제3판 주석}{254}{subsection*.73}%
 \contentsline {section}{IX. 법과 도덕 (Laws and Morals)}{257}{section*.74}%
 \contentsline {subsection}{1. 자연법과 법실증주의 (Natural Law and Legal Positivism)}{257}{subsection*.75}%
