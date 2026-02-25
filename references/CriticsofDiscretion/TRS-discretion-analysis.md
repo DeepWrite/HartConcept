@@ -3,7 +3,7 @@ title: (드워킨, TRS-DiscR, 31-39) TRS, Discretion 절에 나타난 법실증�
 layout: home
 nav_order: 1
 parent: 재량(discretion) 개념 비판 문헌
-permalink: /references/CriticsofDiscretion
+permalink: /references/CriticsofDiscretion/TRS-DiscR_31-39
 ---
 
 # (TRS-DiscR, 31-39) 『Discretion』 절에 나타난 법실증주의 재량론 비판의 논증 구조
