@@ -16,3 +16,8 @@ vendor/
 
 # macOS
 .DS_Store
+
+# Private workflow surfaces now live in source-library.
+/archive/
+/qmd/
+/scripts/

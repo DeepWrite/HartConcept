@@ -96,3 +96,17 @@ The task is now:
 - reuse the Hart lineage deliberately
 - compress or adapt the current syllabus anchor for the 2026 summer portal
   entry
+
+## 2026-06-02 addendum
+
+The active 2026 summer work surface is now the source-library teaching export:
+
+`/Users/jeyounson/GithubRepo/source-library/exports/teaching/hart-concept-2026-summer/`
+
+This addendum supersedes the earlier Jekyll-only framing. Keep `HartConcept` as
+the public Pages release surface for finished class-facing snapshots, including
+temporary original/translation access during the course window. Keep correction
+registers, QMD production notes, master Markdown edits, and B5 production work
+in `source-library`. The third Korean translation version has a print-ready
+target of 2026-06-17, before the blocked 2026-06-18--2026-06-21 period and the
+2026-06-24 course start.

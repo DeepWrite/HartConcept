@@ -1,3 +1,27 @@
+## 2026 여름 작업 원칙
+
+세 번째 번역본의 저자 수정 원문은
+`source-library` packet 안의 Markdown이다.
+
+`/Users/jeyounson/GithubRepo/source-library/sources/inbox/hart-concept-law-2026-06-02/source-surfaces/translation/CHAPTERS/`
+
+`HartConcept/TRANSLATIONS/`는 수업 중 공개할 수 있는 release snapshot이지
+B5 번역본의 working master text가 아니다.
+
+아래 명령들은 기존 수작업 변환 기록으로 보존한다. 새 작업에서는 먼저
+Markdown 원문을 고치고, 저장소 루트에서 다음 스크립트로 변환 대상을
+확인한 뒤 TeX section을 재생성한다.
+
+```bash
+/Users/jeyounson/GithubRepo/source-library/exports/teaching/hart-concept-2026-summer/workflow/build_translation_tex_from_md.sh --dry-run
+/Users/jeyounson/GithubRepo/source-library/exports/teaching/hart-concept-2026-summer/workflow/build_translation_tex_from_md.sh --write
+```
+
+TeX 파일은 인쇄 산출층이다. 번역 문장 수정은 TeX에 직접 넣지 말고
+source-library Markdown 원문에 반영한 뒤 변환한다. 조판이나 빌드 문제로
+TeX를 고쳤다면 같은 텍스트 변경을 source-library Markdown에도 되돌려
+반영한다.
+
 ## 영문섹션
 
 ### 진입
