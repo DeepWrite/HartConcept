@@ -27,20 +27,29 @@
   {\kopubhangul\kopublatin\textsl{#1}}%
 }
 
+\newcommand{\notetitle}[1]{%
+  {\kopubhangul\kopublatin #1}%
+}
+
+\newcommand{\noteentry}{%
+  \par\addvspace{0.35\baselineskip}\noindent
+}
+
 % --- Page Geometry: A4 with wide margins for print readability ---
 \usepackage[b5paper, margin=1in]{geometry}
 
 % --- Line Spacing ---
 \usepackage{setspace}
 \setstretch{1.45}
+\hyphenation{theory}
 
 % --- Section Formatting: Disable numbering ---
 \usepackage{titlesec}
 \setcounter{secnumdepth}{0}
 \setcounter{tocdepth}{2} % 목차 수준
 
-\usepackage{chngcntr}
-\counterwithin*{footnote}{section} % 섹션별 footnote 번호 새로 시작
+% Footnotes reset only at each chapter input below.
+% Do not reset by section/subsection: the Postscript must run 1--75.
 
 \titleformat{\chapter}[display]
   {\normalfont\Huge\bfseries}
@@ -56,10 +65,12 @@
 \pretocmd{\section}{\clearpage}{}{}
 
 % --- Math and Tables ---
-\usepackage{amsmath, amssymb, amsthm, mathtools}
+\usepackage{amsmath, amsthm, mathtools}
 \usepackage{graphicx}
 \usepackage{enumitem}
-\usepackage{tabularx, booktabs}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{tabularx, booktabs, longtable}
 \usepackage{footmisc}
 
 % --- Quotes, Hyperlink, Header/Footer ---
@@ -70,11 +81,6 @@
 \fancyhf{}
 \fancyfoot[C]{\thepage}
 \setlength{\headheight}{15pt}
-
-% --- Bibliography (biblatex) ---
-\usepackage[style=verbose-note, backend=biber, maxbibnames=99]{biblatex}
-\addbibresource{references.bib}
-\AtEveryBibitem{\clearfield{pages}}
 
 % --- Title Info ---
 \title{\Huge\textsc{The Concept of Law} \\[2ex] \Large Third Edition}
@@ -90,15 +96,10 @@
   {\Huge\bfseries\textsc{법의 개념}}\\[1.5ex]
   {\Large 제3판}\\[4ex]
   \textsc{H. L. A. Hart}\\[6ex]
-  {\small 2025 WINTER 강의용 한국어판\\
+  {\small 2026 SUMMER 강의용 한국어판\\
   강좌 외의 사용을 불허함}
   \vfill
 \end{titlepage}
-
-% ==========================
-% 📚 본문 시작
-% ==========================
-\begin{document}
 
 \small
 

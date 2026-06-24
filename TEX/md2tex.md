@@ -74,12 +74,46 @@ pandoc /Users/jeyounson/HartConcept/TRANSLATIONS/CHAPTERS/FRONTMATTER/03_2012_Th
 
 pandoc /Users/jeyounson/HartConcept/TRANSLATIONS/CHAPTERS/FRONTMATTER/04_2012_INTRODUCTION.md -o /Users/jeyounson/HartConcept/TEX/trans-chapters/sections/04_2012_INTRODUCTION-translation.tex
 
-### 마지막 FOOTNOTE 헤더 삭제
+### footnote 정의 블록 헤더 삭제
+
+`## 제1장 각주`, `## Leslie Green 서론 각주`처럼 내용 없이 제목만 남는
+표제는 원문의 `FOOTNOTES CHAPTER ...`에 해당한다. 이 표제들은 페이지 하단
+footnote 정의 블록의 내부 헤더이므로 B5 PDF에는 출력하지 않는다.
+`제n장 주석` 및 `제n장 제3판 주석`은 독자가 읽는 장말 주석 표제이므로
+유지한다.
 
 ### 따옴표 앞부분 변환
-`  
+
+한국어가 포함된 따옴표는 TeX 산출물에서도 유니코드 곡선 따옴표로 둔다.
+홑따옴표는 `‘ ’`, 겹따옴표는 `“ ”`를 사용한다. 현재 XeLaTeX/KoPubWorld
+조합에서는 TeX식 ASCII 홑따옴표(`...')가 실제 PDF에서 grave/apostrophe
+모양으로 남을 수 있으므로, 한국어 용어와 문장은 TeX식 백틱/아포스트로피
+관행에 맡기지 않는다. 영문 전용 quote와 영어 소유격/축약형 아포스트로피는
+기계 변환하지 않는다.
+
+예:
+
+```tex
+`법(law)이란 무엇인가?'
+``입법자의 의도''
+```
+
+Pandoc 산출 뒤에도 한국어가 포함된 straight quote 쌍이나 TeX식 quote 쌍이
+남으면 B5 후처리에서 유니코드 곡선 따옴표로 보정한다. 유니코드 따옴표
+(`‘ ’`, `“ ”`, `「 」`)가 의도적으로 들어간 경우에는 그대로 둔다.
 
 ### 주석부분 \newpage
+
+장별 주석 및 제3판 주석은 원본처럼 새 페이지에서 시작하고 본문보다 작은
+폰트로 둔다. 각 주석 항목은 목록 들여쓰기 없이 보통 문단으로 놓으며,
+페이지 표지는 강조하지 않고, 주석 제목 어절만 Markdown 강조로 표시한다.
+제목은 마침표로 닫고 설명 본문은 보통체로 이어간다. Markdown 권장형은
+`185쪽. *자연법(Natural Law).* 본문...`이다. 제목 없는 편집 메모는
+`272쪽. [메모...]`처럼 쪽수로 시작하는 보통 문단으로 둔다.
+
+B5 TeX 후처리는 쪽수 시작줄 앞에 미세한 줄간격을 넣고 들여쓰기를 제거한다.
+제목 강조는 이탤릭이 아니라 `\notetitle{}` 고딕 처리로 바꾸며, 한국어와
+영문 제목 모두 같은 방식으로 처리한다.
 
 
 ### 한국어 강조부분 고딕체로 전환

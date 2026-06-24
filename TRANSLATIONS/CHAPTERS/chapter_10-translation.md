@@ -60,7 +60,7 @@ permalink: /book-translation/chapter_10
 
 셋째, 사실들이 있다. 우리는 방금 비판한 *선험적* 주장, 곧 국가들은 자기부과적 의무들에 의해서만 구속될 수 ‘*있다*’는 주장과, 국가들이 다른 체계 아래에서는 다른 방식들로 구속될 수 있었더라도 사실상 현행 국제법 규칙들 아래에서는 국가들을 위한 다른 어떤 의무 형식도 존재하지 않는다는 주장을 구별해야 한다. 물론 그 **(p. 226)** 체계가 이 완전히 합의적인(consensual) 형식의 것일 수도 있으며, 그 성격에 관한 이 견해의 단언들과 부인들은 법리학자들의 저술, 판사들의 의견, 심지어 국제법원들의 의견, 그리고 국가들의 선언들에서 발견된다. 오직 국가들의 실제 실천에 대한 냉정한 조사만이 이 견해가 옳은지 아닌지를 보여 줄 수 있다. 현대 국제법이 매우 큰 부분에서 조약법이라는 점은 참이며, 국가들의 사전 동의 없이도 국가들에게 구속력 있는 것으로 보이는 규칙들이 실제로는 동의에 기초해 있다는 것을 보이려는 정교한 시도들이 이루어져 왔다. 다만 이 동의는 오직 ‘묵시적으로(tacitly)’ 주어진 것이거나 ‘추론되어야’ 하는 것일 수 있다. 모두가 허구인 것은 아니지만, 국제적 의무의 형식들을 하나로 환원하려는 이 시도들 중 적어도 일부는, 우리가 보았듯이 국내법의 유사하지만 더 명백히 허위적인 단순화를 수행하도록 설계된 ‘묵시적 명령’이라는 관념(notion)과 같은 의심을 불러일으킨다.
 
-모든 국제적 의무가 구속되는 당사자의 동의에서 생겨난다는 주장에 대한 상세한 검토는 여기서 수행할 수 없지만, 이 교설에 대한 두 가지 명료하고 중요한 예외들은 주목되어야 한다. 첫째는 신생국가의 경우이다. 1932년의 이라크와 1948년의 이스라엘처럼 새롭고 독립적인 국가가 존재로 출현할 때, 그 국가는 그중에서도 조약들에 구속력을 부여하는 규칙들을 포함한 국제법의 일반 의무들에 구속된다는 점은 결코 의문시된 적이 없다. 여기서 신생국가의 국제적 의무들을 ‘묵시적’ 또는 ‘추론된’ 동의에 기초시키려는 시도는 완전히 빈약해 보인다. 둘째는 국가가 영토를 획득하거나 어떤 다른 변화를 겪고, 그 변화가 이전에는 그 국가가 준수하거나 위반할 기회도 없었고 동의를 주거나 보류할 계기도 없었던 규칙들 아래에서 처음으로 의무들의 귀속(incidence)을 가져오는 경우이다. 이전에 바다에 접근할 수 없던 국가가 해양 영토를 획득한다면, 이것이 그 국가를 영해와 공해에 관한 국제법의 모든 규칙들의 수범자로 만들기에 충분하다는 점은 분명하다. 이 밖에도 주로 일반 조약이나 다자 조약들이 비당사자들에게 미치는 효과와 관련된 더 논쟁적인 사례들이 있다. 그러나 이 두 중요한 예외들만으로도, 모든 국제적 의무가 자기부과적이라는 일반 이론이 사실들에 대한 존중은 너무 적고 추상적 독단에 지나치게 이끌려 왔다는 의심은 정당화하기에 충분하다.
+모든 국제적 의무가 구속되는 당사자의 동의에서 생겨난다는 주장에 대한 상세한 검토는 여기서 수행할 수 없지만, 이 교설에 대한 두 가지 명료하고 중요한 예외들은 주목되어야 한다. 첫째는 신생국가의 경우이다. 1932년의 이라크와 1948년의 이스라엘처럼 새롭고 독립적인 국가가 존재로 출현할 때, 그 국가는 그중에서도 조약들에 구속력을 부여하는 규칙들을 포함한 국제법의 일반 의무들에 구속된다는 점은 결코 의문시된 적이 없다. 여기서 신생국가의 국제적 의무들을 ‘묵시적’ 또는 ‘추론된’ 동의에 기초시키려는 시도는 완전히 빈약해 보인다. 둘째는 국가가 영토를 획득하거나 어떤 다른 변화를 겪고, 그 변화가 이전에는 그 국가가 준수하거나 위반할 기회도 없었고 동의를 주거나 보류할 계기도 없었던 규칙들 아래에서 처음으로 의무들의 귀속양상(incidence)을 가져오는 경우이다. 이전에 바다에 접근할 수 없던 국가가 해양 영토를 획득한다면, 이것이 그 국가를 영해와 공해에 관한 국제법의 모든 규칙들의 수범자로 만들기에 충분하다는 점은 분명하다. 이 밖에도 주로 일반 조약이나 다자 조약들이 비당사자들에게 미치는 효과와 관련된 더 논쟁적인 사례들이 있다. 그러나 이 두 중요한 예외들만으로도, 모든 국제적 의무가 자기부과적이라는 일반 이론이 사실들에 대한 존중은 너무 적고 추상적 독단에 지나치게 이끌려 왔다는 의심은 정당화하기에 충분하다.
 
 ## 4. 국제법과 도덕 (INTERNATIONAL LAW AND MORALITY)
 
@@ -104,48 +104,46 @@ permalink: /book-translation/chapter_10
 
 ## 제10장 주석
 
-*214쪽.* *‘국제법은 정말 법인가?’* — 이것이 단지 사실문제로 오인된 언어적 질문에 불과하다는 견해는 Glanville Williams, 앞서 인용, *22 BYBIL* (1945)을 참조하라.
+214쪽. *‘국제법은 정말 법인가?’* — 이것이 단지 사실문제로 오인된 언어적 질문에 불과하다는 견해는 Glanville Williams, 앞서 인용, *22 BYBIL* (1945)을 참조하라.
 
-*215쪽.* *의문의 원천들(Sources of doubt).* — 건설적인 일반적 개관으로는 A. H. Campbell, ‘International Law and the Student of Jurisprudence’ in *35 Grotius Society Proceedings* (1950); Gihl, ‘The Legal Character and Sources of International Law’ in *Scandinavian Studies in Law* (1957)을 참조하라.
+215쪽. *의문의 원천들(Sources of doubt).* — 건설적인 일반적 개관으로는 A. H. Campbell, ‘International Law and the Student of Jurisprudence’ in *35 Grotius Society Proceedings* (1950); Gihl, ‘The Legal Character and Sources of International Law’ in *Scandinavian Studies in Law* (1957)을 참조하라.
 
-*216쪽.* *‘국제법은 어떻게 구속력 있을 수 있는가?’* — 이 질문(때로는 국제법의 구속력(binding force)의 문제로 지칭됨)은 Fischer Williams, *Chapters on Current International Law*, pp. 11–27; Brierly, *The Law of Nations*, 제5판 (1955), 제2장; *The Basis of Obligation in International Law* (1958), 제1장에서 제기된다. 또한 Fitzmaurice, ‘The Foundations of the Authority of International Law and the Problem of Enforcement’ in *19 MLR* (1956)을 참조하라. 이 저자들은 규칙들의 체계가 구속력 있다(또는 구속력 있지 않다)는 단언의 의미를 명시적으로 논의하지 않는다.
+216쪽. *‘국제법은 어떻게 구속력 있을 수 있는가?’* — 이 질문(때로는 국제법의 구속력(binding force)의 문제로 지칭됨)은 Fischer Williams, *Chapters on Current International Law*, pp. 11–27; Brierly, *The Law of Nations*, 제5판 (1955), 제2장; *The Basis of Obligation in International Law* (1958), 제1장에서 제기된다. 또한 Fitzmaurice, ‘The Foundations of the Authority of International Law and the Problem of Enforcement’ in *19 MLR* (1956)을 참조하라. 이 저자들은 규칙들의 체계가 구속력 있다(또는 구속력 있지 않다)는 단언의 의미를 명시적으로 논의하지 않는다.
 
-*217쪽.* *국제법에서의 제재(Sanctions).* — 국제연맹 규약(League of Nations Covenant) 제16조 하에서의 상황은 Fischer Williams, ‘Sanctions under the Covenant’ in *17 BYBIL* (1936)을 참조하라. 유엔 헌장 제7장 하에서의 제재에 관해서는 Kelsen, ‘Sanctions in International Law under the Charter of U.N.’, *31 Iowa LR* (1946), 그리고 Tucker, ‘The Interpretation of War under present International Law’, *4 The International Law Quarterly* (1951)을 참조하라. 한국전쟁에 대해서는 Stone, *Legal Controls of International Conflict* (1954), 제9장, 담론 14(Discourse 14)를 참조하라. ‘평화를 위한 단결(유엔총회 결의)’이 유엔이 ‘마비되었다(paralyzed)’는 주장을 반박하는 것이라는 해석도 가능하다.
+217쪽. *국제법에서의 제재(Sanctions).* — 국제연맹 규약(League of Nations Covenant) 제16조 하에서의 상황은 Fischer Williams, ‘Sanctions under the Covenant’ in *17 BYBIL* (1936)을 참조하라. 유엔 헌장 제7장 하에서의 제재에 관해서는 Kelsen, ‘Sanctions in International Law under the Charter of U.N.’, *31 Iowa LR* (1946), 그리고 Tucker, ‘The Interpretation of War under present International Law’, *4 The International Law Quarterly* (1951)을 참조하라. 한국전쟁에 대해서는 Stone, *Legal Controls of International Conflict* (1954), 제9장, 담론 14(Discourse 14)를 참조하라. ‘평화를 위한 단결(유엔총회 결의)’이 유엔이 ‘마비되었다(paralyzed)’는 주장을 반박하는 것이라는 해석도 가능하다.
 
-*220쪽.* *의무적인 것으로 생각되고 말해지는 국제법.* — Jessup, *A Modern Law of Nations*, 제1장, 그리고 ‘The Reality of International Law’, *118 Foreign Affairs* (1940)을 참조하라.
+220쪽. *의무적인 것으로 생각되고 말해지는 국제법.* — Jessup, *A Modern Law of Nations*, 제1장, 그리고 ‘The Reality of International Law’, *118 Foreign Affairs* (1940)을 참조하라.
 
-*220쪽.* *국가들의 주권(The Sovereignty of States).* — ‘주권은 단지 국제 영역 중 법에 의해 국가들의 개별 행위에 남겨진 만큼에 부여된 이름일 뿐이다’라는 견해에 대한 명료한 설명은 Fischer Williams, 앞서 인용, pp. 10–11, 285–99, *Aspects of Modern International Law*, pp. 24–26, 그리고 Van Kleffens, ‘Sovereignty and International Law’, *Recueil des Cours* (1953), I, pp. 82–83을 참조하라.
+220쪽. *국가들의 주권(The Sovereignty of States).* — ‘주권은 단지 국제 영역 중 법에 의해 국가들의 개별 행위에 남겨진 만큼에 부여된 이름일 뿐이다’라는 견해에 대한 명료한 설명은 Fischer Williams, 앞서 인용, pp. 10–11, 285–99, *Aspects of Modern International Law*, pp. 24–26, 그리고 Van Kleffens, ‘Sovereignty and International Law’, *Recueil des Cours* (1953), I, pp. 82–83을 참조하라.
 
-*221쪽.* *국가(The State).* — ‘국가(state)’라는 관념(notion)과 종속국가들(dependent states)의 유형에 대해서는 Brierly, *The Law of Nations*, 제4장을 참조하라.
+221쪽. *국가(The State).* — ‘국가(state)’라는 관념(notion)과 종속국가들(dependent states)의 유형에 대해서는 Brierly, *The Law of Nations*, 제4장을 참조하라.
 
-*224쪽.* *의사주의(voluntarist) 및 자기제한(auto-limitation) 이론들.* — 주요 저자들로는 Jellinek, *Die Rechtliche Natur der Staatsverträge*; Triepel, ‘Les Rapports entre le droit interne et le droit internationale’, *Recueil des Cours* (1923)이 있다. 극단적인 견해는 Zorn, *Grundzüge des Völkerrechts*에 나타나며, 이에 대한 비판적 논의는 Gihl, 앞서 인용, *Scandinavian Studies in Law* (1957); Starke, *An Introduction to International Law*, 제1장; Fischer Williams, *Chapters on Current International Law*, pp. 11–16을 참조하라.
+224쪽. *의사주의(voluntarist) 및 자기제한(auto-limitation) 이론들.* — 주요 저자들로는 Jellinek, *Die Rechtliche Natur der Staatsverträge*; Triepel, ‘Les Rapports entre le droit interne et le droit internationale’, *Recueil des Cours* (1923)이 있다. 극단적인 견해는 Zorn, *Grundzüge des Völkerrechts*에 나타나며, 이에 대한 비판적 논의는 Gihl, 앞서 인용, *Scandinavian Studies in Law* (1957); Starke, *An Introduction to International Law*, 제1장; Fischer Williams, *Chapters on Current International Law*, pp. 11–16을 참조하라.
 
-*224쪽.* *의무(obligation)와 동의(consent).* — 어떤 국제법 규칙도 한 국가의 사전 동의, 명시적이든 묵시적이든 그러한 동의 없이는 그 국가에 구속력 있지 않다는 견해는 영국 법원들에서 표현되었으며(*R.* v. *Keyn* 1876, 2 Ex. Div. 63, ‘The Franconia’ 사건 참조), 상설국제사법재판소에서도 표현되었다. 이에 관해서는 *The Lotus*, PCIJ Series A, No. 10을 참조하라.
+224쪽. *의무(obligation)와 동의(consent).* — 어떤 국제법 규칙도 한 국가의 사전 동의, 명시적이든 묵시적이든 그러한 동의 없이는 그 국가에 구속력 있지 않다는 견해는 영국 법원들에서 표현되었으며(*R.* v. *Keyn* 1876, 2 Ex. Div. 63, ‘The Franconia’ 사건 참조), 상설국제사법재판소에서도 표현되었다. 이에 관해서는 *The Lotus*, PCIJ Series A, No. 10을 참조하라.
 
-*226쪽.* *신생국 및 해양영역을 획득한 국가들.* — 이에 대해서는 Kelsen, *Principles of International Law*, pp. 312–13을 참조하라.
+226쪽. *신생국 및 해양영역을 획득한 국가들.* — 이에 대해서는 Kelsen, *Principles of International Law*, pp. 312–13을 참조하라.
 
-*226쪽.* *비당사자들(non-parties)에 대한 일반 국제조약들의 효과.* — 이에 대해서는 Kelsen, 앞서 인용, pp. 345 ff.; Starke, 앞서 인용, 제1장; Brierly, 앞서 인용, 제7장, pp. 251–2를 참조하라.
+226쪽. *비당사자들(non-parties)에 대한 일반 국제조약들의 효과.* — 이에 대해서는 Kelsen, 앞서 인용, pp. 345 ff.; Starke, 앞서 인용, 제1장; Brierly, 앞서 인용, 제7장, pp. 251–2를 참조하라.
 
-*227쪽.* *‘도덕(morality)’이라는 용어의 포괄적 사용.* — 이에 대해서는 Austin, *The Province* 제5강(Lecture V), pp. 125–9, 141–2에서 ‘실정 도덕(positive morality)’에 관한 논의를 참조하라.
+227쪽. *‘도덕(morality)’이라는 용어의 포괄적 사용.* — 이에 대해서는 Austin, *The Province* 제5강(Lecture V), pp. 125–9, 141–2에서 ‘실정 도덕(positive morality)’에 관한 논의를 참조하라.
 
-*230쪽.* *국제법에 복종할 도덕적 의무(moral obligation).* — 이것이 국제법의 ‘토대(the foundation)’라고 보는 견해는 Lauterpacht, Brierly의 *The Basis of Obligation in International Law* 서문(xviii), 그리고 Brierly, 같은 책 제1장을 참조하라.
+230쪽. *국제법에 복종할 도덕적 의무(moral obligation).* — 이것이 국제법의 ‘토대(the foundation)’라고 보는 견해는 Lauterpacht, Brierly의 *The Basis of Obligation in International Law* 서문(xviii), 그리고 Brierly, 같은 책 제1장을 참조하라.
 
-*232쪽.* *힘에 의해 부과된 조약을 입법으로 보는 것.* — 이에 대해서는 Scott, ‘The Legal Nature of International Law’, *American Journal of International Law* (1907), pp. 837, 862–4를 참조하라. 일반 조약들을 ‘국제 입법(international legislation)’이라고 부르는 통상적 서술에 대한 비판은 Jennings, ‘The Progressive Development of International Law and its Codification’, *24 BYBIL* (1947), p. 303에서 확인할 수 있다.
+232쪽. *힘에 의해 부과된 조약을 입법으로 보는 것.* — 이에 대해서는 Scott, ‘The Legal Nature of International Law’, *American Journal of International Law* (1907), pp. 837, 862–4를 참조하라. 일반 조약들을 ‘국제 입법(international legislation)’이라고 부르는 통상적 서술에 대한 비판은 Jennings, ‘The Progressive Development of International Law and its Codification’, *24 BYBIL* (1947), p. 303에서 확인할 수 있다.
 
-*233쪽.* *탈중심화된 제재들(decentralized sanctions).* — 이에 대해서는 Kelsen, 앞서 인용, p. 20; Tucker, 앞서 인용, *4 International Law Quarterly* (1951)을 참조하라.
+233쪽. *탈중심화된 제재들(decentralized sanctions).* — 이에 대해서는 Kelsen, 앞서 인용, p. 20; Tucker, 앞서 인용, *4 International Law Quarterly* (1951)을 참조하라.
 
-*233쪽.* *국제법의 기초규범(basic norm).* — 이를 *pacta sunt servanda*로 공식화한 논의는 Anzilotti, *Corso di diritto internazionale* (1923), p. 40을 참조하라. 이를 ‘국가들은 자신들이 관습적으로 행위해 온 대로 행위해야 한다’는 식으로 대체하려는 논의는 Kelsen, *General Theory*, p. 369, 그리고 *Principles of International Law*, p. 418을 참조하라. 이에 대한 중요한 비판적 논의는 Gihl, *International Legislation* (1937) 및 *Scandinavian Studies in Law* (1957), pp. 62 ff.에 있다. 국제법에 기초규범이 없다는 해석을 보다 충분히 전개한 논의로는 Ago, ‘Positive Law and International Law’, *51 American Journal of International Law* (1957), *Scienza giuridica e diritto internazionale* (1958)을 참조하라. Gihl은 국제사법재판소 규정 제38조에도 불구하고 국제법은 법의 형식적 원천들을 갖지 않는다고 결론짓는다. 국제법에 대해 하나의 ‘초기 가설(initial hypothesis)’을 정식화하려는 시도로서, 본문에서 제기된 것과 유사한 비판들에 열려 있는 것으로 보이는 견해는 Lauterpacht, *The Future of Law in the International Community*, pp. 420–3을 참조하라.
+233쪽. *국제법의 기초규범(basic norm).* — 이를 *pacta sunt servanda*로 공식화한 논의는 Anzilotti, *Corso di diritto internazionale* (1923), p. 40을 참조하라. 이를 ‘국가들은 자신들이 관습적으로 행위해 온 대로 행위해야 한다’는 식으로 대체하려는 논의는 Kelsen, *General Theory*, p. 369, 그리고 *Principles of International Law*, p. 418을 참조하라. 이에 대한 중요한 비판적 논의는 Gihl, *International Legislation* (1937) 및 *Scandinavian Studies in Law* (1957), pp. 62 ff.에 있다. 국제법에 기초규범이 없다는 해석을 보다 충분히 전개한 논의로는 Ago, ‘Positive Law and International Law’, *51 American Journal of International Law* (1957), *Scienza giuridica e diritto internazionale* (1958)을 참조하라. Gihl은 국제사법재판소 규정 제38조에도 불구하고 국제법은 법의 형식적 원천들을 갖지 않는다고 결론짓는다. 국제법에 대해 하나의 ‘초기 가설(initial hypothesis)’을 정식화하려는 시도로서, 본문에서 제기된 것과 유사한 비판들에 열려 있는 것으로 보이는 견해는 Lauterpacht, *The Future of Law in the International Community*, pp. 420–3을 참조하라.
 
-*237쪽.* *국제법과 국내법 사이의 내용의 유비(analogy of content).* — 이에 대해서는 Campbell, 앞서 인용, *35 Grotius Society Proceedings* (1950), p. 121 *ad fin.*, 그리고 조약들, 영토취득, 시효, 임대, 위임통치, 지역권(servitudes) 등에 관한 규칙들을 논의한 Lauterpacht, *Private Law Sources and Analogies of International Law* (1927)을 참조하라.
+237쪽. *국제법과 국내법 사이의 내용의 유비(analogy of content).* — 이에 대해서는 Campbell, 앞서 인용, *35 Grotius Society Proceedings* (1950), p. 121 *ad fin.*, 그리고 조약들, 영토취득, 시효, 임대, 위임통치, 지역권(servitudes) 등에 관한 규칙들을 논의한 Lauterpacht, *Private Law Sources and Analogies of International Law* (1927)을 참조하라.
 
 ## 제10장 제3판 주석
 
-*220–226쪽.* *주권국가들과 국제법(Sovereign states and international law)* 주권(sovereignty)과 국제법의 제약들(constraints)의 양립가능성에 관해서는 Timothy Endicott, 「The Logic of Freedom and Power」, Samantha Besson 및 John Tasioulas 편, *The Philosophy of International Law* (Oxford University Press, 2010)을 참조하라. 국가 주권(state sovereignty)과 법의 지배(rule of law) 간의 관계에 대해서는 Jeremy Waldron, 「The Rule of International Law」, (2006) *Harvard Journal of Law and Public Policy* 제30권, 15쪽을 참조하라. 초국가적 권위(transnational authority)의 다양한 등장 형태들에 비추어 주권을 재해석하려는 시도들에 대해서는 Neil MacCormick, *Questioning Sovereignty*를 참조하라. 현대 세계에서 ‘주권적’ 국가들의 사실상의 권력(de facto power)에 대한 의문들에 대해서는 Saskia Sassen, *Losing Control? Sovereignty in an Age of Globalization* (Columbia University Press, 1996)을 참조하라.
+220–226쪽. *주권국가들과 국제법(Sovereign states and international law).* 주권(sovereignty)과 국제법의 제약들(constraints)의 양립가능성에 관해서는 Timothy Endicott, 「The Logic of Freedom and Power」, Samantha Besson 및 John Tasioulas 편, *The Philosophy of International Law* (Oxford University Press, 2010)을 참조하라. 국가 주권(state sovereignty)과 법의 지배(rule of law) 간의 관계에 대해서는 Jeremy Waldron, 「The Rule of International Law」, (2006) *Harvard Journal of Law and Public Policy* 제30권, 15쪽을 참조하라. 초국가적 권위(transnational authority)의 다양한 등장 형태들에 비추어 주권을 재해석하려는 시도들에 대해서는 Neil MacCormick, *Questioning Sovereignty*를 참조하라. 현대 세계에서 ‘주권적’ 국가들의 사실상의 권력(de facto power)에 대한 의문들에 대해서는 Saskia Sassen, *Losing Control? Sovereignty in an Age of Globalization* (Columbia University Press, 1996)을 참조하라.
 
-*227–232쪽.* *국제법과 도덕 (International law and morality)* 국제 영역에서 정의의 원칙들(principles of justice)의 적용에 대한 매우 영향력 있는 논의는 John Rawls, *The Law of Peoples* (Harvard University Press, 1999)을 참조하라. 또한 Allen Buchanan, *Justice, Legitimacy, and Self-Determination: Moral Foundations for International Law* (Oxford University Press, 2003)을 참조하라. 국가들이 오직 자국의 국익을 증진하기 위해서만 국제법을 준수하고(comply with), 또 준수해야 한다는 ‘현실주의(realist)’ 관점에 대해서는 Jack L. Goldsmith 및 Eric A. Posner, *The Limits of International Law* (Oxford University Press, 2005)를 참조하라.
+227–232쪽. *국제법과 도덕 (International law and morality).* 국제 영역에서 정의의 원칙들(principles of justice)의 적용에 대한 매우 영향력 있는 논의는 John Rawls, *The Law of Peoples* (Harvard University Press, 1999)을 참조하라. 또한 Allen Buchanan, *Justice, Legitimacy, and Self-Determination: Moral Foundations for International Law* (Oxford University Press, 2003)을 참조하라. 국가들이 오직 자국의 국익을 증진하기 위해서만 국제법을 준수하고(comply with), 또 준수해야 한다는 ‘현실주의(realist)’ 관점에 대해서는 Jack L. Goldsmith 및 Eric A. Posner, *The Limits of International Law* (Oxford University Press, 2005)를 참조하라.
 
-*232–237쪽.* *형식과 내용의 유비들 (Analogies of form and content)* Hart가 저술하던 시기에 비해 오늘날의 국제법은 더 체계화되었다는 시사에 대해서는 Samantha Besson 및 John Tasioulas가 편집한 *The Philosophy of International Law* 서문의 ‘Introduction’과 거기에서 인용된 원천들을 참조하라. 또한 Allen Buchanan 및 David Golove, 「Philosophy of International Law」 in Jules L. Coleman 및 Scott Shapiro 편, *The Oxford Handbook of Jurisprudence and Philosophy of Law*를 참조하라.
-
-## 제10장 각주
+232–237쪽. *형식과 내용의 유비들 (Analogies of form and content).* Hart가 저술하던 시기에 비해 오늘날의 국제법은 더 체계화되었다는 시사에 대해서는 Samantha Besson 및 John Tasioulas가 편집한 *The Philosophy of International Law* 서문의 ‘Introduction’과 거기에서 인용된 원천들을 참조하라. 또한 Allen Buchanan 및 David Golove, 「Philosophy of International Law」 in Jules L. Coleman 및 Scott Shapiro 편, *The Oxford Handbook of Jurisprudence and Philosophy of Law*를 참조하라.
 
 [^237-1]: *Principles of Morals and Legislation*, XVII. 25, n. 1.

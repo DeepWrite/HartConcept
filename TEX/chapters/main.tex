@@ -32,8 +32,8 @@
 \usepackage{etoolbox}
 \pretocmd{\section}{\clearpage}{}{}
 
-\usepackage{chngcntr}
-\counterwithin*{footnote}{section} % 섹션별 footnote 번호 새로 시작
+% Footnotes reset only at each chapter input below.
+% Do not reset by section/subsection: the Postscript must run 1--75.
 
 % 헤더와 푸터
 \usepackage{fancyhdr}
@@ -76,6 +76,7 @@
 \input{sections/01_1961_PREFACE.tex}
 \input{sections/02_1994_Editors_Note.tex}
 \input{sections/03_2012_Third_Preface.tex}
+\setcounter{footnote}{0}
 \input{sections/04_2012_INTRODUCTION.tex}
 
 \tableofcontents
@@ -86,16 +87,27 @@
 \cleardoublepage
 \markboth{}{}
 
+\setcounter{footnote}{0}
 \input{sections/chapter_1copy.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_2.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_3.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_4.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_5.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_6.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_7.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_8.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_9.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_10.tex}
+\setcounter{footnote}{0}
 \input{sections/chapter_11-POSTCSRIPT.tex}
 
 \clearpage
