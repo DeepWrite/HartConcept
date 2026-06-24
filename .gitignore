@@ -21,3 +21,8 @@ vendor/
 /archive/
 /qmd/
 /scripts/
+
+# Internal work logs and synchronization notes belong outside the public site.
+hart-translation-sync-diff-*.md
+qmd-transition-map-*.md
+*-syllabus-prep-*.md
