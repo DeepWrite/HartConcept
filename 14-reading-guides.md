@@ -29,7 +29,7 @@ has_children: true
 
 ## 제1장 읽기 자료
 
-- [제1장 번역문]({{ site.baseurl }}/book-translation/chapter_01/)
+- [제1장 번역문]({{ site.baseurl }}/book-translation/chapter_01)
 - [제1장 B5 PDF]({{ site.baseurl }}/TEX/hart-concept-ko-b5-chapter-1-2026-06-24.pdf)
 
 ## 공개 원칙

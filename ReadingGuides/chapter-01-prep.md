@@ -12,7 +12,7 @@ permalink: /reading-guides/chapter-01-prep/
 
 이 문서는 수업 전에 공개하는 준비용 자료다. 제1장의 결론을 대신 정리하지 않고, 학생들이 본문에서 확인해야 할 질문과 관찰 지점을 제시한다.
 
-- 번역문: [제1장 번역문]({{ site.baseurl }}/book-translation/chapter_01/)
+- 번역문: [제1장 번역문]({{ site.baseurl }}/book-translation/chapter_01)
 - 제1장 B5 PDF: [PDF 열기]({{ site.baseurl }}/TEX/hart-concept-ko-b5-chapter-1-2026-06-24.pdf)
 - 발표 후 비교용 전체 가이드는 수업 뒤에 공개한다.
 
