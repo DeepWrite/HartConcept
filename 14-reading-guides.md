@@ -25,7 +25,16 @@ has_children: true
 - [Hart 논변 분석 도구]({{ site.baseurl }}/reading-guides/argument-analysis-toolkit/)
 - [공통 용어 지도와 발표 전 질문]({{ site.baseurl }}/reading-guides/common-terms-and-questions/)
 - [조별 챕터 논변 분석 발표 템플릿]({{ site.baseurl }}/reading-guides/presentation-template/)
+- [조별 발표 장 선택 참고: 『법의 개념』 장별 위상과 후대 평가]({{ site.baseurl }}/reading-guides/chapter-reception-guide/)
 - [제1장 사전 가이드: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-prep/)
+
+## 조별 발표 장 선택 참고
+
+조별 챕터를 정할 때는 분량이나 익숙함만 보지 말고, 각 장이 책 전체에서 맡는
+역할과 후대 논쟁에서의 위상을 함께 확인하십시오. 특히 [『법의 개념』 장별 위상과
+후대 평가]({{ site.baseurl }}/reading-guides/chapter-reception-guide/)는 각 장이
+맞서는 압박, 후대 평가상 위치, 발표자가 잡을 초점을 한눈에 비교할 수 있도록
+정리한 자료입니다.
 
 ## 제1장 읽기 자료
 
