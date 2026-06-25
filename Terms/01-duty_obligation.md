@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 parent: 주요 용어와 핵심 개념
 permalink: /terms/01-duty_obligation
+nav_exclude: true
 ---
 
 H. L. A. 하트(H. L. A. Hart)의 법리학에서 *duty*, *obligation*, 그리고 *obliged to*는 서로 밀접하게 연결되지만 중요한 의미상 차이를 갖는 개념들입니다. 하트는 이러한 개념들을 엄밀히 구분함으로써, 법의 강제적 측면과 규범적(규칙 기반) 측면을 구분하고자 합니다.

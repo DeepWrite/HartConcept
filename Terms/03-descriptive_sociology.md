@@ -4,6 +4,7 @@ layout: home
 nav_order: 3
 parent: 주요 용어와 핵심 개념
 permalink: /terms/03-descriptive_sociology
+nav_exclude: true
 ---
 
 H. L. A. 하트(H. L. A. Hart)가 『법의 개념(The Concept of Law)』에서 말한 **descriptive sociology(기술적 사회학)**는 그의 법리학적 방법론의 핵심 중 하나로, 법의 본질을 분석하고 이해하는 데 있어 **법의 실제 작동방식과 사회적 기능**을 **기술(description)**하는 것을 목표로 합니다. 이는 전통적인 **규범적 철학(normative philosophy)** 또는 순수 **형식논리적 분석**과 구분되는 **방법론적 입장**을 보여줍니다.

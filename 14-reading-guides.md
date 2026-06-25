@@ -1,7 +1,7 @@
 ---
 title: 강독 사전 가이드
 layout: home
-nav_order: 14
+nav_order: 13
 permalink: /reading-guides/
 has_children: true
 ---
@@ -28,6 +28,11 @@ has_children: true
 - [조별 발표 장 선택 참고: 『법의 개념』 장별 위상과 후대 평가]({{ site.baseurl }}/reading-guides/chapter-reception-guide/)
 - [2026년 6월 여름계절학기 인쇄본 정오표]({{ site.baseurl }}/book-translation/errata-2026-summer/)
 - [제1장 사전 가이드: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-prep/)
+
+## 용어와 핵심 개념
+
+용어는 별도 암기 목록이 아니라 각 장의 논변을 읽기 위한 도구로 다룹니다.
+공통 용어는 [공통 용어 지도와 발표 전 질문]({{ site.baseurl }}/reading-guides/common-terms-and-questions/)에서 확인하고, 세부 개념은 장별 사전 가이드 안에서 해당 장의 문제 설정, 사례, 반론과 함께 확인하십시오.
 
 ## 조별 발표 장 선택 참고
 

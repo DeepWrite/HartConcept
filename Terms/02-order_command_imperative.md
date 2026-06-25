@@ -4,6 +4,7 @@ layout: home
 nav_order: 2
 parent: 주요 용어와 핵심 개념
 permalink: /terms/02-order_command_imperative
+nav_exclude: true
 ---
 
 H. L. A. 하트(H. L. A. Hart)의 법리학에서 *order*, *command*, *imperative*는 서로 밀접하게 연관되지만, **사회적 맥락, 규범성, 권위**에 따라 미묘하게 구분되는 개념들입니다. 하트는 특히 오스틴(Austin)의 명법 이론(imperative theory)에 대한 비판적 분석을 통해 이들 개념을 구조화하며, 법이 단순한 명령이나 명법이 아님을 강조합니다.

@@ -4,6 +4,7 @@ layout: home
 nav_order: 4
 parent: 주요 용어와 핵심 개념
 permalink: /terms/04-rule-skepticism
+nav_exclude: true
 ---
 
 # 규칙 회의주의와 법현실주의

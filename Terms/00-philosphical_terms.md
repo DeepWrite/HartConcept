@@ -4,6 +4,7 @@ layout: home
 nav_order: 0
 parent: 주요 용어와 핵심 개념
 permalink: /terms/00-philosphical_terms
+nav_exclude: true
 ---
 
 # 주요 철학/법철학 개념들
