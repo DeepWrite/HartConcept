@@ -104,7 +104,7 @@ permalink: /book-translation/chapter_05
 
 94쪽. *전법적 상태에서 법적 세계로의 이행(The step from the pre-legal into the legal world).* 이 주제에 대해서는 Baier, 「Law and Custom」, *The Moral Point of View*, 127–133쪽 참조.
 
-94쪽. *승인 규칙(rule of recognition).* 법체계 내에서 이 요소가 갖는 역할과 Kelsen의 기초규범(*Grundnorm*)과의 관계에 대해서는 제6장 제1절 및 제10장 제5절과 그에 대한 주석 참조.
+94쪽. *승인 규칙(rule of recognition).* 법체계 내에서 이 요소가 갖는 역할과 Kelsen의 근본규범(*Grundnorm*)과의 관계에 대해서는 제6장 제1절 및 제10장 제5절과 그에 대한 주석 참조.
 
 95쪽. *규칙들의 권위 있는 문헌들(authoritative texts of rules).* 전해지는 바에 따르면, 로마에서는 평민(Plebeians)이 법의 권위 있는 문헌(authoritative text of the law) 공표를 요구한 결과, ‘12표법’이 시장 광장에 청동판으로 게시되었다고 한다. 이용 가능한 빈약한 증거로 보건대, 이 12표법은 전통적 관습 규칙들에서 크게 벗어나지는 않았던 것으로 보인다.
 
