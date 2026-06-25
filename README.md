@@ -39,10 +39,10 @@ Treat TeX/B5 files in this repo as legacy or released build artifacts. Current
 B5 production work belongs outside this public site repo until a release
 decision is made.
 
-The file `TEX/hart-concept-ko-b5-latest-2026-06-24.pdf` is the locked
-`2026년 6월 여름계절학기 인쇄본`. Do not overwrite it as a later corrected
-edition; publish later corrections through source-library and the public errata
-page.
+The locked `2026년 6월 여름계절학기 인쇄본` is recorded in source-library's
+print-lock baseline, not published from this site repo. Do not restore the B5
+PDFs here; publish later corrections through source-library and the public
+errata page.
 
 ## 2026 Summer Deadlines
 
