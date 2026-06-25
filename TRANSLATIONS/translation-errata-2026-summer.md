@@ -12,7 +12,7 @@ permalink: /book-translation/errata-2026-summer/
 
 이 페이지는 이미 배포된 `2026년 6월 여름계절학기 인쇄본`에 대한 지속 갱신 정오표입니다. 인쇄본 자체는 판 기록으로 고정하며, 이후 교정 사항은 이 페이지와 온라인 번역문에 반영합니다.
 
-- 적용 대상: [B5 인쇄본 PDF]({{ site.baseurl }}/TEX/hart-concept-ko-b5-latest-2026-06-24.pdf)
+- 적용 대상: 2026년 6월 여름계절학기 인쇄 배포본
 - 판 기록: `hart-concept-ko-b5-latest-2026-06-24.pdf`, 2026-06-24 생성본
 - 기준선: source-library `exports/teaching/hart-concept-2026-summer/print-lock/source-md/`
 - 운영 원칙: 인쇄본은 수정하지 않고, 온라인 번역문과 이 정오표를 갱신합니다.

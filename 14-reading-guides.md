@@ -28,6 +28,7 @@ has_children: true
 - [조별 발표 장 선택 참고: 『법의 개념』 장별 위상과 후대 평가]({{ site.baseurl }}/reading-guides/chapter-reception-guide/)
 - [2026년 6월 여름계절학기 인쇄본 정오표]({{ site.baseurl }}/book-translation/errata-2026-summer/)
 - [제1장 사전 가이드: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-prep/)
+- [제2장 사전 가이드: Laws, Commands, and Orders]({{ site.baseurl }}/reading-guides/chapter-02-prep/)
 
 ## 용어와 핵심 개념
 
@@ -45,7 +46,10 @@ has_children: true
 ## 제1장 읽기 자료
 
 - [제1장 번역문]({{ site.baseurl }}/book-translation/chapter_01)
-- [제1장 B5 PDF]({{ site.baseurl }}/TEX/hart-concept-ko-b5-chapter-1-2026-06-24.pdf)
+
+## 제2장 읽기 자료
+
+- [제2장 번역문]({{ site.baseurl }}/book-translation/chapter_02)
 
 ## 공개 원칙
 
