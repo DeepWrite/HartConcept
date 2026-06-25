@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536">
+<defs>
+<style><![CDATA[
+
+  @font-face { font-family: 'KoPubWorldBatangBold'; src: url('file:///Users/jeyounson/Library/Fonts/KoPubWorld Batang Bold.ttf') format('truetype'); }
+  @font-face { font-family: 'KoPubWorldBatangMedium'; src: url('file:///Users/jeyounson/Library/Fonts/KoPubWorld Batang Medium.ttf') format('truetype'); }
+  @font-face { font-family: 'KoPubWorldDotumMedium'; src: url('file:///Users/jeyounson/Library/Fonts/KoPubWorld Dotum Medium.ttf') format('truetype'); }
+
+text { dominant-baseline: hanging; font-kerning: normal; letter-spacing: 0; text-rendering: geometricPrecision; }
+]]></style>
+</defs>
+<rect x="78" y="87" width="5" height="238" rx="2" fill="rgb(76,88,80)" opacity="0.882"/>
+<text x="100" y="86" font-family="KoPubWorldDotumMedium" font-size="21" fill="rgb(76,88,80)" opacity="1.000">2026 SUMMER</text>
+<text x="96" y="118" font-family="KoPubWorldBatangBold" font-size="84" fill="rgb(15,17,16)" opacity="1.000">법의 개념</text>
+<text x="100" y="220" font-family="KoPubWorldBatangMedium" font-size="29" fill="rgb(24,27,25)" opacity="0.980">The Concept of Law</text>
+<text x="100" y="263" font-family="KoPubWorldBatangMedium" font-size="25" fill="rgb(30,33,31)" opacity="0.965">H. L. A. Hart</text>
+<text x="100" y="299" font-family="KoPubWorldDotumMedium" font-size="20" fill="rgb(58,66,60)" opacity="0.961">제3판 한국어판 · 강의용</text>
+</svg>

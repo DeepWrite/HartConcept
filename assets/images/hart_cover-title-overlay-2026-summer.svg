@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536">
+  <defs>
+    <style><![CDATA[
+      @font-face { font-family: 'KoPubWorld Batang Overlay Bold'; src: url('file:///Users/jeyounson/Library/Fonts/KoPubWorld Batang Bold.ttf') format('truetype'); }
+    ]]></style>
+    <style><![CDATA[
+      @font-face { font-family: 'KoPubWorld Batang Overlay Medium'; src: url('file:///Users/jeyounson/Library/Fonts/KoPubWorld Batang Medium.ttf') format('truetype'); }
+    ]]></style>
+    <style><![CDATA[
+      @font-face { font-family: 'KoPubWorld Dotum Overlay Medium'; src: url('file:///Users/jeyounson/Library/Fonts/KoPubWorld Dotum Medium.ttf') format('truetype'); }
+    ]]></style>
+  </defs>
+  <text x="88" y="108" font-family="KoPubWorld Batang Overlay Bold" font-size="82" fill="rgb(24,25,24)" fill-opacity="0.9333">법의 개념</text>
+  <text x="88" y="233" font-family="KoPubWorld Batang Overlay Medium" font-size="27" fill="rgb(42,42,40)" fill-opacity="0.8627">The Concept of Law</text>
+  <text x="88" y="280" font-family="KoPubWorld Dotum Overlay Medium" font-size="27" fill="rgb(54,69,64)" fill-opacity="0.8627">제3판 · 2026 SUMMER 강의용 한국어판</text>
+  <line x1="88" y1="355" x2="528" y2="355" stroke="rgb(70,92,84)" stroke-opacity="0.5882" stroke-width="2"/>
+</svg>
