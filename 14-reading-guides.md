@@ -26,6 +26,7 @@ has_children: true
 - [공통 용어 지도와 발표 전 질문]({{ site.baseurl }}/reading-guides/common-terms-and-questions/)
 - [조별 챕터 논변 분석 발표 템플릿]({{ site.baseurl }}/reading-guides/presentation-template/)
 - [조별 발표 장 선택 참고: 『법의 개념』 장별 위상과 후대 평가]({{ site.baseurl }}/reading-guides/chapter-reception-guide/)
+- [장별 발표 조편성 결과]({{ site.baseurl }}/reading-guides/chapter-presentation-groups/)
 - [2026년 6월 여름계절학기 인쇄본 정오표]({{ site.baseurl }}/book-translation/errata-2026-summer/)
 - [제1장 사전 가이드: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-prep/)
 - [제2장 사전 가이드: Laws, Commands, and Orders]({{ site.baseurl }}/reading-guides/chapter-02-prep/)
@@ -42,6 +43,8 @@ has_children: true
 후대 평가]({{ site.baseurl }}/reading-guides/chapter-reception-guide/)는 각 장이
 맞서는 압박, 후대 평가상 위치, 발표자가 잡을 초점을 한눈에 비교할 수 있도록
 정리한 자료입니다.
+
+확정된 담당 장과 발표 조원은 [장별 발표 조편성 결과]({{ site.baseurl }}/reading-guides/chapter-presentation-groups/)에서 확인하십시오.
 
 ## 제1장 읽기 자료
 
