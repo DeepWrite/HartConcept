@@ -30,6 +30,14 @@ has_children: true
 - [2026년 6월 여름계절학기 인쇄본 정오표]({{ site.baseurl }}/book-translation/errata-2026-summer/)
 - [제1장 사전 가이드: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-prep/)
 - [제2장 사전 가이드: Laws, Commands, and Orders]({{ site.baseurl }}/reading-guides/chapter-02-prep/)
+- [제3장 사전 가이드: The Variety of Laws]({{ site.baseurl }}/reading-guides/chapter-03-prep/)
+- [제4장 사전 가이드: Sovereign and Subject]({{ site.baseurl }}/reading-guides/chapter-04-prep/)
+- [제5장 사전 가이드: Law as the Union of Primary and Secondary Rules]({{ site.baseurl }}/reading-guides/chapter-05-prep/)
+- [제6장 사전 가이드: The Foundations of a Legal System]({{ site.baseurl }}/reading-guides/chapter-06-prep/)
+- [제7장 사전 가이드: Formalism and Rule-Scepticism]({{ site.baseurl }}/reading-guides/chapter-07-prep/)
+- [제8장 사전 가이드: Justice and Morality]({{ site.baseurl }}/reading-guides/chapter-08-prep/)
+- [제9장 사전 가이드: Laws and Morals]({{ site.baseurl }}/reading-guides/chapter-09-prep/)
+- [제10장 사전 가이드: International Law]({{ site.baseurl }}/reading-guides/chapter-10-prep/)
 
 ## 용어와 핵심 개념
 
@@ -56,4 +64,4 @@ has_children: true
 
 ## 공개 원칙
 
-공통 도구와 공통 용어 자료는 상시 공개합니다. 장별 사전 가이드는 해당 장 수업 전에 순차적으로 공개하고, 완성형 장별 논변 가이드와 모범 발표문은 발표와 토론 뒤에 복습용으로 공개합니다.
+공통 도구와 공통 용어 자료는 상시 공개합니다. 조별 발표 준비를 위해 제1장부터 제10장까지의 장별 사전 가이드를 함께 공개합니다.
