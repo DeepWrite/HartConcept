@@ -24,6 +24,23 @@ private workflow records do not belong in this public course-site repo. Keep
 them in the private work/master layer and copy only finished class-facing
 snapshots into `HartConcept`.
 
+## Repeat Offering Publication Tiers
+
+This site is designed to survive repeated offerings of the Hart course, not only
+the 2026 summer section. Class materials should therefore be separated by public
+function before publication.
+
+| Tier | Examples | Rule |
+| --- | --- | --- |
+| Always-public reading tools | argument-analysis toolkit, common terms, presentation template, chapter pre-guides that do not give answers | May stay public across offerings. Keep them as reading lenses, not answer keys. |
+| Current-course public records | section syllabus, AI policy, group assignments, print errata for a named course edition | Publish only when useful for the current course window. Archive or hide from navigation before the next offering if the record is section-specific. |
+| Post-class public review | model presentations, completed argument guides, anonymized representative questions and reading corrections | Release only after the relevant class or presentation has occurred. Do not expose them as pre-class aids for future students unless deliberately reclassified. |
+| Enrolled-only or internal materials | name-bearing student questions, classroom response notes, lecture transcript intake, grading-sensitive diagnosis | Do not publish on GitHub Pages as-is. Use source-library for internal records and eTL or another access-controlled surface for enrolled-student-only release. |
+
+Student question responses may become public only after names and evaluation
+traces are removed and the material is rewritten as thematic representative
+questions. Raw or name-bearing versions belong in `source-library`.
+
 ## Legacy Surfaces
 
 - Generated B5 / TeX translation layer:
