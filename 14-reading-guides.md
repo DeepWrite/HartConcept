@@ -29,6 +29,7 @@ has_children: true
 - [장별 발표 조편성 결과]({{ site.baseurl }}/reading-guides/chapter-presentation-groups/)
 - [2026년 6월 여름계절학기 인쇄본 정오표]({{ site.baseurl }}/book-translation/errata-2026-summer/)
 - [제1장 사전 가이드: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-prep/)
+- [제1장 모범 발표문: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-model-presentation/)
 - [제2장 사전 가이드: Laws, Commands, and Orders]({{ site.baseurl }}/reading-guides/chapter-02-prep/)
 - [제3장 사전 가이드: The Variety of Laws]({{ site.baseurl }}/reading-guides/chapter-03-prep/)
 - [제4장 사전 가이드: Sovereign and Subject]({{ site.baseurl }}/reading-guides/chapter-04-prep/)
