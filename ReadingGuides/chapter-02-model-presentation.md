@@ -8,7 +8,7 @@ permalink: /reading-guides/chapter-02-model-presentation/
 
 # 제2장 모범 발표문. 법들, 사령들, 그리고 명령들
 
-관련 공개 자료:
+관련 자료:
 
 - 번역문: [제2장 번역문]({{ site.baseurl }}/book-translation/chapter_02)
 - 사전 가이드: [제2장 사전 가이드]({{ site.baseurl }}/reading-guides/chapter-02-prep/)
