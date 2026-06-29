@@ -50,6 +50,7 @@ has_children: true
 이 자료들은 해당 장 강독 또는 발표 이후에 참고하는 자료입니다. 다음 개설 때에는 사전 공개 자료가 아니라 사후 복습 자료로 다룹니다.
 
 - [제1장 모범 발표문: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-model-presentation/)
+- [제2장 모범 발표문: Laws, Commands, and Orders]({{ site.baseurl }}/reading-guides/chapter-02-model-presentation/)
 
 ## 용어와 핵심 개념
 
