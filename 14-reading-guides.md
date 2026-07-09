@@ -40,6 +40,10 @@ has_children: true
 - [제9장 사전 가이드: Laws and Morals]({{ site.baseurl }}/reading-guides/chapter-09-prep/)
 - [제10장 사전 가이드: International Law]({{ site.baseurl }}/reading-guides/chapter-10-prep/)
 
+## Postscript 전환 독서
+
+- [Dworkin·Raz 비판 사전 가이드]({{ site.baseurl }}/reading-guides/hart-critics-prep/)
+
 ## 2026년 여름계절학기 운영 자료
 
 - [장별 발표 조편성 결과]({{ site.baseurl }}/reading-guides/chapter-presentation-groups/)

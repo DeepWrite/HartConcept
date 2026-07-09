@@ -168,9 +168,9 @@ H. L. A. Hart의 『법의 개념』은 20세기 법철학의 고전으로, 법�
 
 - H. L. A. Hart, 『법의 개념』 (오병선 옮김, 아카넷)
 - Lon. L. Fuller, 『법의 도덕성』 (박은정 옮김, 서울대학교출판문화원)
-- Ronald Dworkin, 『법과 권리』(염수균 역, 한길사) 중 "규칙의 모델 I", "규칙의 모델 II", "난해한 사안" 등.
-- Ronald Dworkin, 『법의 제국』(장영민 역, 아카넷) (발췌)
-- Joseph Raz, “THE CONCEPT OF A LEGAL SYSTEM,” 2nd ed. (Oxford, 1980) (발췌)
+- Ronald Dworkin, *Taking Rights Seriously* 중 “The Model of Rules I,” “The Model of Rules II,” “Hard Cases” (발췌, 강좌 새번역 제공).
+- Ronald Dworkin, *Law's Empire* 중 “Semantic Theories of Law,” “The Semantic Sting” (발췌, 강좌 새번역 제공).
+- Joseph Raz, “Legal Principles and the Limits of Law”; “Authority, Law and Morality” (발췌, 강좌 새번역 제공).
 - 한국 주요 헌법 조문 및 판례 (사례) 
 
 ---
