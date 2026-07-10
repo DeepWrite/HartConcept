@@ -4,7 +4,10 @@ title: 개설 강좌별 제출 과제 열람
 layout: home
 nav_order: 11
 permalink: /works/
+nav_exclude: true
 ---
 
+# 개설 강좌별 제출 과제
 
-[2025-SUMMER반 제출 과제 열람하기](https://deepwrite.github.io/2025-S-000/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+과거 강좌의 실명 과제 링크는 공개 목적과 당사자 동의를 다시 확인하기 전에는 제공하지 않습니다.
+현재 강좌의 제출물은 eTL에서만 열람합니다.

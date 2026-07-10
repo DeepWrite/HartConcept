@@ -1,43 +1,54 @@
 ---
 title: Hart의 법의 개념 읽기
 layout: home
-description: "하트, 법의 개념 강좌 홈페이지입니다."
+description: "2026 여름계절학기 하트 『법의 개념』 강독강좌 홈페이지"
 nav_order: 1
 permalink: /
 ---
 
-<br>
+# 하트 『법의 개념』 강독
 
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh; padding: 2rem;">
-  <div style="max-width: 800px; font-family: 'KoPub Batang', 'KoPub Batang Medium', 'Nanum Myeongjo', serif; position: relative;">
-    <div style="font-size: 2.8rem; line-height: 1; color: #aaa; position: absolute; left: -0.7rem; top: -1rem;">❝</div>
-    <div style="margin: 0; font-style: normal; font-size: 1.15rem; line-height: 1.8; color: #222;">
-      <br>다른 중요한 책들과 마찬가지로, 하트의 책도 실제로 읽은 것보다는 풍문을 통해 알려진 경우가 많다. … 그들이 들은 바에 따르면, 하트는 다음과 같은 생각을 가진 사람처럼 보인다:
-      <br><br>
+2026 여름계절학기 「고전에 길을 묻다」 제002강좌의 공개 읽기 표면입니다.
+수업 운영기간은 **2026년 6월 24일부터 7월 27일까지**입니다.
 
-      <span style="font-size: 1rem;">
-        법은 폐쇄적인 논리 체계인가?<br>
-        법은 다른 사회질서가 가진 결함을 치유하는 하나의 사회적 성취인가?<br>
-        법은 대체로 명확하며, 법원은 도덕적 가치와 무관하게 이를 적용해야 하는가?<br>
-        법과 도덕은 개념적으로 구분되며, 반드시 분리되어야 하는가?<br>
-        법철학은 가치로부터 자유롭고, ‘법(law)’과 같은 단어들의 진정한 의미를 탐구함으로써 그 진리를 밝힐 수 있는 학문인가?
-      </span>
+## 지금 확인할 것
 
-      <br><br>
-      이 모든 질문에 대한 간단한 대답은  
-      <strong style="font-weight: bold; font-size: 1.2rem; color: #c0392b;">“아니다.”</strong>  
-      하트는 그런 생각을 갖고 있지 않다.
-    </div>
-    <div style="margin-top: 1.5rem; font-size: 0.95rem; text-align: right; color: #555;">
-      — Leslie Green, <em>하트의 『법의 개념』 2012년 제3판 서론 중에서</em>
-    </div>
-  </div>
-</div>
+| 구분 | 바로 가기 |
+| --- | --- |
+| 읽을 본문 | [본문·번역·정오표]({{ site.baseurl }}/texts/) |
+| 장별 준비 | [강독 사전 가이드]({{ site.baseurl }}/reading-guides/) |
+| 발표와 토론 | [토론·발표]({{ site.baseurl }}/discussion/) |
+| 비판 수업 | [Dworkin·Raz와 Postscript]({{ site.baseurl }}/critics-postscript/) |
+| 선택 심화 | [쟁점별 심화 읽기]({{ site.baseurl }}/references/) |
 
-<br>
+과제 제출, 토론 질문, 수강생 한정 원문·번역 발췌는
+[SNU eTL](https://etl.snu.ac.kr)을 기준으로 확인하십시오.
 
-<img src="{{site.baseurl}}/assets/images/everybody2.png" width="100%" height="auto">
+## 현재 읽기 경로
 
-<br>
+1. 제8장부터 제10장까지 법과 정의·도덕·국제법의 문제를 읽습니다.
+2. 드워킨과 라즈가 하트의 승인 규칙·원칙·재량·원천 이론을 어떻게 압박하는지 확인합니다.
+3. *Postscript*에서 하트가 무엇을 수용하고 무엇을 거부하거나 수정하는지 대조합니다.
 
+이 경로의 공통 필독과 조별 보충 범위는
+[Dworkin·Raz와 Postscript]({{ site.baseurl }}/critics-postscript/)에서 확인할 수 있습니다.
 
+## 고정 안내
+
+- 하트 원문·번역문을 포함한 강독 대상 자료의 분석에 생성형 AI를 사용하는 것은 금지됩니다. [생성형 AI 활용 정책]({{ site.baseurl }}/ai-policy/)
+- 인쇄 배포본은 고정되어 있으며 이후 수정은 온라인 번역문과 [2026 여름 인쇄본 정오표]({{ site.baseurl }}/book-translation/errata-2026-summer/)에 반영됩니다.
+- 학생별 질문, 오독 진단, 성적 관련 기록과 실명 과제는 공개 홈페이지에 게시하지 않습니다.
+
+## 홈페이지의 역할
+
+이 홈페이지는 수업 전 읽기 방향, 공개 가능한 강의자료, 정오표와 사후 복습 경로를 제공합니다.
+제출·평가·학생별 피드백과 저작권 있는 수업용 발췌는 eTL 등 접근이 통제된 표면에서 다룹니다.
+
+<details>
+<summary>이 강좌가 경계하는 하트에 관한 풍문</summary>
+
+Leslie Green은 하트가 법을 폐쇄적인 논리 체계로 보거나, 법과 도덕의 기계적 분리를 주장하거나,
+법철학을 단어 뜻의 탐구로 환원한 사상가가 아니라고 강조한다. 이 강좌는 그 평가를 풍문이 아니라
+『법의 개념』의 실제 논증을 읽어 검토한다.
+
+</details>

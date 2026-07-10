@@ -3,9 +3,12 @@ title: 강의자료-번역
 layout: home
 nav_order: 9
 permalink: /book-translation/
+nav_exclude: true
 ---
 
 # 강의자료-번역
+
+장별 번역문과 원문, 사전 가이드는 [본문·번역·정오표]({{ site.baseurl }}/texts/)에서 함께 확인하십시오.
 
 ## 2026년 6월 여름계절학기 인쇄본
 

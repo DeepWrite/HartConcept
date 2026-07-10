@@ -3,6 +3,7 @@ title: 생성형 AI 활용 정책
 layout: home
 nav_order: 15
 permalink: /ai-policy/
+nav_exclude: true
 ---
 
 # 생성형 AI 활용 관련 공지

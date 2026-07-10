@@ -1,11 +1,17 @@
 ---
-title: 강의계획서
+title: 강좌 안내
 layout: home
-nav_order: 3
+nav_order: 2
 permalink: /syllabus/
 ---
 
 # 독서세미나 - 고전에 길을 묻다: 허버트 하트 『법의 개념』
+
+> 2026 여름계절학기 제002강좌 · 운영기간 2026년 6월 24일-7월 27일
+
+이 페이지는 공개 강좌 안내입니다. 과제 제출, 토론 질문, 원문 발췌와 학생별 안내는
+[SNU eTL](https://etl.snu.ac.kr)을 기준으로 확인하십시오. 강독 대상 자료의 생성형 AI 활용 기준은
+[생성형 AI 활용 정책]({{ site.baseurl }}/ai-policy/)에 따릅니다.
 
 ## 1. 도서
 

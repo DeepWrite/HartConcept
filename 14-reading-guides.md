@@ -1,7 +1,7 @@
 ---
 title: 강독 사전 가이드
 layout: home
-nav_order: 13
+nav_order: 4
 permalink: /reading-guides/
 has_children: true
 ---
@@ -42,7 +42,9 @@ has_children: true
 
 ## Postscript 전환 독서
 
+- [Dworkin·Raz와 Postscript 전체 수업 경로]({{ site.baseurl }}/critics-postscript/)
 - [Dworkin·Raz 비판 사전 가이드]({{ site.baseurl }}/reading-guides/hart-critics-prep/)
+- [Postscript 사전 가이드: 비판과 응답의 교차 독해]({{ site.baseurl }}/reading-guides/chapter-11-postscript-prep/)
 
 ## 2026년 여름계절학기 운영 자료
 

@@ -3,7 +3,20 @@
 <!-- Object.defineProperty로 lunr가 window에 할당되는 순간을 가로채어 trimmer를 교체합니다. -->
 <script>
 (function () {
-  var _lunr;
+  var _lunr = window.lunr;
+  var koreanTrimmer = function (token) {
+    return token.update(function (s) {
+      return s
+        .replace(/^[^\w\uAC00-\uD7A3\u1100-\u11FF\u3130-\u318F]+/, '')
+        .replace(/[^\w\uAC00-\uD7A3\u1100-\u11FF\u3130-\u318F]+$/, '');
+    });
+  };
+  var installKoreanTrimmer = function (value) {
+    if (!value || !value.Pipeline) return;
+    value.Pipeline.registerFunction(koreanTrimmer, 'trimmer');
+    value.trimmer = koreanTrimmer;
+  };
+
   Object.defineProperty(window, 'lunr', {
     configurable: true,
     get: function () {
@@ -11,21 +24,12 @@
     },
     set: function (value) {
       _lunr = value;
-
-      // 기존 trimmer를 한글(Hangul) 문자를 보존하는 버전으로 교체
-      // 원래 \W 패턴은 ASCII 단어 문자만 인식하여 한글을 제거함
-      // 아래 패턴은 한글 음절(\uAC00-\uD7A3), 한글 자모(\u1100-\u11FF, \u3130-\u318F)를 보존
-      var koreanTrimmer = function (token) {
-        return token.update(function (s) {
-          return s
-            .replace(/^[^\w\uAC00-\uD7A3\u1100-\u11FF\u3130-\u318F]+/, '')
-            .replace(/[^\w\uAC00-\uD7A3\u1100-\u11FF\u3130-\u318F]+$/, '');
-        });
-      };
-
-      lunr.Pipeline.registerFunction(koreanTrimmer, 'trimmer');
-      _lunr.trimmer = koreanTrimmer;
+      installKoreanTrimmer(value);
     }
   });
+
+  /* 기존 trimmer는 ASCII 단어 문자만 인식하므로 한글 범위를 보존한다.
+     lunr가 먼저 로드된 경우와 나중에 할당되는 경우를 모두 처리한다. */
+  installKoreanTrimmer(_lunr);
 })();
 </script>

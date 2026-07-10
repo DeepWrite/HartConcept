@@ -12,6 +12,9 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - Lectures/
+  - 2025-07-25.md
+  - 2025-12-22.md
   - hart-translation-sync-diff-2026-06-07.md
   - hart-translation-sync-diff-2026-06-24.md
   - qmd-transition-map-2026-06-02.md
