@@ -9,7 +9,6 @@ permalink: /reading-guides/chapter-11-postscript-prep/
 # Postscript 발표 전 브리프
 
 이 페이지는 결론을 대신하는 요약본이 아니라, 후기에서 비판과 응답의 위치를 찾기 위한 사전 독해표다.
-원자명제·추론사슬·비판의 성패를 판정하는 완성형 분석은 Postscript 수업 뒤에 별도로 공개한다.
 
 ## 이 글이 맞서는 압박
 

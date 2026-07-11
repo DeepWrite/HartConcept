@@ -8,7 +8,7 @@ permalink: /reading-guides/chapter-01-model-presentation/
 
 # 제1장 모범 발표문. 지속되는 질문들
 
-관련 공개 자료:
+관련 자료:
 
 - 번역문: [제1장 번역문]({{ site.baseurl }}/book-translation/chapter_01)
 - 사전 가이드: [제1장 사전 가이드]({{ site.baseurl }}/reading-guides/chapter-01-prep/)

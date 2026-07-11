@@ -20,7 +20,7 @@ has_children: true
 - 기존 설명에 대한 하트의 비판
 - 하트 논변에 대한 가능한 반론
 
-## 항시 공개 가능한 읽기 도구
+## 읽기 도구
 
 - [Hart 논변 분석 도구]({{ site.baseurl }}/reading-guides/argument-analysis-toolkit/)
 - [공통 용어 지도와 발표 전 질문]({{ site.baseurl }}/reading-guides/common-terms-and-questions/)
@@ -55,7 +55,7 @@ has_children: true
 
 ## 수업 후 복습 자료
 
-이 자료들은 해당 장 강독 또는 발표 이후에 참고하는 자료입니다. 다음 개설 때에는 사전 공개 자료가 아니라 사후 복습 자료로 다룹니다.
+이 자료들은 해당 장 강독 또는 발표 이후에 복습할 때 참고하십시오.
 
 - [제1장 모범 발표문: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-model-presentation/)
 - [제2장 모범 발표문: Laws, Commands, and Orders]({{ site.baseurl }}/reading-guides/chapter-02-model-presentation/)
@@ -82,11 +82,3 @@ has_children: true
 ## 제2장 읽기 자료
 
 - [제2장 번역문]({{ site.baseurl }}/book-translation/chapter_02)
-
-## 공개하지 않는 자료
-
-학생별 이름이 포함된 토론 질문, 질문별 오독 진단, 강의 녹취 원문, 현장 강독 기록 원본은 이 공개 홈페이지에 그대로 게시하지 않습니다. 필요한 경우 수업 후 익명화된 대표 질문과 독해 교정 자료로 재작성하거나, 수강생 한정 자료는 eTL 등 접근통제 표면을 사용합니다.
-
-## 공개 원칙
-
-공통 도구와 공통 용어 자료, 그리고 정답을 대신하지 않는 장별 사전 가이드는 상시 공개할 수 있습니다. 특정 학기 운영 자료는 해당 학기 기록으로 관리하고, 모범 발표문·완성형 논변 가이드·대표 질문 대응은 해당 수업 또는 발표가 끝난 뒤 사후 복습 자료로 공개합니다.

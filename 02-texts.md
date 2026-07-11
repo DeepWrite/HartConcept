@@ -31,9 +31,7 @@ permalink: /texts/
 - [기존 번역 경로]({{ site.baseurl }}/book-translation/)
 - [기존 원문 경로]({{ site.baseurl }}/book-original/)
 
-영어 원문 표면은 2026 여름 강좌 운영기간의 임시 공개 자료입니다. 강좌 종료 뒤에는
-권리·출처·공개기간을 다시 심사합니다. Dworkin·Raz 등 추가 문헌의 원문과 새번역 발췌는
-이 공개 홈페이지가 아니라 eTL에서 제공합니다.
+Dworkin·Raz 등 추가 문헌의 원문과 한국어 발췌는 eTL에서 확인하십시오.
 
 ## 독해 원칙
 

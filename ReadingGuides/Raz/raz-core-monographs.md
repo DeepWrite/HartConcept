@@ -4,7 +4,6 @@ layout: home
 parent: 강독 사전 가이드
 nav_order: 15
 permalink: /reading-guides/raz-core-monographs/
-publication_status: public_ready
 ---
 
 # Raz 핵심 단행본 장별 지도
@@ -27,15 +26,6 @@ Legal System*은 법체계의 구조를, *Practical Reason and Norms*는 이유�
 System*](https://academic.oup.com/book/10825), [*Practical Reason and
 Norms*](https://academic.oup.com/book/9400), [*The Authority of
 Law*](https://academic.oup.com/book/10820) 서지면을 기준으로 확인합니다.
-
-## 자료 준비 상태
-
-- *The Concept of a Legal System*: 한국어 완역, B5 합본, 교수자 논변가이드 산출 완료
-- *Practical Reason and Norms*: 원문 편입·장 구분 단계이며 완역과 교수자 가이드는 미완성
-- *The Authority of Law*: 원문 편입·장 구분 단계이며 완역과 교수자 가이드는 미완성
-
-아래 장별 지도는 세 책의 독서 경로를 먼저 제시하기 위한 공개 파생 자료입니다.
-미완성 두 책에 번역본이나 논변가이드가 이미 존재한다는 뜻이 아닙니다.
 
 ## The Concept of a Legal System
 
@@ -114,11 +104,3 @@ Law*](https://academic.oup.com/book/10820) 서지면을 기준으로 확인합�
 - `법적 유효성`, `실효성`, `도덕적 타당성`은 서로 교환할 수 없습니다.
 - `reason`, `norm`, `rule`, `duty`, `obligation`, `authority`, `power`의 구별은
   장식적인 용어 문제가 아니라 추론의 전제입니다.
-
-## 자료 제공 원칙
-
-세 단행본의 전권 원문과 비공개 작업 자료는 저작권과 검토 상태 때문에 공개
-홈페이지에 게시하지 않습니다. 완성된 *The Concept of a Legal System*의 한국어
-완역과 B5 합본도 접근통제된 강좌·연구 표면에만 둡니다. 이 홈페이지에는 원문을
-대체하지 않는 장별 지도와, 원문·쪽수·번역어·논증 감사를 실제로 통과한 파생
-가이드만 단계적으로 공개합니다.

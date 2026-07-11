@@ -10,7 +10,7 @@ permalink: /references/
 이 페이지는 원문 파일 창고가 아니라, 『법의 개념』을 읽은 뒤 어떤 논쟁을 어떤 순서로 더 읽을지
 안내하는 선택 독서 지도입니다. 공통 필독은 [Dworkin·Raz와 Postscript]({{ site.baseurl }}/critics-postscript/)에서 확인합니다.
 
-## 자료 상태
+## 표시 안내
 
 | 표시 | 의미 |
 | --- | --- |
@@ -54,9 +54,3 @@ permalink: /references/
 - Ronald Dworkin, *Law's Empire*, “Skeptical Conceptions and Wicked Law,” “Grounds and Force of Law,” “Its Structure,” “Its Appeal,” pp. 102-120의 선별 대목. `조별 발제·eTL`
 - H. L. A. Hart, 『법의 개념』 제9장 및 *Postscript*. `공통 본문`
 - 쟁점: 도덕적으로 정당화할 수 없는 제도도 어떤 의미에서는 법으로 식별될 수 있는가?
-
-## 공개 원칙
-
-이 페이지에는 출판사 원문 전권이나 검산되지 않은 옛 번역을 게시하지 않습니다. 새번역은 영어 원문에서
-독립적으로 작성하고 각주까지 포함해 동결한 뒤 기존 한국어 번역과 검산합니다. 공개 가능한 논변 가이드는
-출처·쪽수·번역어 감사를 마치고 해당 수업이 끝난 뒤에만 연결합니다.
