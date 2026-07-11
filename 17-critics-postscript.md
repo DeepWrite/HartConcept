@@ -15,11 +15,14 @@ permalink: /critics-postscript/
 1. Ronald Dworkin, *Taking Rights Seriously*, ch. 2, pp. 22-31, 39-45.
 2. Joseph Raz, “Authority, Law and Morality,” pp. 295-296, 300-302, 315-320.
 
-영어 원문 약 28쪽이며, 독립적으로 새로 번역한 한국어 발췌와 원문은 eTL에서 제공합니다.
+영어 원문 약 28쪽입니다. 독립적으로 새로 번역하고 원문과 대조한 한국어 발췌 및 원문
+배포본이 준비되어 있으며, 파일은 eTL 등 접근통제된 강좌 표면에서 제공합니다.
 
 - [Dworkin·Raz 비판 사전 가이드]({{ site.baseurl }}/reading-guides/hart-critics-prep/)
 - [Postscript 사전 가이드]({{ site.baseurl }}/reading-guides/chapter-11-postscript-prep/)
 - [Postscript 번역문]({{ site.baseurl }}/book-translation/chapter_11-POSTSCRIPT)
+- [Dworkin 핵심 단행본 장별 지도]({{ site.baseurl }}/reading-guides/dworkin-core-monographs/)
+- [Raz 핵심 단행본 장별 지도]({{ site.baseurl }}/reading-guides/raz-core-monographs/)
 
 ## 현재 범위의 충족도
 
@@ -38,13 +41,23 @@ permalink: /critics-postscript/
 | --- | --- | --- |
 | 1 | 드워킨, 「규칙의 모델 I」 pp. 14-22 | 하트식 법실증주의의 표적 정식화 |
 | 2 | `Discretion` pp. 31-39, `Hard Cases` pp. 81-86 | 재량·기존 권리·소급성 |
-| 3 | 「규칙의 모델 II」의 `Social Rules`와 마지막 하트 논쟁 | 규칙의 실천 이론 |
+| 3 | 「규칙의 모델 II」 pp. 48-64의 `Social Rules`와 마지막 하트 논쟁 | 규칙의 실천 이론 |
 | 4 | 『법의 제국』 pp. 31-46 | 의미론적 독침과 방법론 |
 | 5 | 라즈, 「Legal Principles and the Limits of Law」 pp. 842-854 | 원칙과 법의 한계 |
-| 6 | 『법의 제국』 pp. 102-120 선별 | 관행주의·악법·전해석적 법 |
+| 6 | 『법의 제국』 pp. 102-120 | 관행주의·악법·전해석적 법 |
 
-각 조의 원문은 8-12쪽으로 경계를 고정하며, 각주를 포함한 새번역을 사용합니다. 조별 1쪽 브리프는
-비판 수업 뒤 전체 수강생에게 배포하고, *Postscript* 수업의 공통 교차지도로 사용합니다.
+각 조의 범위는 임의의 쪽수 상한보다 **하나의 논증 단위가 완결되는 절·쪽 경계**를 우선하여
+고정했습니다. 따라서 조별 원문 분량은 9-19면으로 다릅니다. 여섯 자료 모두 선택 범위의 원문
+각주 본문까지 포함한 독립 새번역과 원문 발췌본이 준비되어 있습니다. 조별 1쪽 브리프는 비판
+수업 뒤 전체 수강생에게 배포하고, *Postscript* 수업의 공통 교차지도로 사용합니다.
+
+## 자료 준비 상태
+
+- 공통 필독 2종: 원문 발췌, 독립 새번역, 논변분석 가이드 산출 완료
+- 조별 보충 독서 6종: 원문 발췌, 독립 새번역, 각주 대조, 조별 PDF 산출 완료
+- 조별 공통 산출물: 1쪽 브리프 작성 양식과 여섯 새번역 합본 준비 완료
+- 배포 원칙: 원문과 새번역 파일은 수강생 한정 표면에만 두고, 이 홈페이지에는 범위와 쟁점
+  지도만 공개
 
 ## 공개 순서
 
