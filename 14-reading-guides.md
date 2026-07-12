@@ -57,6 +57,7 @@ has_children: true
 
 이 자료들은 해당 장 강독 또는 발표 이후에 복습할 때 참고하십시오.
 
+- [제8장 비판적 읽기: 정의의 형태와 하트 이론의 재구성]({{ site.baseurl }}/reading-guides/chapter-08-critical-reading/)
 - [제1장 모범 발표문: Persistent Questions]({{ site.baseurl }}/reading-guides/chapter-01-model-presentation/)
 - [제2장 모범 발표문: Laws, Commands, and Orders]({{ site.baseurl }}/reading-guides/chapter-02-model-presentation/)
 
