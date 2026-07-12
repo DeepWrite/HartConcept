@@ -13,6 +13,10 @@ permalink: /reading-guides/chapter-08-critical-reading/
 [제8장 번역문]({{ site.baseurl }}/book-translation/chapter_08)을 확인한 뒤 읽는 것을
 전제로 한다.
 
+정의와 공정성의 관계, Hart와 Rawls 사이의 왕복 영향, 제8장의 정확한 학술사적
+기여는 [제8장 보충 읽기: 하트, 롤즈, 공정성]({{ site.baseurl }}/reading-guides/chapter-08-hart-rawls-fairness/)에서
+별도로 다룬다.
+
 이 글은 두 질문을 연결한다.
 
 1. 분배적 정의, 교정적 정의, 응보적 정의는 왜 모두 `정의`라는 이름 아래 놓이는가?
