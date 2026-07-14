@@ -77,4 +77,6 @@ permalink: /reading-guides/hart-critics-prep/
 두 단계의 순서를 뒤집지 않는다. 먼저 드워킨과 라즈가 어떤 추론으로 하트를 압박하는지 확인하고, 그다음 하트가 후기에서 그 비판을 정확히 재구성하는지 검토한다.
 
 공통 필독이 포괄하지 않는 규칙의 실천 이론, 의미론적 독침, 관행주의, 악법과 재량의 후속 논쟁은
-[Dworkin·Raz와 Postscript]({{ site.baseurl }}/critics-postscript/)의 조별 보충 독서에서 확인한다.
+[Dworkin·Raz 조별 보충 독서 가이드]({{ site.baseurl }}/reading-guides/hart-critics-divided/)에서
+담당 범위의 읽기 순서와 원문 확인 과제를 먼저 살핀 뒤,
+[Dworkin·Raz와 Postscript]({{ site.baseurl }}/critics-postscript/)의 전체 수업 경로와 연결한다.

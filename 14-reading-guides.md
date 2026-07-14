@@ -44,6 +44,7 @@ has_children: true
 
 - [Dworkin·Raz와 Postscript 전체 수업 경로]({{ site.baseurl }}/critics-postscript/)
 - [Dworkin·Raz 비판 사전 가이드]({{ site.baseurl }}/reading-guides/hart-critics-prep/)
+- [Dworkin·Raz 조별 보충 독서 가이드]({{ site.baseurl }}/reading-guides/hart-critics-divided/)
 - [Postscript 사전 가이드: 비판과 응답의 교차 독해]({{ site.baseurl }}/reading-guides/chapter-11-postscript-prep/)
 - [Dworkin 핵심 단행본 장별 지도]({{ site.baseurl }}/reading-guides/dworkin-core-monographs/)
 - [Raz 핵심 단행본 장별 지도]({{ site.baseurl }}/reading-guides/raz-core-monographs/)
