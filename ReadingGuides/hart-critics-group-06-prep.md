@@ -2,8 +2,7 @@
 title: "제6조: 악법과 관행주의"
 layout: home
 nav_order: 6
-parent: "Dworkin·Raz 조별 보충 독서"
-grand_parent: "강독 사전 가이드"
+nav_exclude: true
 permalink: /reading-guides/hart-critics-group-06/
 ---
 

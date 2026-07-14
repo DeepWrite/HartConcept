@@ -2,8 +2,7 @@
 title: "제3조: 사회규칙과 승인 규칙"
 layout: home
 nav_order: 3
-parent: "Dworkin·Raz 조별 보충 독서"
-grand_parent: "강독 사전 가이드"
+nav_exclude: true
 permalink: /reading-guides/hart-critics-group-03/
 ---
 

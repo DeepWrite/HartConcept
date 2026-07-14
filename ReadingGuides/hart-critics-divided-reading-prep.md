@@ -1,20 +1,20 @@
 ---
-title: "Dworkin·Raz 조별 보충 독서"
+title: "조별 독서"
 layout: home
-nav_order: 113
-parent: "강독 사전 가이드"
-has_children: true
+nav_order: 2
+parent: "Dworkin·Raz 비판 사전 가이드"
+grand_parent: "강독 사전 가이드"
 permalink: /reading-guides/hart-critics-divided/
 ---
 
 <!-- Generated from source-library by publish_critics_divided_prep_guides.py. -->
-# Dworkin·Raz 조별 독서 가이드
+# 조별 독서: Dworkin·Raz 보충 독서 가이드
 
 이 묶음은 공통 필독에서 빠진 논쟁 배경을 여섯 조가 나누어 읽기 위한 사전 안내다. 결론이나 완성된 논증 지도를 대신 제공하지 않고, 각 조가 원문에서 직접 확인해야 할 구별, 사례, 추론의 연결부를 표시한다.
 
 ## 먼저 읽을 공통 자료
 
-모든 수강생은 먼저 [Dworkin·Raz 비판 사전 가이드]({{ site.baseurl }}/reading-guides/hart-critics-prep/)의 공통 범위를 읽는다. 조별 독서는 공통 필독을 대체하지 않고, 공통 범위만으로 충분히 다루기 어려운 쟁점을 보충한다.
+모든 수강생은 먼저 [공통 독서 가이드]({{ site.baseurl }}/reading-guides/hart-critics-common/)의 필수 범위를 읽는다. 조별 독서는 공통 필독을 대체하지 않고, 공통 범위만으로 충분히 다루기 어려운 쟁점을 보충한다.
 
 영어 원문과 수업용 한국어 번역문은 eTL의 접근통제된 자료에서 확인한다. 이 홈페이지에는 읽기 범위와 독해 방향만 공개한다.
 

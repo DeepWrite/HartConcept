@@ -2,8 +2,7 @@
 title: "제1조: 법실증주의의 표적"
 layout: home
 nav_order: 1
-parent: "Dworkin·Raz 조별 보충 독서"
-grand_parent: "강독 사전 가이드"
+nav_exclude: true
 permalink: /reading-guides/hart-critics-group-01/
 ---
 

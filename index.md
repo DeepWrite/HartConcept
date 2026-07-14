@@ -20,6 +20,7 @@ permalink: /
 | 발표와 토론 | [토론·발표]({{ site.baseurl }}/discussion/) |
 | 비판 수업 | [Dworkin·Raz와 Postscript]({{ site.baseurl }}/critics-postscript/) |
 | 선택 심화 | [쟁점별 심화 읽기]({{ site.baseurl }}/references/) |
+| 기말 과제 | [소논문 과제 안내]({{ site.baseurl }}/final-paper/) |
 
 과제 제출, 토론 질문, 수강생 한정 원문·번역 발췌는
 [SNU eTL](https://etl.snu.ac.kr)을 기준으로 확인하십시오.

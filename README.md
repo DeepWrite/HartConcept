@@ -13,7 +13,7 @@ translation used during the course window.
   `TRANSLATIONS/translation-errata-2026-summer.md`
 - Course-facing Jekyll / Just the Docs pages:
   `_config.yml`, `index.md`, `03-syllabus.md`, `04-lectures.md`,
-  `05-assignments.md`, `15-ai-policy.md`, and related numbered markdown pages.
+  `05-assignments.md`, `15-ai-policy.md`, `19-final-paper.md`, and related numbered markdown pages.
 - Final public release snapshots:
   copied deliberately from `source-library` only after a release decision.
 

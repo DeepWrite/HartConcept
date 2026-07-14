@@ -17,8 +17,9 @@ permalink: /critics-postscript/
 
 영어 원문 약 28쪽이며, 원문과 한국어 발췌는 eTL에서 확인합니다.
 
-- [Dworkin·Raz 비판 사전 가이드]({{ site.baseurl }}/reading-guides/hart-critics-prep/)
-- [Dworkin·Raz 조별 보충 독서 가이드]({{ site.baseurl }}/reading-guides/hart-critics-divided/)
+- [Dworkin·Raz 비판 사전 가이드: 전체 읽기 순서]({{ site.baseurl }}/reading-guides/hart-critics-prep/)
+- [공통 독서 가이드]({{ site.baseurl }}/reading-guides/hart-critics-common/)
+- [조별 독서 가이드]({{ site.baseurl }}/reading-guides/hart-critics-divided/)
 - [Postscript 사전 가이드]({{ site.baseurl }}/reading-guides/chapter-11-postscript-prep/)
 - [Postscript 번역문]({{ site.baseurl }}/book-translation/chapter_11-POSTSCRIPT)
 - [Dworkin 핵심 단행본 장별 지도]({{ site.baseurl }}/reading-guides/dworkin-core-monographs/)
